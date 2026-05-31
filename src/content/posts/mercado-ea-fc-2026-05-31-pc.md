@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T19:48:02.000Z
+pubDatetime: 2026-05-31T21:27:58.000Z
 title: "Argentinos no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 24k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 28 em queda (média 2.94%)."
+    a: "Hoje o mercado está em mercado em alta — predominam as valorizações, com 15 cartas em alta contra 30 em queda (média 2.09%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **28 caíram**, com variação média de **2.94%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em alta** — predominam as valorizações: das cartas relevantes (80+ acima de 5k coins), **15 subiram** e **30 caíram**, com variação média de **2.09%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Estefanía Banini (89) **+52.9%** · 🔴 **Maior baixa:** Lionel Messi (88) **-35.4%**
 
@@ -37,7 +37,8 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Estefanía Banini | 89 | Liga F | 26k coins | +52.9% | +30% |
 | Lionel Messi | 90 | MLS | 5.70M coins | +50% | -5% |
 | Enzo Fernández | 91 | Premier League | 69k coins | +46.8% | +39.4% |
-| Gabriel Batistuta | 89 | Icons | 230k coins | +23% | -4.2% |
+| Carlos Tévez | 88 | Premier League | 38k coins | +23.2% | -12% |
+| Gabriel Batistuta | 89 | Icons | 235k coins | +17.5% | -1.3% |
 | Lionel Messi | 89 | MLS | 865k coins | +9.6% | +44.2% |
 | Carlos Tévez | 89 | Premier League | 452k coins | +9.4% | -2.8% |
 | Nicolás Otamendi | 86 | Liga Portugal | 65k coins | +8.3% | +40.5% |
@@ -62,10 +63,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 | Giovani Lo Celso | 90 | LALIGA EA SPORTS | 24k coins | -25% | -31.4% |
 | Martín Ojeda | 83 | MLS | 40k coins | -21% | -16% |
 | Emiliano Martínez | 88 | Premier League | 32k coins | -18.8% | -19.8% |
+| Javier Zanetti | 89 | Icons | 68k coins | -7.5% | 0% |
 | Lionel Messi | 87 | MLS | 777k coins | -7.4% | -33% |
 | Marcos Senesi | 88 | Premier League | 30k coins | -6.9% | +0.8% |
 | Julián Alvarez | 93 | LALIGA EA SPORTS | 727k coins | -5.3% | +23.4% |
-| Marcos Acuña | 89 | LPF | 30k coins | -3.2% | +19% |
+| Juan Román Riquelme | 88 | Icons | 66k coins | -5% | -7.6% |
 
 
 ### Análise das baixas
@@ -103,11 +105,13 @@ Lionel Messi (88), -35.4% em 24h, a 979k coins.
 Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 24k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em alta — predominam as valorizações, com 17 cartas em alta contra 28 em queda (média 2.94%).
+Hoje o mercado está em mercado em alta — predominam as valorizações, com 15 cartas em alta contra 30 em queda (média 2.09%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
+
+> 💡 Quer ver estes preços atualizando em tempo real, sem esperar o post de amanhã? O <a href="https://nfmarket.com.br" rel="sponsored noopener" target="_blank">NF Market</a> mostra cada carta ao vivo.
 
 ---
 
