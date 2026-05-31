@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:57.000Z
+pubDatetime: 2026-05-31T22:48:02.000Z
 title: "Jogadores baratos de Argentinos no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,15 +30,15 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Diego Milito | 88 | ST | Serie A TIM | 12k coins | +2.1% |
-| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2k coins | 0% |
+| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2k coins | -9.1% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | -4.2% |
 | Nico Gonzalez | 87 | RM | LALIGA EA SPORTS | 12k coins | -16.1% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | 0% |
 | Nahuel Molina | 87 | RB | LALIGA EA SPORTS | 12k coins | -16.1% |
 | Mauro Icardi | 87 | ST | Trendyol Süper Lig | 12k coins | -14.3% |
 | Santiago Castro | 87 | ST | Serie A TIM | 13k coins | +3.9% |
 | Nico Paz | 86 | CAM | Serie A TIM | 11k coins | -63.9% |
 | Mariano Troilo | 86 | CB | Serie A TIM | 11k coins | -19.6% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 15k coins | +5.3% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | -11.5% |
 | Paulo Gazzaniga | 85 | GK | LALIGA EA SPORTS | 11k coins | -62.1% |
 | Ignacio Russo | 84 | ST | LPF | 11k coins | -63.3% |
 | Rafael Profini | 84 | CDM | A-League Men | 11k coins | -61.1% |
@@ -50,11 +50,11 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Julián Alvarez (87, ST)** da LALIGA EA SPORTS, a apenas **2k coins**
-
-- **Nico Gonzalez (87, RM)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julián Alvarez (87, ST)** da LALIGA EA SPORTS, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
+
+- **Nico Gonzalez (87, RM)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Nahuel Molina (87, RB)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 

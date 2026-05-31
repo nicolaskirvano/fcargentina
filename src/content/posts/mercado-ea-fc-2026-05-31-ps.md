@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T21:27:57.000Z
+pubDatetime: 2026-05-31T22:48:01.000Z
 title: "Argentinos no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Enzo Fernández (91) — 95% de probabilidade de alta, a 38k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 21 cartas em alta contra 48 em queda (média -4.19%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 21 cartas em alta contra 48 em queda (média -3.57%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **21 subiram** e **48 caíram**, com variação média de **-4.19%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **21 subiram** e **48 caíram**, com variação média de **-3.57%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Valentín Barco (81) **+46.2%** · 🔴 **Maior baixa:** Enzo Fernández (91) **-29%**
 
@@ -35,6 +35,8 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Valentín Barco | 81 | Ligue 1 McDonald's | 29k coins | +46.2% | -2.5% |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 22k coins | +32.4% | +73.1% |
+| Gabriel Batistuta | 89 | Icons | 279k coins | +17.7% | +6.5% |
 | Giovani Lo Celso | 90 | LALIGA EA SPORTS | 20k coins | +12.7% | +5.3% |
 | Carlos Tévez | 89 | Premier League | 436k coins | +12.1% | +26.4% |
 | Gabriel Batistuta | 92 | Icons | 725k coins | +11.7% | -15% |
@@ -48,9 +50,9 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 
 - **Valentín Barco (81)** subiu **+46.2%** em 24h, a **29k coins** (faixa do dia: 18k–30k). Está em linha com a média de 7 dias (+6%). ⚠️ Mas o modelo projeta **reversão para queda** nas próximas 24h — pode ser topo.
 
-- **Giovani Lo Celso (90)** subiu **+12.7%** em 24h, a **20k coins** (faixa do dia: 17k–23k). Está em linha com a média de 7 dias (+6%). O modelo vê **estabilização** no curto prazo.
+- **Javier Mascherano (88)** subiu **+32.4%** em 24h, a **22k coins** (faixa do dia: 13k–22k). Está +55% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (95% de chance de subir mais).
 
-- **Carlos Tévez (89)** subiu **+12.1%** em 24h, a **436k coins** (faixa do dia: 342k–436k). Está +13% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Gabriel Batistuta (89)** subiu **+17.7%** em 24h, a **279k coins** (faixa do dia: 220k–279k). Está +9% acima da média de 7 dias (aquecida). 🔮 O modelo projeta **continuidade da alta** (80% de chance de subir mais).
 
 
 ## 🔴 Maiores baixas (24h)
@@ -86,7 +88,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | --- | --- | --- | --- | --- |
 | Enzo Fernández | 91 | 38k coins | 47k coins | 95% |
 | Julián Alvarez | 88 | 200k coins | 257k coins | 95% |
-| Javier Zanetti | 89 | 68k coins | 78k coins | 95% |
+| Javier Zanetti | 89 | 68k coins | 79k coins | 95% |
 | Hernán Crespo | 88 | 24k coins | 31k coins | 95% |
 | Pablo Aimar | 88 | 27k coins | 34k coins | 95% |
 | Carlos Tévez | 88 | 36k coins | 46k coins | 95% |
@@ -127,7 +129,7 @@ Enzo Fernández (91), -29% em 24h, a 38k coins.
 Pelo modelo FutQuant, Enzo Fernández (91) — 95% de probabilidade de alta, a 38k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 21 cartas em alta contra 48 em queda (média -4.19%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 21 cartas em alta contra 48 em queda (média -3.57%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
