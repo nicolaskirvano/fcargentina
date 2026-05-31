@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:40.000Z
+pubDatetime: 2026-05-31T19:48:02.000Z
 title: "Jogadores baratos de Argentinos no EA FC (31/05/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Estefanía Banini | 89 | CM | Liga F | 14k coins | -8.2% |
-| Lautaro Martínez | 88 | ST | Serie A TIM | 4k coins | +60.9% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -2.1% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +2.1% |
+| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2k coins | 0% |
 | Nico Gonzalez | 87 | RM | LALIGA EA SPORTS | 12k coins | -16.1% |
 | Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | 0% |
 | Nahuel Molina | 87 | RB | LALIGA EA SPORTS | 12k coins | -14.3% |
@@ -50,9 +50,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lautaro Martínez (88, ST)** da Serie A TIM, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
-
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+
+- **Julián Alvarez (87, ST)** da LALIGA EA SPORTS, a apenas **2k coins**
 
 - **Nico Gonzalez (87, RM)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T18:58:40.000Z
+pubDatetime: 2026-05-31T19:48:01.000Z
 title: "Argentinos no EA FC hoje (31/05/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Javier Zanetti (89) — 95% de probabilidade de alta, a 68k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 44 em queda (média -1.99%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 41 em queda (média -1.86%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **20 subiram** e **44 caíram**, com variação média de **-1.99%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **23 subiram** e **41 caíram**, com variação média de **-1.86%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Cristian Romero (86) **+59.1%** · 🔴 **Maior baixa:** Emiliano Martínez (88) **-28.6%**
 
@@ -64,11 +64,11 @@ Em **31/05/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** est�
 | Lionel Messi | 87 | MLS | 292k coins | -11.2% | -54.4% |
 | Hernán Crespo | 88 | Icons | 24k coins | -11.2% | -16.7% |
 | Juan Román Riquelme | 88 | Icons | 66k coins | -10.7% | -15.3% |
+| Carlos Tévez | 88 | Premier League | 36k coins | -9.4% | -19.4% |
 | Enzo Fernández | 91 | Premier League | 54k coins | -9.2% | +22.7% |
 | Paulo Dybala | 91 | Serie A TIM | 900k coins | -9.1% | +33.5% |
 | Aldana Cometti | 85 | D1 Arkema | 21k coins | -8.6% | -22% |
 | Lionel Messi | 89 | MLS | 299k coins | -7.4% | -34.9% |
-| Javier Zanetti | 89 | Icons | 68k coins | -6.2% | -18.6% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Hernán Crespo | 88 | 24k coins | 30k coins | 95% |
 | Enzo Fernández | 91 | 54k coins | 67k coins | 95% |
 | Pablo Aimar | 88 | 28k coins | 35k coins | 95% |
-| Carlos Tévez | 88 | 38k coins | 48k coins | 95% |
+| Carlos Tévez | 88 | 36k coins | 46k coins | 95% |
 | Julián Alvarez | 89 | 399k coins | 450k coins | 93% |
 | Cristian Romero | 86 | 52k coins | 59k coins | 93% |
 | Alejandro Garnacho | 89 | 165k coins | 182k coins | 84% |
@@ -127,7 +127,7 @@ Emiliano Martínez (88), -28.6% em 24h, a 30k coins.
 Pelo modelo FutQuant, Javier Zanetti (89) — 95% de probabilidade de alta, a 68k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 20 cartas em alta contra 44 em queda (média -1.99%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 41 em queda (média -1.86%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
