@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:48:02.000Z
+pubDatetime: 2026-06-01T13:48:02.000Z
 title: "Jogadores baratos de Argentinos no EA FC (01/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -36,7 +36,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Nahuel Molina | 87 | RB | LALIGA EA SPORTS | 11k coins | -21.4% |
 | Mauro Icardi | 87 | ST | Trendyol Süper Lig | 11k coins | -21.4% |
 | Nico Gonzalez | 87 | RM | LALIGA EA SPORTS | 11k coins | -21.4% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11k coins | -6.4% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11k coins | -2.2% |
 | Santiago Castro | 87 | ST | Serie A TIM | 13k coins | +3.9% |
 | Nico Paz | 86 | CAM | Serie A TIM | 11k coins | -69.3% |
 | Mariano Troilo | 86 | CB | Serie A TIM | 11k coins | -21.4% |

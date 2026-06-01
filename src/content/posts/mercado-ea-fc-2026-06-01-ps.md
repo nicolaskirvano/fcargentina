@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:48:01.000Z
+pubDatetime: 2026-06-01T13:48:01.000Z
 title: "Argentinos no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -19,14 +19,14 @@ faq:
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
     a: "Pelo modelo FutQuant, Julián Alvarez (88) — 95% de probabilidade de alta, a 236k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 37 em queda (média 0.53%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 38 em queda (média 0.53%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **23 subiram** e **37 caíram**, com variação média de **0.53%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **Console (PS)** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **22 subiram** e **38 caíram**, com variação média de **0.53%** nas últimas 24 horas. Mercado comprador — cuidado para não pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Emiliano Martínez (88) **+47.5%** · 🔴 **Maior baixa:** Julián Alvarez (89) **-25.5%**
 
@@ -87,7 +87,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
 | Julián Alvarez | 88 | 236k coins | 303k coins | 95% |
-| Javier Zanetti | 89 | 68k coins | 79k coins | 95% |
+| Javier Zanetti | 89 | 68k coins | 78k coins | 95% |
 | Enzo Fernández | 91 | 48k coins | 59k coins | 95% |
 | Carlos Tévez | 88 | 48k coins | 61k coins | 95% |
 | Hernán Crespo | 88 | 30k coins | 38k coins | 95% |
@@ -129,7 +129,7 @@ Julián Alvarez (89), -25.5% em 24h, a 298k coins.
 Pelo modelo FutQuant, Julián Alvarez (88) — 95% de probabilidade de alta, a 236k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 23 cartas em alta contra 37 em queda (média 0.53%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 22 cartas em alta contra 38 em queda (média 0.53%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

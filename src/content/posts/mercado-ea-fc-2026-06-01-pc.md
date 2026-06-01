@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:48:02.000Z
+pubDatetime: 2026-06-01T13:48:02.000Z
 title: "Argentinos no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,71 +13,68 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 01/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (01/06/2026)?"
-    a: "Aldana Cometti (85, D1 Arkema), com +30.7% em 24h, a 33k coins no PC."
+    a: "Hernán Crespo (88, Icons), com +42.4% em 24h, a 33k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Juan Foyth (85), -41.4% em 24h, a 39k coins."
+    a: "Gerónimo Rulli (87), -37.5% em 24h, a 45k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 20k coins."
+    a: "Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 36 em queda (média -0.95%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 35 em queda (média -1.61%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **36 caíram**, com variação média de **-0.95%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+Em **01/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **35 caíram**, com variação média de **-1.61%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
-> 🟢 **Maior alta:** Aldana Cometti (85) **+30.7%** · 🔴 **Maior baixa:** Juan Foyth (85) **-41.4%**
+> 🟢 **Maior alta:** Hernán Crespo (88) **+42.4%** · 🔴 **Maior baixa:** Gerónimo Rulli (87) **-37.5%**
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aldana Cometti | 85 | D1 Arkema | 33k coins | +30.7% | -22.4% |
-| Giovani Lo Celso | 90 | LALIGA EA SPORTS | 20k coins | +29% | -39.4% |
-| Diego Armando Maradona | 96 | Icons | 4.20M coins | +16.7% | 0% |
-| Julián Alvarez | 93 | LALIGA EA SPORTS | 792k coins | +8.9% | -11.1% |
-| Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +7.7% | +16.7% |
-| Valentín Barco | 81 | Ligue 1 McDonald's | 30k coins | +7.1% | 0% |
-| Lionel Messi | 88 | MLS | 1.80M coins | +5.9% | +22.4% |
+| Hernán Crespo | 88 | Icons | 33k coins | +42.4% | +5.6% |
+| Lionel Messi | 90 | MLS | 5.70M coins | +28.3% | -5% |
+| Julián Alvarez | 93 | LALIGA EA SPORTS | 799k coins | +22.7% | -27.4% |
+| Marcos Senesi | 88 | Premier League | 38k coins | +13.5% | +5.6% |
+| Nicolás Otamendi | 86 | Liga Portugal | 70k coins | +12.9% | +16.7% |
+| Nico Paz | 82 | Serie A TIM | 30k coins | +5.3% | -0.8% |
 | Juan Román Riquelme | 88 | Icons | 70k coins | +4.5% | -3.5% |
-| Paulo Dybala | 88 | Serie A TIM | 258k coins | +3.2% | -27.3% |
-| Diego Armando Maradona | 96 | Icons | 2.78M coins | +3.1% | -7.2% |
 
 
 ### Análise das altas
 
-- **Aldana Cometti (85)** subiu **+30.7%** em 24h, a **33k coins** (faixa do dia: 25k–36k). Está em linha com a média de 7 dias (-1%). O modelo vê **estabilização** no curto prazo.
+- **Hernán Crespo (88)** subiu **+42.4%** em 24h, a **33k coins** (faixa do dia: 15k–35k). Está +17% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Giovani Lo Celso (90)** subiu **+29%** em 24h, a **20k coins** (faixa do dia: 16k–27k). Está -33% abaixo da média de 7 dias (descontada). 🔮 O modelo projeta **continuidade da alta** (80% de chance de subir mais).
+- **Lionel Messi (90)** subiu **+28.3%** em 24h, a **5.70M coins** (faixa do dia: 4.44M–5.70M). Está +30% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
-- **Diego Armando Maradona (96)** subiu **+16.7%** em 24h, a **4.20M coins** (faixa do dia: 3.60M–4.50M). Está em linha com a média de 7 dias (-0%). O modelo vê **estabilização** no curto prazo.
+- **Julián Alvarez (93)** subiu **+22.7%** em 24h, a **799k coins** (faixa do dia: 751k–800k). Está em linha com a média de 7 dias (+3%). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 39k coins | -41.4% | +51% |
-| Carlos Tévez | 88 | Premier League | 30k coins | -30.7% | -43.5% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 22k coins | -29.1% | -61.9% |
-| Matías Soulé | 86 | Serie A TIM | 26k coins | -25.9% | -43.4% |
-| Lionel Messi | 90 | MLS | 4.44M coins | -22% | -25.9% |
-| Lionel Messi | 88 | MLS | 799k coins | -18.4% | -80% |
-| Lionel Messi | 89 | MLS | 732k coins | -15.4% | +2.5% |
-| Nico Paz | 90 | Serie A TIM | 50k coins | -14.5% | -13% |
-| Lionel Messi | 87 | MLS | 670k coins | -13.8% | -52.1% |
-| Marcos Senesi | 88 | Premier League | 30k coins | -7.1% | -17.5% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 45k coins | -37.5% | -47.1% |
+| Carlos Tévez | 88 | Premier League | 28k coins | -35.1% | -47.7% |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 67k coins | -33% | -25.6% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 23k coins | -26.4% | -61% |
+| Estefanía Banini | 89 | Liga F | 23k coins | -25.8% | +27.8% |
+| Gabriel Batistuta | 89 | Icons | 176k coins | -25.1% | -24.8% |
+| Enzo Fernández | 91 | Premier League | 50k coins | -21.3% | +8.7% |
+| Juan Román Riquelme | 89 | Icons | 281k coins | -17.8% | -15.1% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 44k coins | -16.7% | +26.8% |
+| Lionel Messi | 89 | MLS | 710k coins | -14.4% | +0.7% |
 
 
 ### Análise das baixas
 
-- **Juan Foyth (85)** caiu **-41.4%** em 24h, a **39k coins** (faixa do dia: 39k–100k). Está -26% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Gerónimo Rulli (87)** caiu **-37.5%** em 24h, a **45k coins** (faixa do dia: 45k–75k). Está -37% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Carlos Tévez (88)** caiu **-30.7%** em 24h, a **30k coins** (faixa do dia: 30k–44k). Está -35% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Carlos Tévez (88)** caiu **-35.1%** em 24h, a **28k coins** (faixa do dia: 28k–44k). Está -38% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
 
-- **Julián Alvarez (88)** caiu **-29.1%** em 24h, a **22k coins** (faixa do dia: 22k–48k). Está -57% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Juan Foyth (85)** caiu **-33%** em 24h, a **67k coins** (faixa do dia: 39k–100k). Está +25% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -86,7 +83,7 @@ As cartas que o modelo FutQuant aponta com **maior probabilidade de valorizaçã
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Giovani Lo Celso | 90 | 20k coins | 21k coins | 80% |
+| Giovani Lo Celso | 90 | 23k coins | 24k coins | 80% |
 
 
 ## 📐 Como o FutQuant lê o mercado
@@ -97,16 +94,16 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (01/06/2026)?**  
-Aldana Cometti (85, D1 Arkema), com +30.7% em 24h, a 33k coins no PC.
+Hernán Crespo (88, Icons), com +42.4% em 24h, a 33k coins no PC.
 
 **E a maior queda do dia?**  
-Juan Foyth (85), -41.4% em 24h, a 39k coins.
+Gerónimo Rulli (87), -37.5% em 24h, a 45k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 20k coins.
+Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 36 em queda (média -0.95%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 35 em queda (média -1.61%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

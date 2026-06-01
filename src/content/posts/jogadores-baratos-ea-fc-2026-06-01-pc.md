@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T10:48:03.000Z
+pubDatetime: 2026-06-01T13:48:03.000Z
 title: "Jogadores baratos de Argentinos no EA FC (01/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,30 +29,30 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lautaro Martínez | 88 | ST | Serie A TIM | 4k coins | -5.3% |
-| Diego Milito | 88 | ST | Serie A TIM | 11k coins | -10.2% |
+| Lautaro Martínez | 88 | ST | Serie A TIM | 4k coins | +44% |
 | Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | +12.2% |
+| Alexis Mac Allister | 87 | CM | Premier League | 2k coins | +23.5% |
 | Nico Gonzalez | 87 | RM | LALIGA EA SPORTS | 11k coins | -10.2% |
 | Nahuel Molina | 87 | RB | LALIGA EA SPORTS | 11k coins | -45% |
+| Mauro Icardi | 87 | ST | Trendyol Süper Lig | 11k coins | -17% |
 | Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11k coins | 0% |
-| Mauro Icardi | 87 | ST | Trendyol Süper Lig | 12k coins | -13.2% |
+| Nico Paz | 86 | CAM | Serie A TIM | 11k coins | -77.2% |
 | Mariano Troilo | 86 | CB | Serie A TIM | 11k coins | -12.2% |
-| Nico Paz | 86 | CAM | Serie A TIM | 11k coins | -75.4% |
 | Paulo Gazzaniga | 85 | GK | LALIGA EA SPORTS | 11k coins | -67.4% |
-| Cristian Romero | 85 | CB | Premier League | 11k coins | -81.6% |
-| Matías Vargas | 84 | ST | Brasileirão | 11k coins | -65.9% |
-| Ignacio Russo | 84 | ST | LPF | 11k coins | -65.6% |
+| Cristian Romero | 85 | CB | Premier League | 11k coins | -80.6% |
+| Ignacio Russo | 84 | ST | LPF | 11k coins | -65.3% |
+| Matías Vargas | 84 | ST | Brasileirão | 11k coins | -76.9% |
+| Rafael Profini | 84 | CDM | A-League Men | 11k coins | -75.7% |
 | Gerónimo Rulli | 84 | GK | Ligue 1 McDonald's | 11k coins | -82.1% |
-| Santiago Hidalgo | 84 | RW | Ligue 1 McDonald's | 11k coins | -67.9% |
 
 
 ## 📈 Destaques
 
-- **Lautaro Martínez (88, ST)** da Serie A TIM, a apenas **4k coins**
-
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Lautaro Martínez (88, ST)** da Serie A TIM, a apenas **4k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
+
+- **Alexis Mac Allister (87, CM)** da Premier League, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 - **Nico Gonzalez (87, RM)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
