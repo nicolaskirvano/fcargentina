@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-05-31T22:48:03.000Z
+pubDatetime: 2026-06-01T01:48:03.000Z
 title: "Jogadores baratos de Argentinos no EA FC (31/05/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
