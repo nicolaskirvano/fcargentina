@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-01T22:48:02.000Z
+pubDatetime: 2026-06-02T01:48:03.000Z
 title: "Argentinos no EA FC hoje (01/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
