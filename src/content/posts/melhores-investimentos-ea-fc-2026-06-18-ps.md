@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T22:49:06.000Z
+pubDatetime: 2026-06-18T23:23:51.000Z
 title: "Melhores investimentos em Argentinos no EA FC (18/06/2026): análise e previsões — Console (PS)"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Juan Foyth (85, LALIGA EA SPORTS) lidera, com +79.4% em 7 dias a 46k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
+    a: "Javier Mascherano (89, LALIGA EA SPORTS) lidera, com +53.5% em 7 dias a 66k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,17 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **Console (PS)**:
 
-> 🔝 **Destaque:** Juan Foyth (85) acumula **+79.4% em 7 dias** a 46k coins.
+> 🔝 **Destaque:** Javier Mascherano (89) acumula **+53.5% em 7 dias** a 66k coins.
 
 
 ## 🧠 A leitura do dia
-A análise de mercado para os jogadores argentinos no EA FC Ultimate Team, datada de 18/06/2026, revela oportunidades distintas baseadas na volatilidade recente e na probabilidade estatística de valorização. Entre as opções de maior risco, Santiago Castro destaca-se com um impressionante aumento de 31,6% em 24 horas, atingindo 19k coins. No entanto, a probabilidade de alta é de apenas 27%, o que sugere que essa carta pode ser mais volátil e menos segura para investimentos de longo prazo, servindo talvez como uma aposta rápida de curto prazo para traders experientes.
+No cenário atual do EA FC Ultimate Team para consoles PlayStation, datado de 18 de junho de 2026, o mercado apresenta uma movimentação interessante centrada na seleção argentina. Ao analisar as tendências de valorização dos últimos sete dias, é evidente que a volatilidade das cartas argentinas exige uma análise criteriosa das probabilidades de alta e dos preços atuais para se definir quais ativos merecem entrada imediata. O foco principal deve ser direcionado para cartas que combinam uma subida recente significativa com uma alta probabilidade de continuidade dessa tendência, garantindo assim uma margem de segurança para os investidores que buscam lucros a curto e médio prazo.
 
-Por outro lado, cartas com maior consistência histórica e probabilidades robustas apresentam perfis de investimento mais sólidos. Javier Mascherano, em sua versão de 88 de overall, mostra um crescimento de 9,7% em 24 horas com uma probabilidade de alta de 95%, custando 18k coins. Essa combinação de preço acessível e alta certeza de retorno o torna uma das escolhas mais seguras do dia. Similarmente, Julián Alvarez, avaliado em 137k coins, registra um aumento de 5,6% com uma probabilidade de alta de 95%, indicando uma tendência de valorização extremamente estável para esta carta de 88 de overall da LaLiga EA SPORTS.
+Entre as opções mais seguras e promissoras, destacam-se imediatamente Javier Mascherano (88) e Julián Alvarez (88). Mascherano, disponível na LaLiga EA Sports por apenas 16 mil coins, registrou uma alta de 9,7% nas últimas 24 horas, acompanhada de uma probabilidade de alta de 95%. Esse cenário indica uma forte demanda consolidada, tornando-o uma entrada de baixo risco e custo acessível. Paralelamente, Julián Alvarez, também da LaLiga EA Sports, embora em um patamar de preço mais elevado de 136 mil coins, oferece a mesma probabilidade de alta de 95%, com uma valorização de 5,4% no mesmo período. A combinação de alta probabilidade e tendência positiva confirma a solidez desses dois ativos como pilares para uma carteira estável.
 
-Outros jogadores merecem atenção por seus índices equilibrados. Alejandro Garnacho, com 89 de overall na Premier League, subiu 26,9% em 24 horas para 220k coins, mantendo uma alta probabilidade de 84% de continuar subindo, o que o posiciona como uma opção de médio risco com alto potencial de retorno. Javier Mascherano, na versão de 90 de overall, também apresenta bons sinais, com 5% de alta em 24 horas, 68% de probabilidade e preço de 52k coins. Essas cartas oferecem um equilíbrio atrativo entre risco e recompensa.
+Outra carta que merece atenção especial é o ícone Juan Román Riquelme (88). Com uma valorização robusta de 13,5% em 24 horas, o preço atual de 84 mil coins reflete o interesse crescente dos usuários por figuras lendárias. No entanto, é crucial observar que a probabilidade de alta futura é baixa, de apenas 8%. Isso sugere que Riquelme pode ser uma oportunidade de venda rápida para quem já possui o ativo, mas representa um risco elevado para novas entradas, pois o pico de valorização pode estar próximo do exaustivo. Portanto, sua inclusão no portfólio deve ser feita com extrema cautela ou evitada por investidores conservadores.
 
-Em contrapartida, cartas como Alexis Mac Allister (89 overall, 20k coins) e Giovani Lo Celso (91 overall, 32k coins) apresentam probabilidades de alta baixas de 16% e 35%, respectivamente, apesar de seus aumentos recentes de 11,4% e 5,3%. Isso sugere cautela na entrada, pois a tendência imediata pode não se sustentar. Portanto, para quem busca segurança, as versões de Mascherano e Alvarez são as recomendações principais, enquanto Garnacho oferece uma oportunidade de ganho mais agressivo com boa base estatística de suporte.
+Para aqueles dispostos a assumir riscos moderados em busca de retornos potencialmente mais agressivos, Alexis Mac Allister (89) e Gerónimo Rulli (84) se apresentam como alternativas interessantes. Mac Allister, da Premier League, subiu 14,7% em 24 horas e está cotado a 18 mil coins, com uma probabilidade de alta de 16%. Já Rulli, da Ligue 1 McDonald's, lidera a lista de percentuais com uma alta de 20% em 24 horas, custando 54 mil coins, mas com uma probabilidade de alta de 33%. Ambos oferecem um perfil de risco-retorno atrativo, onde o custo de entrada é relativamente baixo em comparação ao potencial de ganho, especialmente para quem monitora o mercado de perto para realizar lucros rápidos.
+
+As demais opções, como Javier Mascherano (90), Nicolás Otamendi (86) e Giovani Lo Celso (91), apresentam probabilidades de alta variando entre 33% e 68%, com preços que oscilam entre 36 mil e 72 mil coins. Embora tenham registrado altas positivas em 24 horas, a incerteza maior em relação à continuidade da tendência as torna menos recomendadas para entradas massivas neste momento. Emiliano Martínez (88), apesar de uma alta expressiva de 16,3%, possui a menor probabilidade de alta (5%), indicando uma possível saturação de demanda a curto prazo.
+
+Em conclusão, a estratégia mais sensata para 18 de junho de 2026 é concentrar recursos em Javier Mascherano (88) e Julián Alvarez (88) pela segurança estatística de 95% de probabilidade de alta. Investidores com apetite para risco podem considerar pequenas posições em Alexis Mac Allister e Gerónimo Rulli, aproveitando suas altas percentuais recentes e custos de aquisição mais baixos. Evitar a compra de Riquelme e Martínez para nova entrada é aconselhável devido às baixas probabilidades de valorização futura, focando-se na realização de lucros com ativos já valorizados ou na construção de uma base sólida com os argentinos de médio e baixo custo que demonstram tendência sustentável.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -41,33 +45,31 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 46k coins | +2.8% | +79.4% | 50% |
 | Javier Mascherano | 89 | LALIGA EA SPORTS | 66k coins | +17.9% | +53.5% | 50% |
-| Santiago Castro | 87 | Serie A TIM | 19k coins | +31.6% | +53.1% | 27% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 137k coins | +5.6% | +49.4% | 95% |
-| Nicolás Otamendi | 86 | Liga Portugal | 72k coins | +6.9% | +42.1% | 33% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 32k coins | +5.3% | +40% | 35% |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 18k coins | +9.7% | +33.3% | 95% |
-| Alejandro Garnacho | 89 | Premier League | 220k coins | +26.9% | +27.8% | 84% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 52k coins | +5% | +21.8% | 68% |
-| Alexis Mac Allister | 89 | Premier League | 20k coins | +11.4% | +18.2% | 16% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 136k coins | +5.4% | +47.8% | 95% |
+| Nicolás Otamendi | 86 | Liga Portugal | 72k coins | +10.7% | +47.2% | 33% |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 36k coins | +6.7% | +44% | 35% |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 16k coins | +9.7% | +33.3% | 95% |
+| Juan Román Riquelme | 88 | Icons | 84k coins | +13.5% | +26.3% | 8% |
+| Emiliano Martínez | 88 | Premier League | 57k coins | +16.3% | +20% | 5% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 51k coins | +5% | +19.8% | 68% |
+| Alexis Mac Allister | 89 | Premier League | 18k coins | +14.7% | +18.2% | 16% |
 | Gerónimo Rulli | 84 | Ligue 1 McDonald's | 54k coins | +20% | +15.5% | 33% |
 | Lautaro Martínez | 89 | Serie A TIM | 55k coins | +12.2% | +10% | 49% |
-| Juan Román Riquelme | 89 | Icons | 235k coins | +16.4% | +7.8% | 42% |
 | Hernán Crespo | 86 | Icons | 68k coins | +4.5% | +6.2% | 45% |
 
 
 ## 📈 Análise dos destaques
 
-- **Juan Foyth (85)** — 46k coins, **+79.4% em 7 dias** (+2.8% em 24h). Preço +36% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Javier Mascherano (89)** — 66k coins, **+53.5% em 7 dias** (+17.9% em 24h). Preço +31% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Javier Mascherano (89)** — 66k coins, **+53.5% em 7 dias** (+17.9% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Julián Alvarez (88)** — 136k coins, **+47.8% em 7 dias** (+5.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
 
-- **Santiago Castro (87)** — 19k coins, **+53.1% em 7 dias** (+31.6% em 24h). Preço +32% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Nicolás Otamendi (86)** — 72k coins, **+47.2% em 7 dias** (+10.7% em 24h). Preço +28% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Julián Alvarez (88)** — 137k coins, **+49.4% em 7 dias** (+5.6% em 24h). Preço +19% acima da média de 7 dias (aquecida). 🔮 O modelo reforça a tese: **95% de chance de seguir subindo**.
+- **Giovani Lo Celso (91)** — 36k coins, **+44% em 7 dias** (+6.7% em 24h). Preço +16% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nicolás Otamendi (86)** — 72k coins, **+42.1% em 7 dias** (+6.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
+- **Javier Mascherano (88)** — 16k coins, **+33.3% em 7 dias** (+9.7% em 24h). Preço +14% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -85,7 +87,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Juan Foyth (85, LALIGA EA SPORTS) lidera, com +79.4% em 7 dias a 46k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
+Javier Mascherano (89, LALIGA EA SPORTS) lidera, com +53.5% em 7 dias a 66k coins no Console (PS), e o modelo dá 50% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
