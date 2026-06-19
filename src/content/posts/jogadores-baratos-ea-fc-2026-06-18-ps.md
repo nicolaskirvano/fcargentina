@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:23:52.000Z
+pubDatetime: 2026-06-19T01:49:37.000Z
 title: "Jogadores baratos de Argentinos no EA FC (18/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,11 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lionel Messi | 88 | RW | MLS | 2k coins | +6.2% |
-| Diego Milito | 88 | ST | Serie A TIM | 11k coins | +4.3% |
-| Emiliano Martínez | 87 | GK | Premier League | 3k coins | +80% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | 0% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | +4.3% |
+| Lionel Messi | 88 | RW | MLS | 2k coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 11k coins | -2.2% |
+| Emiliano Martínez | 87 | GK | Premier League | 3k coins | +73.3% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 15k coins | +10.9% |
 
 
 ## 📈 Destaques
@@ -44,9 +43,7 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Emiliano Martínez (87, GK)** da Premier League, a apenas **3k coins** — já **valorizando**, sinal de procura crescente.
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
-
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **12k coins**
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **15k coins**
 
 
 ## Por que estas cartas?

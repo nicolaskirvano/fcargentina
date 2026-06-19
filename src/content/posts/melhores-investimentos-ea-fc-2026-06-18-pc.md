@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-18T23:24:52.000Z
+pubDatetime: 2026-06-19T01:52:17.000Z
 title: "Melhores investimentos em Argentinos no EA FC (18/06/2026): análise e previsões — PC"
 draft: false
 featured: true
@@ -12,7 +12,7 @@ tags:
 description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 18/06/2026 (PC), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
 faq:
   - q: "Qual a melhor carta para investir hoje (18/06/2026) no EA FC?"
-    a: "Paulo Dybala (88, Serie A TIM) lidera, com +68.2% em 7 dias a 143k coins no PC, e o modelo dá 36% de chance de seguir subindo."
+    a: "Paulo Dybala (88, Serie A TIM) lidera, com +63.5% em 7 dias a 139k coins no PC, e o modelo dá 36% de chance de seguir subindo."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -23,19 +23,21 @@ faq:
 
 Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **18/06/2026** no **PC**:
 
-> 🔝 **Destaque:** Paulo Dybala (88) acumula **+68.2% em 7 dias** a 143k coins.
+> 🔝 **Destaque:** Paulo Dybala (88) acumula **+63.5% em 7 dias** a 139k coins.
 
 
 ## 🧠 A leitura do dia
-No cenário do EA FC Ultimate Team para PC, datado de 18 de junho de 2026, o mercado de jogadores argentinos apresenta uma volatilidade interessante, com oportunidades claras para investidores atentos às tendências de curto prazo. Ao analisar os dados de valorização dos últimos sete dias, focando especificamente no desempenho das últimas 24 horas, identifica-se um grupo seleto de cartas que demonstram potencial sólido de entrada. A estratégia aqui não é especular sobre o futuro distante, mas sim aproveitar a momentum atual, utilizando a probabilidade de alta e o percentual de ganho recente como principais indicadores de decisão. O mercado reage a eventos específicos e à demanda orgânica por posições escassas, e os argentinos, historicamente, mantêm um apelo constante entre os usuários da plataforma.
+No cenário atual do mercado do EA FC Ultimate Team, especificamente no PC em 18 de junho de 2026, a análise das tendências de valorização dos últimos sete dias revela oportunidades claras para investidores focados no mercado argentino. A volatilidade recente tem sido marcada por aumentos significativos em cartas de diferentes faixas de preço, permitindo estratégias diversificadas. Ao observar os dados de 24 horas, nota-se que jogadores como Paulo Dybala, Juan Foyth e Javier Mascherano apresentaram movimentos positivos relevantes, indicando uma demanda crescente por esses ativos específicos dentro da comunidade de trading.
 
-Dentre as opções mais agressivas, Matías Soulé se destaca como uma das melhores entradas do momento. A carta de 86 rating, da Serie A TIM, registrou um impressionante aumento de 31,6% em apenas 24 horas, consolidando-se a 26k coins. O que torna essa aposta atraente não é apenas o salto percentual, mas a alta probabilidade de continuação da tendência, estimada em 59%. Para investidores com capital limitado, essa carta oferece um risco calculado com uma relação risco-retorno favorável, permitindo acumulação rápida sem o compromisso financeiro de cartas premium.
+Dentre as opções de menor custo, Matías Soulé se destaca como uma entrada acessível e promissora. Com uma valorização de 6,5% nas últimas 24 horas e uma probabilidade de alta de 59%, a carta de 86 rating da Serie A TIM está cotada a apenas 24k coins. Esse perfil atrativo de preço combinado com uma chance superior a 50% de continuidade na tendência de alta oferece um risco relativamente baixo para lucros rápidos, ideal para quem busca girar capital rapidamente sem grandes compromissos financeiros iniciais.
 
-Na faixa de valor intermediário, Nico Paz e Javier Mascherano oferecem perfis de investimento distintos. Nico Paz, com 90 rating da Serie A TIM, subiu 17,6% em um dia e está cotado a 64k coins, com uma probabilidade de alta de 60%. Já Mascherano, o ícone de 90 rating da LALIGA EA SPORTS, apresenta uma subida de 15% e custa 68k coins, mas se destaca por possuir a maior probabilidade de alta do grupo analisado, chegando a 66%. Essa probabilidade superior sugere que a demanda por Mascherano é mais estável e menos suscetível a correções bruscas, tornando-o uma escolha mais segura para quem busca preservar o capital enquanto busca lucros moderados.
+Para o investidor intermediário, Gerónimo Rulli apresenta uma oportunidade interessante no setor de goleiros. O goleiro de 87 rating da Ligue 1 McDonald's registrou um impressionante aumento de 25,7% em apenas 24 horas, atingindo a cotação de 65k coins. Embora a probabilidade de alta futura seja de 34%, o momentum atual é forte. Essa disparada recente pode indicar uma escassez temporária ou uma necessidade específica em squads temáticos, sugerindo que o momento de venda pode ser imediato para garantir lucro, ou manter a carta se a tendência se sustentar nos próximos dias.
 
-Marcos Acuña e Paulo Dybala representam oportunidades em categorias de elite e liga específica. Acuña (89 LPF) cresceu 22,3% em 24h, custando apenas 57k coins, com 41% de chance de alta. Já Dybala (88 Serie A TIM), embora mais caro a 143k coins, teve alta de 21,2% e probabilidade de 36%. A entrada em Dybala exige mais cuidado devido ao maior volume de capital necessário, mas o percentual de crescimento indica forte interesse da comunidade. Por outro lado, Acuña oferece uma alavancagem maior em termos de retorno percentual sobre um investimento inicial menor, sendo ideal para carteiras diversificadas.
+No segmento de valor médio-alto, Javier Mascherano e Nico Paz se destacam pela consistência e probabilidade. Mascherano, ícone de 90 rating da LALIGA EA SPORTS, subiu 9,2% para 66k coins, com uma probabilidade robusta de 66% de continuar subindo. Paralelamente, Nico Paz, também de 90 rating da Serie A TIM, aumentou 7,6% para 64k coins, com probabilidade de alta de 60%. Ambos oferecem um equilíbrio sólido entre risco e retorno, sendo escolhas seguras para portfólios que buscam estabilidade com crescimento moderado.
 
-Para os mais cautelosos, Pablo Aimar e Cristian Romero merecem atenção. Aimar (88 LALIGA EA SPORTS) está a 21k coins, com alta de 16% e uma robusta probabilidade de 64% de continuação. É uma das entradas mais baratas e seguras. Romero (86 Premier League), a 70k coins, subiu 11,1% com 47% de probabilidade de alta, oferecendo um equilíbrio entre estabilidade defensiva no meta do jogo e retorno financeiro. Por fim, Julián Alvarez (88 LALIGA EA SPORTS) a 209k coins, com alta de 6,6% e 44% de probabilidade, parece menos atrativo para entrada imediata devido ao alto preço e crescimento mais lento, sugerindo que o topo de mercado pode estar saturado para esta carta específica neste momento.
+Entre as cartas de maior valor, Paulo Dybala e Javier Zanetti merecem atenção especial, embora com perfis de risco distintos. Dybala, de 88 rating, disparou 33,7% para 139k coins, com probabilidade de alta de 36%. Já Zanetti, ícone de 91 rating, subiu 19,7% para 152k coins, mas com probabilidade de alta de apenas 27%. A alta probabilidade de Dybala continuar subindo, mesmo sendo menor que a de Mascherano, compensa o preço mais elevado, enquanto Zanetti pode estar em um pico temporário, exigindo cautela na hora da compra ou venda imediata.
+
+Finalmente, cartas de elite como Julián Alvarez (88, 209k coins, +9,4%, prob. 44%) e Enzo Fernández (91, 90k coins, +4,1%, prob. 61%) completam o cenário. Alvarez, apesar do preço alto, tem probabilidade superior a 40% de alta, justificando a entrada para investidores de capital maior. Enzo, com a maior probabilidade de alta entre os premium players (61%), oferece segurança relativa. Em resumo, a estratégia ideal combina a compra imediata de Soulé e Mascherano pela alta probabilidade, com monitoramento ativo de Dybala e Rulli para lucros de curto prazo, evitando expor capital excessivo em Zanetti devido à sua baixa probabilidade de continuidade.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,28 +45,29 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
 | --- | --- | --- | --- | --- | --- | --- |
-| Paulo Dybala | 88 | Serie A TIM | 143k coins | +21.2% | +68.2% | 36% |
-| Marcos Acuña | 89 | LPF | 57k coins | +22.3% | +67.9% | 41% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 68k coins | +15% | +44.5% | 66% |
-| Matías Soulé | 86 | Serie A TIM | 26k coins | +31.6% | +30% | 59% |
-| Nico Paz | 90 | Serie A TIM | 64k coins | +17.6% | +27% | 60% |
-| Hernán Crespo | 88 | Icons | 30k coins | +15.5% | +21.4% | 24% |
+| Paulo Dybala | 88 | Serie A TIM | 139k coins | +33.7% | +63.5% | 36% |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 57k coins | +7.3% | +57% | 41% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 66k coins | +9.2% | +38.6% | 66% |
+| Javier Zanetti | 91 | Icons | 152k coins | +19.7% | +29.9% | 27% |
+| Nico Paz | 90 | Serie A TIM | 64k coins | +7.6% | +27% | 60% |
+| Enzo Fernández | 91 | Premier League | 90k coins | +4.1% | +25.4% | 61% |
+| Matías Soulé | 86 | Serie A TIM | 24k coins | +6.5% | +22.5% | 59% |
 | Cristian Romero | 86 | Premier League | 70k coins | +11.1% | +20.7% | 47% |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 21k coins | +16% | +19% | 64% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 209k coins | +6.6% | +14.2% | 44% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 209k coins | +9.4% | +18.1% | 44% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 65k coins | +25.7% | +9.1% | 34% |
 
 
 ## 📈 Análise dos destaques
 
-- **Paulo Dybala (88)** — 143k coins, **+68.2% em 7 dias** (+21.2% em 24h). Preço +32% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Paulo Dybala (88)** — 139k coins, **+63.5% em 7 dias** (+33.7% em 24h). Preço +27% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Marcos Acuña (89)** — 57k coins, **+67.9% em 7 dias** (+22.3% em 24h). Preço +33% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Juan Foyth (85)** — 57k coins, **+57% em 7 dias** (+7.3% em 24h). Preço +26% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Javier Mascherano (90)** — 68k coins, **+44.5% em 7 dias** (+15% em 24h). Preço +13% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Javier Mascherano (90)** — 66k coins, **+38.6% em 7 dias** (+9.2% em 24h). Preço em linha com a média de 7 dias (+7%). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Matías Soulé (86)** — 26k coins, **+30% em 7 dias** (+31.6% em 24h). Preço em linha com a média de 7 dias (+1%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Javier Zanetti (91)** — 152k coins, **+29.9% em 7 dias** (+19.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
-- **Nico Paz (90)** — 64k coins, **+27% em 7 dias** (+17.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Nico Paz (90)** — 64k coins, **+27% em 7 dias** (+7.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Momentum positivo; acompanhe para escolher o ponto de entrada.
 
 
 ## Como usar esta lista
@@ -82,7 +85,7 @@ Nossos numeros saem de **centenas de milhões de pontos de preço** do EA FC, de
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (18/06/2026) no EA FC?**  
-Paulo Dybala (88, Serie A TIM) lidera, com +68.2% em 7 dias a 143k coins no PC, e o modelo dá 36% de chance de seguir subindo.
+Paulo Dybala (88, Serie A TIM) lidera, com +63.5% em 7 dias a 139k coins no PC, e o modelo dá 36% de chance de seguir subindo.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
