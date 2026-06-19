@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T16:48:52.000Z
+pubDatetime: 2026-06-19T19:48:45.000Z
 title: "Argentinos no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,59 +13,54 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Valentín Barco (88, Ligue 1 McDonald's), com +44.8% em 24h, a 22k coins no Console (PS)."
+    a: "Diego Armando Maradona (96, Icons), com +27.7% em 24h, a 2.23M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Carlos Tévez (88), -17.1% em 24h, a 40k coins."
+    a: "Aldana Cometti (85), -29.2% em 24h, a 40k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Carlos Tévez (88) — 95% de probabilidade de alta, a 40k coins."
+    a: "Pelo modelo FutQuant, Hernán Crespo (88) — 95% de probabilidade de alta, a 26k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado lateral — sem direção clara, com 19 cartas em alta contra 20 em queda (média -0.01%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 28 em queda (média -4.64%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de Argentinos para consoles PlayStation apresenta uma dinâmica extremamente lateral nesta segunda-feira, 19 de junho de 2026, caracterizada por uma ausência de direção clara que exige paciência e disciplina dos traders experientes. Com um balanço quase equilibrado de 19 altas contra 20 quedas nos últimos 24 horas, a média de variação ficou em apenas -0,01%, indicando que não há um fluxo de capital massivo empurrando os ativos para cima ou para baixo de forma sustentada. Este cenário de consolidação sugere que os traders estão aguardando gatilhos específicos, seja uma nova promoção do evento ou ajustes na meta das ligas, antes de assumir posições maiores em ativos de médio e alto valor. A volatilidade reduzida é um convite para a análise técnica detalhada, onde pequenos movimentos de correção podem ser explorados com alavancagem, desde que se respeite a probabilidade estatística de cada ativo. É fundamental manter a calma e evitar compras por impulso, pois a estabilidade atual pode esconder oportunidades de compra em níveis de suporte sólido para os próximos dias.
+O mercado de cartas argentinas no console PlayStation apresenta um cenário de extrema cautela e desvalorização generalizada nesta segunda-feira, 19 de junho de 2026, com um saldo negativo esmagador que reflete a falta de demanda por ativos de médio e baixo valor. Entre os movimentos registrados nas últimas 24 horas, observamos apenas nove altas contra vinte e oito quedas significativas, resultando em uma média de variação negativa de 4,64% que penaliza qualquer trader que não tenha adotado uma estratégia defensiva ou de compra seletiva. Este sentimento de baixa é típico de períodos de entressafona ou ausência de eventos promocionais massivos que impulsionem a liquidez, forçando os investidores a focarem exclusivamente em ativos de alta raridade ou em oportunidades de arbitragem de curto prazo. A volatilidade extrema em nomes icônicos contrasta com a estagnação ou queda de jogadores da liga principal, indicando que o capital está se refugiando em seguradoras de valor ou fugindo de ativos considerados especulativos demais para o momento atual. Portanto, a análise de hoje deve ser conduzida com lupa, identificando não apenas quem subiu, mas quem está sendo abandonado pelo mercado, pois é nessas distorções de preço que residem as únicas oportunidades reais de lucro rápido em um ambiente hostil.
 
-> 🟢 **Maior alta:** Valentín Barco (88) **+44.8%** · 🔴 **Maior baixa:** Carlos Tévez (88) **-17.1%**
+> 🟢 **Maior alta:** Diego Armando Maradona (96) **+27.7%** · 🔴 **Maior baixa:** Aldana Cometti (85) **-29.2%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +44.8% | +26% |
-| Marcos Senesi | 88 | Premier League | 31k coins | +27% | +43.5% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 55k coins | +13.7% | +28.9% |
-| Javier Zanetti | 91 | Icons | 111k coins | +13.3% | +6.7% |
-| Tadeo Allende | 83 | MLS | 44k coins | +11.2% | +11.2% |
-| Gabriel Batistuta | 89 | Icons | 340k coins | +8.3% | +12.9% |
-| Emiliano Martínez | 88 | Premier League | 65k coins | +7.4% | +41.5% |
-| Rafael Profini | 84 | A-League Men | 45k coins | +7.1% | +12.5% |
-| Matías Vargas | 84 | Brasileirão | 45k coins | +6.1% | +21.7% |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 25k coins | +4.4% | +10.5% |
+| Diego Armando Maradona | 96 | Icons | 2.23M coins | +27.7% | +19.4% |
+| Estefanía Banini | 89 | Liga F | 22k coins | +20.8% | +52.6% |
+| Javier Zanetti | 91 | Icons | 109k coins | +11.8% | +5.8% |
+| Matías Vargas | 84 | Brasileirão | 45k coins | +9.3% | +22.9% |
+| Emiliano Buendía | 83 | Premier League | 49k coins | +8.3% | +17.5% |
 
 
-Entre as altas mais significativas, destacamos Valentín Barco, da Ligue 1 McDonald's, que disparou 44,8% em 24 horas, atingindo a marca de 22 mil coins, embora a probabilidade de continuação da alta seja baixa, com apenas 16%, sugerindo uma correção iminente. Marcos Senesi, do Premier League, registrou uma subida robusta de 27% para 31 mil coins, com uma probabilidade de alta de 80%, indicando forte interesse de mercado e potencial de continuidade se a tendência se manter. Javier Mascherano, da LALIGA EA SPORTS, subiu 13,7% para 55 mil coins, com 68% de probabilidade de alta, consolidando seu valor como um ativo defensivo confiável em cenários de incerteza. Javier Zanetti, dos Icons, teve um aumento de 13,3% para 111 mil coins, com probabilidade de alta de 49%, refletindo a volatilidade típica de itens de ícone que reagem a notícias de equipe ou eventos especiais. Tadeo Allende, da MLS, cresceu 11,2% para 44 mil coins, com 35% de probabilidade de alta, enquanto Gabriel Batistuta, dos Icons, subiu 8,3% para 340 mil coins, com impressionantes 80% de probabilidade de alta, tornando-o um dos ativos mais promissores do dia.
+A destaque absoluto entre as altas é Diego Armando Maradona, cuja carta de Icon 96 disparou 27,7% em 24 horas, atingindo a cotação impressionante de 2,23 milhões de moedas, um movimento que combina a probabilidade de alta de 84% com a liquidez restrita típica de ativos de luxo. Seguido por uma trajetória mais modesta mas consistente, Javier Zanetti, na versão Icon 91, registrou alta de 11,8% para 109 mil moedas, sustentado por uma probabilidade de alta de 49% que sugere acumulação gradual por colecionadores de time Argentino. No segmento de jogadores ativos e acessíveis, Estefanía Banini, da Liga F com rating 89, foi a grande surpresa com alta de 20,8% para 22 mil moedas, apesar de ter apenas 27% de probabilidade de continuidade, o que indica um movimento especulativo de curto prazo. Matías Vargas, atuante no Brasileirão com rating 84, subiu 9,3% para 45 mil moedas, enquanto Emiliano Buendía, da Premier League com rating 83, encerrou com 8,3% de alta para 49 mil moedas, ambos com baixas probabilidades de alta (27% e 18%, respectivamente), sinalizando que esses ganhos podem ser efêmeros e dependentes de demanda momentânea de times temáticos.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carlos Tévez | 88 | Premier League | 40k coins | -17.1% | +122.2% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 38k coins | -16.7% | +25% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 34k coins | -13.3% | +6.9% |
-| Paulo Dybala | 91 | Serie A TIM | 157k coins | -11.8% | +9% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 43k coins | -10% | -9.5% |
-| Paulo Dybala | 88 | Serie A TIM | 88k coins | -9.6% | -1.5% |
-| Diego Armando Maradona | 95 | Icons | 1.20M coins | -7% | -5.7% |
-| Enzo Fernández | 91 | Premier League | 74k coins | -6.8% | +33.3% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 50k coins | -6.5% | +13.5% |
-| Juan Sebastián Verón | 86 | Icons | 66k coins | -5.1% | -0.8% |
+| Aldana Cometti | 85 | D1 Arkema | 40k coins | -29.2% | -7.5% |
+| Carlos Tévez | 88 | Premier League | 28k coins | -27% | +113.4% |
+| Paulo Dybala | 91 | Serie A TIM | 115k coins | -25.4% | -12.5% |
+| Paulo Dybala | 88 | Serie A TIM | 74k coins | -21.8% | -17.7% |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 28k coins | -20.3% | -5.2% |
+| Alejandro Garnacho | 89 | Premier League | 130k coins | -17.4% | +1.5% |
+| Juan Román Riquelme | 89 | Icons | 200k coins | -14.9% | -7% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 36k coins | -14.7% | -4.6% |
+| Marcos Senesi | 88 | Premier League | 38k coins | -14.7% | +0.9% |
+| Hernán Crespo | 88 | Icons | 26k coins | -14.3% | +33.3% |
 
 
-No lado das quedas, Carlos Tévez, do Premier League, despencou 17,1% para 40 mil coins, uma queda acentuada apesar da alta probabilidade de alta de 95%, o que sugere uma oportunidade de compra de fundo técnico se o suporte for mantido. Juan Foyth, da LALIGA EA SPORTS, caiu 16,7% para 38 mil coins, com probabilidade de alta de 50%, indicando um equilíbrio entre oferta e demanda que pode levar a uma consolidação lateral nos próximos dias. Giovani Lo Celso, também da LALIGA EA SPORTS, recuou 13,3% para 34 mil coins, com apenas 35% de probabilidade de alta, sinalizando fraqueza relativa e risco de novas quedas se não houver suporte institucional. Paulo Dybala, da Serie A TIM, perdeu 11,8% para 157 mil coins, com probabilidade de alta de 58%, refletindo a volatilidade inerente a ativos de alto valor que são sensíveis a mudanças na meta de times de elite. Julián Alvarez, da LALIGA EA SPORTS, caiu 10% para 43 mil coins, com baixa probabilidade de alta de 18%, sugerindo que traders devem evitar esse ativo a menos que haja uma reversão clara de tendência confirmada por volume.
+As quedas dominam o cenário, com Aldana Cometti sendo a mais impactante, despencando 29,2% para 40 mil moedas, embora o modelo aponte uma probabilidade de alta de 95%, sugerindo que este pode ser o fundo absoluto para uma reversão iminente. Carlos Tévez, na versão Premier League 88, caiu 27% para 28 mil moedas, também com 95% de probabilidade de alta, criando uma oportunidade de compra agressiva para traders que acreditam na correção técnica. Paulo Dybala sofreu duas quedas distintas: a versão Icon 91 da Serie A TIM caiu 25,4% para 115 mil moedas (58% de prob. alta), e a versão 88 caiu 21,8% para 74 mil moedas (43% de prob. alta), demonstrando fragilidade no preço de ativos de ídolos fora de suas versões mais raras. Giovani Lo Celso, na carta LALIGA EA SPORTS 91, perdeu 20,3% para 28 mil moedas, enquanto Alejandro Garnacho, Premier League 89, caiu 17,4% para 130 mil moedas, apesar de ter alta probabilidade de alta futura de 84%, indicando que o mercado ainda não digeriu o valor real do ativo.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -74,17 +69,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Carlos Tévez | 88 | 40k coins | 51k coins | 95% |
-| Pablo Aimar | 88 | 25k coins | 31k coins | 95% |
-| Enzo Fernández | 91 | 74k coins | 91k coins | 95% |
+| Hernán Crespo | 88 | 26k coins | 32k coins | 95% |
+| Javier Zanetti | 89 | 70k coins | 81k coins | 95% |
 | Julián Alvarez | 88 | 137k coins | 176k coins | 95% |
-| Julián Alvarez | 89 | 258k coins | 291k coins | 93% |
-| Cristian Romero | 86 | 54k coins | 61k coins | 93% |
+| Carlos Tévez | 88 | 28k coins | 35k coins | 95% |
+| Julián Alvarez | 89 | 200k coins | 226k coins | 93% |
+| Cristian Romero | 86 | 70k coins | 79k coins | 93% |
 | Nico Paz | 86 | 32k coins | 36k coins | 84% |
-| Gabriel Batistuta | 89 | 340k coins | 371k coins | 80% |
+| Alejandro Garnacho | 89 | 130k coins | 143k coins | 84% |
 
 
-O modelo de previsão indica fortes sinais de alta para Carlos Tévez, com 95% de probabilidade de valorização a partir de 40 mil coins, tornando-o um candidato ideal para compra em correções. Pablo Aimar, da LALIGA EA SPORTS, também apresenta 95% de probabilidade de alta a 25 mil coins, oferecendo uma oportunidade de alavancagem significativa com baixo risco relativo. Enzo Fernández, do Premier League, tem 95% de chance de alta a 74 mil coins, consolidando-se como um ativo defensivo com potencial de valorização sustentada. Julián Alvarez, da LALIGA EA SPORTS, aparece com duas variações: a versão de 88 com 95% de probabilidade a 137 mil coins e a de 89 com 93% de probabilidade a 258 mil coins, indicando divergência de valor entre as versões. Cristian Romero, do Premier League, tem 93% de probabilidade de alta a 54 mil coins, enquanto Nico Paz, da Serie A TIM, apresenta 84% de probabilidade a 32 mil coins, ambos sugerindo oportunidades de entrada estratégica.
+O modelo preditivo identifica uma forte divergência entre preços atuais e expectativas futuras, destacando Hernán Crespo (Icon 88) a 26 mil moedas e Javier Zanetti (Icon 89) a 70 mil moedas, ambos com 95% de probabilidade de alta, como os ativos mais seguros para acumulação imediata. Julián Alvarez aparece em duas versões promissoras: a carta 88 da LALIGA EA SPORTS a 137 mil moedas e a versão 89 a 200 mil moedas, ambas com probabilidades de alta superiores a 93%, sugerindo uma revalorização consistente do meio-campista argentino. Cristian Romero (Premier League 86) a 70 mil moedas e Nico Paz (Serie A TIM 86) a 32 mil moedas, com 93% e 84% de probabilidade de alta respectivamente, oferecem exposição de menor risco em faixas de preço intermediárias. Finalmente, Alejandro Garnacho (89) a 130 mil moedas e Carlos Tévez (88) a 28 mil moedas, ambos com 84% e 95% de probabilidade de alta, reforçam a tese de que as quedas recentes criaram pisos de compra extremamente atrativos para esses ativos específicos.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -93,14 +88,16 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Juan Román Riquelme | 88 | 66k coins | -12.6% |
-| Valentín Barco | 88 | 22k coins | -10.2% |
-| Julián Alvarez | 88 | 43k coins | -9.7% |
+| Marcos Acuña | 89 | 37k coins | -24% |
+| Emiliano Buendía | 83 | 49k coins | -9.7% |
+| Julián Alvarez | 88 | 50k coins | -9.7% |
+| Pablo Aimar | 91 | 30k coins | -8% |
 | Matías Vargas | 84 | 45k coins | -6.8% |
+| Estefanía Banini | 89 | 22k coins | -6.8% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia para hoje deve focar em compras seletivas em ativos com alta probabilidade de valorização, como Carlos Tévez e Pablo Aimar, aproveitando as quedas recentes para entrar em níveis de suporte. É recomendado segurar posições em Marcos Senesi e Gabriel Batistuta, dados seus altos percentuais de probabilidade de alta e momentum positivo consolidado. Evite compras impulsivas em ativos com baixa probabilidade de alta, como Julián Alvarez (88) e Tadeo Allende, a menos que haja confirmação de reversão de tendência com volume significativo. Monitore de perto as variações de preço de Paulo Dybala e Enzo Fernández, pois suas altas probabilidades de alta podem se concretizar rapidamente se houver notícias positivas de eventos. Mantenha uma reserva de liquidez para aproveitar oportunidades de compra em picos de volatilidade, especialmente em ativos de ícone como Zanetti e Batistuta, que podem apresentar flutuações abruptas.
+A estratégia para hoje deve ser extremamente seletiva, priorizando a compra de ativos com queda recente e alta probabilidade de reversão, especificamente Carlos Tévez (88) a 28 mil moedas e Alejandro Garnacho (89) a 130 mil moedas, que oferecem margem de segurança estatística significativa. Deve-se evitar a venda de Maradona (96) e Zanetti (91) neste momento, pois a alta de 27,7% e 11,8% respectivamente indica que o preço ainda está em fase de descoberta e pode se valorizar ainda mais antes de corrigir. Investidores com capital menor devem focar em Estefanía Banini (89) e Matías Vargas (84) para lucros rápidos, mas devem estar prontos para vender assim que o impulso se esgotar, dada a baixa probabilidade de alta sustentada. Para quem busca seguradoras de longo prazo, a compra de Julián Alvarez (88 e 89) e Hernán Crespo (88) é recomendada, pois o modelo projeta alta consistente com probabilidades acima de 93%, neutralizando o ruído do mercado em baixa. O risco principal hoje é manter posições em Dybala (88 e 91) e Lo Celso (91) sem um plano de saída claro, pois a queda de mais de 20% em cada um deles reflete uma perda de confiança do mercado que pode se estender por mais de 24 horas.
 
 
 ## 🧪 De onde vêm estes números
@@ -110,16 +107,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Valentín Barco (88, Ligue 1 McDonald's), com +44.8% em 24h, a 22k coins no Console (PS).
+Diego Armando Maradona (96, Icons), com +27.7% em 24h, a 2.23M coins no Console (PS).
 
 **E a maior queda do dia?**  
-Carlos Tévez (88), -17.1% em 24h, a 40k coins.
+Aldana Cometti (85), -29.2% em 24h, a 40k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Carlos Tévez (88) — 95% de probabilidade de alta, a 40k coins.
+Pelo modelo FutQuant, Hernán Crespo (88) — 95% de probabilidade de alta, a 26k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado lateral — sem direção clara, com 19 cartas em alta contra 20 em queda (média -0.01%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 28 em queda (média -4.64%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
