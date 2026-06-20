@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-19T19:48:45.000Z
+pubDatetime: 2026-06-20T01:48:59.000Z
 title: "Argentinos no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
 draft: false
 featured: true
@@ -13,54 +13,54 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Diego Armando Maradona (96, Icons), com +27.7% em 24h, a 2.23M coins no Console (PS)."
+    a: "Lionel Messi (90, MLS), com +10.7% em 24h, a 3.10M coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Aldana Cometti (85), -29.2% em 24h, a 40k coins."
+    a: "Paulo Dybala (91), -37.9% em 24h, a 101k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Hernán Crespo (88) — 95% de probabilidade de alta, a 26k coins."
+    a: "Pelo modelo FutQuant, Hernán Crespo (88) — 95% de probabilidade de alta, a 19k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 28 em queda (média -4.64%)."
+    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 8 cartas em alta contra 29 em queda (média -11.06%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado de cartas argentinas no console PlayStation apresenta um cenário de extrema cautela e desvalorização generalizada nesta segunda-feira, 19 de junho de 2026, com um saldo negativo esmagador que reflete a falta de demanda por ativos de médio e baixo valor. Entre os movimentos registrados nas últimas 24 horas, observamos apenas nove altas contra vinte e oito quedas significativas, resultando em uma média de variação negativa de 4,64% que penaliza qualquer trader que não tenha adotado uma estratégia defensiva ou de compra seletiva. Este sentimento de baixa é típico de períodos de entressafona ou ausência de eventos promocionais massivos que impulsionem a liquidez, forçando os investidores a focarem exclusivamente em ativos de alta raridade ou em oportunidades de arbitragem de curto prazo. A volatilidade extrema em nomes icônicos contrasta com a estagnação ou queda de jogadores da liga principal, indicando que o capital está se refugiando em seguradoras de valor ou fugindo de ativos considerados especulativos demais para o momento atual. Portanto, a análise de hoje deve ser conduzida com lupa, identificando não apenas quem subiu, mas quem está sendo abandonado pelo mercado, pois é nessas distorções de preço que residem as únicas oportunidades reais de lucro rápido em um ambiente hostil.
+O mercado de cartas argentinas no console PlayStation apresenta um cenário extremamente hostil para os investidores hoje, 19 de junho de 2026, caracterizado por uma queda generalizada que afeta a maioria dos ativos disponíveis. Com uma média de desvalorização de -11,06% nas últimas 24 horas, o sentimento do mercado está claramente em baixa, com apenas 8 altas registradas contra 29 quedas significativas, indicando uma forte pressão de venda em setores amplos. Essa dinâmica sugere que a liquidez está sendo drenada de forma agressiva, possivelmente devido a eventos do jogo ou promoções que incentivam a conversão de cartas em moedas, criando um ambiente onde a cautela é a única estratégia viável para a maioria dos traders. A predominância das quedas, especialmente em perfis de alto valor e utilidade, sinaliza que os investidores estão priorizando a saída de posições em detrimento de novas entradas, o que pode criar oportunidades de compra seletiva para quem possui capital e paciência para esperar a estabilização dos preços.
 
-> 🟢 **Maior alta:** Diego Armando Maradona (96) **+27.7%** · 🔴 **Maior baixa:** Aldana Cometti (85) **-29.2%**
+> 🟢 **Maior alta:** Lionel Messi (90) **+10.7%** · 🔴 **Maior baixa:** Paulo Dybala (91) **-37.9%**
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Armando Maradona | 96 | Icons | 2.23M coins | +27.7% | +19.4% |
-| Estefanía Banini | 89 | Liga F | 22k coins | +20.8% | +52.6% |
-| Javier Zanetti | 91 | Icons | 109k coins | +11.8% | +5.8% |
-| Matías Vargas | 84 | Brasileirão | 45k coins | +9.3% | +22.9% |
-| Emiliano Buendía | 83 | Premier League | 49k coins | +8.3% | +17.5% |
+| Lionel Messi | 90 | MLS | 3.10M coins | +10.7% | +19.1% |
+| Hernán Crespo | 86 | Icons | 74k coins | +8.3% | +8.3% |
+| Juan Román Riquelme | 88 | Icons | 92k coins | +5.7% | +39.1% |
+| Carlos Tévez | 89 | Premier League | 326k coins | +4.2% | +8.7% |
+| Marcos Acuña | 89 | LPF | 32k coins | +3.3% | +13.7% |
 
 
-A destaque absoluto entre as altas é Diego Armando Maradona, cuja carta de Icon 96 disparou 27,7% em 24 horas, atingindo a cotação impressionante de 2,23 milhões de moedas, um movimento que combina a probabilidade de alta de 84% com a liquidez restrita típica de ativos de luxo. Seguido por uma trajetória mais modesta mas consistente, Javier Zanetti, na versão Icon 91, registrou alta de 11,8% para 109 mil moedas, sustentado por uma probabilidade de alta de 49% que sugere acumulação gradual por colecionadores de time Argentino. No segmento de jogadores ativos e acessíveis, Estefanía Banini, da Liga F com rating 89, foi a grande surpresa com alta de 20,8% para 22 mil moedas, apesar de ter apenas 27% de probabilidade de continuidade, o que indica um movimento especulativo de curto prazo. Matías Vargas, atuante no Brasileirão com rating 84, subiu 9,3% para 45 mil moedas, enquanto Emiliano Buendía, da Premier League com rating 83, encerrou com 8,3% de alta para 49 mil moedas, ambos com baixas probabilidades de alta (27% e 18%, respectivamente), sinalizando que esses ganhos podem ser efêmeros e dependentes de demanda momentânea de times temáticos.
+Entre as poucas exceções positivas, Lionel Messi (90, MLS) destaca-se com uma alta de 10,7% em 24 horas, atingindo 3,10 milhões de moedas, um movimento impulsionado por sua probabilidade de alta de 74% e pela demanda constante por seus atributos superiores em squads temáticos. Hernán Crespo (86, Icons) também sobe 8,3% para 74 mil moedas, com uma probabilidade de alta de 45%, refletindo um interesse renovado em ícones acessíveis para times de defesa sólida ou ataques rápidos. Juan Román Riquelme (88, Icons) registra um aumento moderado de 5,7% para 92 mil moedas, embora sua probabilidade de alta de apenas 8% sugira que este movimento seja mais volátil e menos sustentável a longo prazo. Carlos Tévez (89, Premier League) sobe 4,2% para 326 mil moedas, com 51% de probabilidade de alta, indicando uma leve recuperação de valor em cartas de ataque de ligas populares. Por fim, Marcos Acuña (89, LPF) aumenta 3,3% para 32 mil moedas, com baixa probabilidade de alta de 5%, sugerindo que sua valorização é mais influenciada por flutuações de curto prazo do que por uma tendência estrutural de crescimento.
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Aldana Cometti | 85 | D1 Arkema | 40k coins | -29.2% | -7.5% |
-| Carlos Tévez | 88 | Premier League | 28k coins | -27% | +113.4% |
-| Paulo Dybala | 91 | Serie A TIM | 115k coins | -25.4% | -12.5% |
-| Paulo Dybala | 88 | Serie A TIM | 74k coins | -21.8% | -17.7% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 28k coins | -20.3% | -5.2% |
-| Alejandro Garnacho | 89 | Premier League | 130k coins | -17.4% | +1.5% |
-| Juan Román Riquelme | 89 | Icons | 200k coins | -14.9% | -7% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 36k coins | -14.7% | -4.6% |
-| Marcos Senesi | 88 | Premier League | 38k coins | -14.7% | +0.9% |
-| Hernán Crespo | 88 | Icons | 26k coins | -14.3% | +33.3% |
+| Paulo Dybala | 91 | Serie A TIM | 101k coins | -37.9% | -25% |
+| Diego Armando Maradona | 96 | Icons | 2.95M coins | -37.5% | -22.7% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 38k coins | -28.3% | -12.1% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 48k coins | -26.9% | +7.2% |
+| Juan Román Riquelme | 89 | Icons | 160k coins | -23.2% | -8.2% |
+| Lionel Messi | 88 | MLS | 419k coins | -22.4% | -5.2% |
+| Ignacio Russo | 84 | LPF | 33k coins | -20.8% | -20.4% |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 28k coins | -18.8% | -3.4% |
+| Pablo Aimar | 91 | LALIGA EA SPORTS | 26k coins | -18.8% | -9.6% |
+| Julián Alvarez | 89 | LALIGA EA SPORTS | 218k coins | -16.2% | +5.3% |
 
 
-As quedas dominam o cenário, com Aldana Cometti sendo a mais impactante, despencando 29,2% para 40 mil moedas, embora o modelo aponte uma probabilidade de alta de 95%, sugerindo que este pode ser o fundo absoluto para uma reversão iminente. Carlos Tévez, na versão Premier League 88, caiu 27% para 28 mil moedas, também com 95% de probabilidade de alta, criando uma oportunidade de compra agressiva para traders que acreditam na correção técnica. Paulo Dybala sofreu duas quedas distintas: a versão Icon 91 da Serie A TIM caiu 25,4% para 115 mil moedas (58% de prob. alta), e a versão 88 caiu 21,8% para 74 mil moedas (43% de prob. alta), demonstrando fragilidade no preço de ativos de ídolos fora de suas versões mais raras. Giovani Lo Celso, na carta LALIGA EA SPORTS 91, perdeu 20,3% para 28 mil moedas, enquanto Alejandro Garnacho, Premier League 89, caiu 17,4% para 130 mil moedas, apesar de ter alta probabilidade de alta futura de 84%, indicando que o mercado ainda não digeriu o valor real do ativo.
+As quedas, por outro lado, são dramáticas e abrangem alguns dos nomes mais importantes do segmento, com Paulo Dybala (91, Serie A TIM) despencando 37,9% para 101 mil moedas, apesar de ainda ter 58% de probabilidade de alta, o que indica um potencial de rebote técnico a curto prazo. Diego Armando Maradona (96, Icons) sofre uma queda massiva de 37,5% para 2,95 milhões de moedas, com probabilidade de alta de apenas 32%, sugerindo que o mercado está reavaliando seu valor intrínseco frente a alternativas mais baratas ou eventos futuros. Javier Mascherano (90, LALIGA EA SPORTS) cai 28,3% para 38 mil moedas, mas sua alta probabilidade de alta de 68% torna-o um candidato interessante para compras de risco, pois a queda parece desproporcional ao seu valor de mercado histórico. Sua versão de 89 de rating também despenca 26,9% para 48 mil moedas, com 50% de probabilidade de alta, reforçando a instabilidade em cartas defensivas argentinas. Juan Román Riquelme (89, Icons) perde 23,2% para 160 mil moedas, enquanto Lionel Messi (88, MLS) cai 22,4% para 419 mil moedas, mostrando que até mesmo os ídolos não estão imunes à pressão de venda generalizada do dia.
 
 
 ## 🔮 O que o modelo prevê para as próximas 24h
@@ -69,17 +69,17 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Hernán Crespo | 88 | 26k coins | 32k coins | 95% |
-| Javier Zanetti | 89 | 70k coins | 81k coins | 95% |
-| Julián Alvarez | 88 | 137k coins | 176k coins | 95% |
-| Carlos Tévez | 88 | 28k coins | 35k coins | 95% |
-| Julián Alvarez | 89 | 200k coins | 226k coins | 93% |
+| Hernán Crespo | 88 | 19k coins | 23k coins | 95% |
+| Pablo Aimar | 88 | 20k coins | 25k coins | 95% |
+| Enzo Fernández | 91 | 34k coins | 42k coins | 95% |
+| Julián Alvarez | 88 | 127k coins | 163k coins | 95% |
+| Julián Alvarez | 89 | 218k coins | 246k coins | 93% |
 | Cristian Romero | 86 | 70k coins | 79k coins | 93% |
-| Nico Paz | 86 | 32k coins | 36k coins | 84% |
-| Alejandro Garnacho | 89 | 130k coins | 143k coins | 84% |
+| Nico Paz | 86 | 32k coins | 35k coins | 84% |
+| Cristian Romero | 85 | 32k coins | 35k coins | 80% |
 
 
-O modelo preditivo identifica uma forte divergência entre preços atuais e expectativas futuras, destacando Hernán Crespo (Icon 88) a 26 mil moedas e Javier Zanetti (Icon 89) a 70 mil moedas, ambos com 95% de probabilidade de alta, como os ativos mais seguros para acumulação imediata. Julián Alvarez aparece em duas versões promissoras: a carta 88 da LALIGA EA SPORTS a 137 mil moedas e a versão 89 a 200 mil moedas, ambas com probabilidades de alta superiores a 93%, sugerindo uma revalorização consistente do meio-campista argentino. Cristian Romero (Premier League 86) a 70 mil moedas e Nico Paz (Serie A TIM 86) a 32 mil moedas, com 93% e 84% de probabilidade de alta respectivamente, oferecem exposição de menor risco em faixas de preço intermediárias. Finalmente, Alejandro Garnacho (89) a 130 mil moedas e Carlos Tévez (88) a 28 mil moedas, ambos com 84% e 95% de probabilidade de alta, reforçam a tese de que as quedas recentes criaram pisos de compra extremamente atrativos para esses ativos específicos.
+O modelo de previsão identifica uma série de oportunidades de alta com probabilidades extremas, destacando Hernán Crespo (88, Icons) com 95% de probabilidade de alta a 19 mil moedas, sugerindo uma entrada segura para traders conservadores. Pablo Aimar (88, LALIGA EA SPORTS) também apresenta 95% de probabilidade de alta a 20 mil moedas, indicando um forte potencial de valorização em cartas de meio-campo de baixo custo. Enzo Fernández (91, Premier League) é projetado com 95% de probabilidade de alta a 34 mil moedas, tornando-o uma opção atraente para times focados em ligas europeias. Julián Alvarez aparece em duas versões, com o de 88 de rating a 127 mil moedas e o de 89 a 218 mil moedas, ambos com 95% e 93% de probabilidade de alta respectivamente, sinalizando uma tendência clara de valorização em seus ativos. Cristian Romero (86, Premier League) e Nico Paz (86, Serie A TIM) completam a lista com 93% e 84% de probabilidade de alta, respectivamente, oferecendo diversificação em posições defensivas e de meio-campo com riscos calculados e retornos esperados significativos.
 
 
 ## ⚠️ Alerta de queda projetada
@@ -88,16 +88,17 @@ Onde o sinal aponta **tendência de baixa** no curto prazo — atenção antes d
 
 | Jogador | OVR | Preço atual | Variação prevista |
 | --- | --- | --- | --- |
-| Marcos Acuña | 89 | 37k coins | -24% |
-| Emiliano Buendía | 83 | 49k coins | -9.7% |
-| Julián Alvarez | 88 | 50k coins | -9.7% |
-| Pablo Aimar | 91 | 30k coins | -8% |
-| Matías Vargas | 84 | 45k coins | -6.8% |
-| Estefanía Banini | 89 | 22k coins | -6.8% |
+| Marcos Acuña | 89 | 32k coins | -24% |
+| Juan Román Riquelme | 88 | 92k coins | -12.6% |
+| Alexis Mac Allister | 89 | 15k coins | -10.2% |
+| Emiliano Buendía | 83 | 46k coins | -9.7% |
+| Julián Alvarez | 88 | 44k coins | -9.7% |
+| Pablo Aimar | 91 | 26k coins | -8% |
+| Estefanía Banini | 89 | 18k coins | -6.8% |
 
 
 ## 🎯 A estratégia do dia
-A estratégia para hoje deve ser extremamente seletiva, priorizando a compra de ativos com queda recente e alta probabilidade de reversão, especificamente Carlos Tévez (88) a 28 mil moedas e Alejandro Garnacho (89) a 130 mil moedas, que oferecem margem de segurança estatística significativa. Deve-se evitar a venda de Maradona (96) e Zanetti (91) neste momento, pois a alta de 27,7% e 11,8% respectivamente indica que o preço ainda está em fase de descoberta e pode se valorizar ainda mais antes de corrigir. Investidores com capital menor devem focar em Estefanía Banini (89) e Matías Vargas (84) para lucros rápidos, mas devem estar prontos para vender assim que o impulso se esgotar, dada a baixa probabilidade de alta sustentada. Para quem busca seguradoras de longo prazo, a compra de Julián Alvarez (88 e 89) e Hernán Crespo (88) é recomendada, pois o modelo projeta alta consistente com probabilidades acima de 93%, neutralizando o ruído do mercado em baixa. O risco principal hoje é manter posições em Dybala (88 e 91) e Lo Celso (91) sem um plano de saída claro, pois a queda de mais de 20% em cada um deles reflete uma perda de confiança do mercado que pode se estender por mais de 24 horas.
+A estratégia do dia deve focar na compra seletiva de ativos com alta probabilidade de retorno, como Hernán Crespo (88), Enzo Fernández (91) e as versões de Julián Alvarez, que apresentam projeções robustas de alta acima de 93%. É crucial evitar a venda pânico de cartas como Javier Mascherano (90) e Paulo Dybala (91), cujas quedas acentuadas podem representar oportunidades de recompra em níveis de suporte mais baixos, dada suas probabilidades de alta ainda relevantes. Traders devem monitorar de perto as oscilações de Lionel Messi (90) e Diego Maradona (96), pois embora estejam em baixa, seus valores absolutos e utilidade em squads podem atrair compradores institucionais em momentos de volatilidade. A recomendação final é manter a liquidez em mãos para aproveitar os fundos de mercado em ativos de baixo custo com alta probabilidade de valorização, como Aimar e Romero, enquanto se aguarda a estabilização do sentimento geral do mercado argentino. Esta abordagem conservadora, mas ativa, permite capitalizar sobre a disrupção atual sem expor o capital a riscos desnecessários em ativos em livre queda.
 
 
 ## 🧪 De onde vêm estes números
@@ -107,16 +108,16 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
-Diego Armando Maradona (96, Icons), com +27.7% em 24h, a 2.23M coins no Console (PS).
+Lionel Messi (90, MLS), com +10.7% em 24h, a 3.10M coins no Console (PS).
 
 **E a maior queda do dia?**  
-Aldana Cometti (85), -29.2% em 24h, a 40k coins.
+Paulo Dybala (91), -37.9% em 24h, a 101k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Hernán Crespo (88) — 95% de probabilidade de alta, a 26k coins.
+Pelo modelo FutQuant, Hernán Crespo (88) — 95% de probabilidade de alta, a 19k coins.
 
 **Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 9 cartas em alta contra 28 em queda (média -4.64%).
+Hoje o mercado está em mercado em baixa — predominam as quedas, com 8 cartas em alta contra 29 em queda (média -11.06%).
 
 **De onde vêm os preços do FutQuant?**  
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
