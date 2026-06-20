@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T10:49:50.000Z
+pubDatetime: 2026-06-20T13:49:55.000Z
 title: "Argentinos no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,58 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Ignacio Russo (84, LPF), com +29.7% em 24h, a 41k coins no PC."
+    a: "Marcos Acuña (89, LPF), com +43.7% em 24h, a 60k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Gabriel Batistuta (89), -49.2% em 24h, a 145k coins."
+    a: "Hernán Crespo (88), -47.9% em 24h, a 21k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 30k coins."
+    a: "Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 28k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 15 cartas em alta contra 28 em queda (média -6.15%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 12 cartas em alta contra 31 em queda (média -4.2%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado de cartas argentinas em PC apresenta um cenário extremamente hostil para investidores de curto prazo, com um sentimento predominantemente vendedor que resultou em uma média de queda de -6.15% em 24 horas, refletindo a liquidação massiva de ativos por traders buscando proteger capital. Com apenas 15 altas contra 28 quedas registradas, a dinâmica atual sugere uma correção severa impulsionada pela falta de demanda orgânica e pela presença de grandes vendedores despejando cartas de alta liquidez. Este ambiente de aversão ao risco força os jogadores a reconsiderarem suas estratégias de holdings, pois a volatilidade negativa está se espalhando por diferentes níveis de preço, desde os ícones caríssimos até os jogadores de entry-level. A análise do dia revela que apenas cartas com utilidade específica em eventos ou SBCs imediatas conseguiram resistir à pressão vendedora, enquanto a maioria sofreu recuos significativos. Portanto, a prudência é o caminho mais seguro, já que tentar contrariar a tendência de mercado sem um catalisador claro pode resultar em perdas substanciais para quem não estiver atento aos sinais de exaustão da venda.
+O mercado de cartas argentinas em PC apresenta um cenário predominantemente vendedor nesta sexta-feira, 20 de junho de 2026, caracterizado por uma liquidez em retirada e uma clara desconfiança dos traders em manter posições de longo prazo. Com uma média negativa de 4,2% em 24 horas, o sentimento geral é de cautela, onde a maioria das cartas recuou significativamente, resultando em um balanço desfavorável de apenas 12 altas contra 31 quedas no segmento. Este contexto de pressão vendedora exige que os analistas e comerciantes estejam atentos não apenas aos preços absolutos, mas à velocidade com que os ativos estão sendo liquidados, pois o volume de ofertas supera amplamente o volume de pedidos de compra. A volatilidade é o fator chave hoje, com movimentos bruscos em ambas as direções, mas a tendência macro permanece claramente de baixa, sugerindo que qualquer compra deve ser vista como uma especulação de curto prazo ou para uso imediato em times de FUT, e não como um investimento de retenção. O trader deve estar ciente de que o suporte de preço está sendo testado constantemente, e a falta de notícias positivas ou eventos de jogo que impulsionem a demanda está permitindo que as vendas naturais do mercado consumam os preços das cartas mais populares.
 
-> 🟢 **Maior alta:** Ignacio Russo (84) **+29.7%** · 🔴 **Maior baixa:** Gabriel Batistuta (89) **-49.2%**
+> 🟢 **Maior alta:** Marcos Acuña (89) **+43.7%** · 🔴 **Maior baixa:** Hernán Crespo (88) **-47.9%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ignacio Russo | 84 | LPF | 41k coins | +29.7% | -6.7% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 34k coins | +26.6% | -20.7% |
-| Cristian Romero | 86 | Premier League | 85k coins | +21.4% | +42.9% |
-| Paulo Dybala | 88 | Serie A TIM | 160k coins | +17.6% | +119.2% |
+| Marcos Acuña | 89 | LPF | 60k coins | +43.7% | +39.5% |
+| Ignacio Russo | 84 | LPF | 42k coins | +43.1% | -3.5% |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 44k coins | +34.8% | -1.7% |
+| Cristian Romero | 86 | Premier League | 85k coins | +21.4% | +102.4% |
+| Matías Vargas | 84 | Brasileirão | 33k coins | +16% | -14.3% |
+| Paulo Dybala | 88 | Serie A TIM | 169k coins | +14.3% | +119.2% |
 | Diego Armando Maradona | 96 | Icons | 3.50M coins | +9.3% | -1.7% |
-| Matías Vargas | 84 | Brasileirão | 33k coins | +9.1% | -15.9% |
-| Lionel Messi | 87 | MLS | 297k coins | +9.1% | +36.4% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 35k coins | +9% | +37.1% |
-| Paulo Gazzaniga | 85 | LALIGA EA SPORTS | 30k coins | +7.1% | +0.8% |
-| Mariano Troilo | 86 | Serie A TIM | 27k coins | +3.4% | 0% |
+| Julián Alvarez | 94 | LALIGA EA SPORTS | 650k coins | +5% | +4.8% |
+| Cristian Romero | 85 | Premier League | 30k coins | +3.5% | +1.7% |
 
 
-Entre as poucas exceções à regra de queda, Ignacio Russo se destaca com uma alta impressionante de 29.7% em 24 horas, atingindo 41k coins, o que indica uma compra agressiva de traders que antecipam sua inclusão em SBCs futuros ou um evento promocional da Liga Profissional Argentina. Santiago Hidalgo também se firmou como uma das melhores oportunidades, subindo 26.6% para 34k coins, um movimento que combina alta probabilidade de alta futura de 49% com uma base de preço acessível para especulação de curto prazo. No meio da tabela de valores, Cristian Romero registrou uma subida robusta de 21.4%, posicionando-se em 85k coins, o que reflete a demanda constante por zagueiros de Premier League com estatísticas sólidas para times competitivos. Paulo Dybala, na sua versão de 88 rating, subiu 17.6% para 160k coins, demonstrando que mesmo em um mercado fraco, ícones da Seleção Argentina mantêm um valor residual forte devido à sua utilidade em eventos temáticos. Por fim, Diego Armando Maradona, o ícone de 96 rating, apresentou uma alta modesta mas significativa de 9.3%, encerrando em 3.50M coins, um movimento que sugere acumulação cautelosa por colecionadores de alto nível que veem o preço atual como um ponto de entrada seguro.
+Apesar do clima de queda, alguns ativos resistiram e até se valorizaram, liderados por Marcos Acuña (89, LPF), que registrou um impressionante aumento de 43,7% em 24 horas, atingindo os 60 mil coins, um movimento impulsionado por uma probabilidade de alta calculada em 41% que atraiu compradores agressivos. Ignacio Russo (84, LPF) também se destacou com alta de 43,1%, chegando a 42 mil coins, beneficiando-se de uma probabilidade de alta de 32% que indica uma demanda concentrada em suas estatísticas específicas para ligas de menor nível. Gerónimo Rulli (84, Ligue 1 McDonald's) subiu 34,8% para 44 mil coins, com uma probabilidade de alta de 26% que, embora menor, foi suficiente para criar um rally de curto prazo devido à escassez momentânea de ofertas no mercado. Cristian Romero (86, Premier League) apresentou uma alta mais conservadora, porém significativa, de 21,4% para 85 mil coins, apoiado por uma alta probabilidade de alta de 47%, o que sugere que o mercado vê sustentabilidade nesse preço devido à sua utilidade em SBCs ou times de Premier League. Matías Vargas (84, Brasileirão) completou o grupo de altas com 16% de crescimento, atingindo 33 mil coins, com uma probabilidade de alta de 40% que reflete o interesse crescente em ativos do futebol brasileiro que estão sendo negociados na categoria argentina por conveniência de busca ou liga.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Gabriel Batistuta | 89 | Icons | 145k coins | -49.2% | -12.8% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 29k coins | -47.8% | -21.7% |
-| Diego Armando Maradona | 95 | Icons | 1.69M coins | -47.2% | +30.3% |
-| Diego Armando Maradona | 96 | Icons | 1.45M coins | -44.4% | -38.5% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 126k coins | -39.7% | -10.6% |
-| Emiliano Martínez | 88 | Premier League | 40k coins | -34.5% | -2.4% |
-| Exequiel Zeballos | 83 | LPF | 72k coins | -27.9% | -41.2% |
-| Paulo Dybala | 91 | Serie A TIM | 198k coins | -26.7% | +40.4% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 30k coins | -22.3% | -9.6% |
-| Lionel Messi | 89 | MLS | 340k coins | -20.9% | -20.7% |
+| Hernán Crespo | 88 | Icons | 21k coins | -47.9% | -27.4% |
+| Gabriel Batistuta | 89 | Icons | 135k coins | -44.9% | -24.2% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 126k coins | -42.4% | -12.9% |
+| Diego Armando Maradona | 95 | Icons | 1.55M coins | -38.9% | +8.1% |
+| Emiliano Martínez | 88 | Premier League | 40k coins | -38.8% | -15.5% |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 28k coins | -34.7% | -17.8% |
+| Rafael Profini | 84 | A-League Men | 30k coins | -29.8% | -18.8% |
+| Pablo Aimar | 91 | LALIGA EA SPORTS | 30k coins | -28.8% | -24.4% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 30k coins | -27.3% | -5.5% |
+| Enzo Fernández | 91 | Premier League | 60k coins | -22.8% | -6.2% |
 
 
-A lista de perdedoras é dominada por quedas acentuadas, com Gabriel Batistuta liderando o declínio com uma queda devastadora de 49.2%, caindo para 145k coins, o que sinaliza uma correção de preço excessiva após eventuais hype passados. Juan Foyth acompanhou essa tendência negativa com uma queda de 47.8%, atingindo 29k coins, um sinal claro de que defensores de clubes menores estão sendo liquidados sem resistência de compra. Outro Maradona, desta vez o ícone de 95 rating, sofreu uma queda brutal de 47.2%, recuando para 1.69M coins, demonstrando a alta volatilidade dos ícones mais caros que são sensíveis a mudanças mínimas no sentimento do mercado. A versão de 96 rating de Maradona também não foi poupada, caindo 44.4% para 1.45M coins, o que contradiz a alta mencionada anteriormente e sugere uma disputa intensa entre diferentes listagens ou uma manipulação de preço em diferentes faixas de rating. Julián Alvarez, com uma queda de 39.7% para 126k coins, mostra que até mesmo os jogadores da geração atual estão sendo abandonados por traders que preferem manter o caixa em um ambiente incerto.
+O lado vendedor do mercado foi brutal, especialmente para ícones e cartas de alta demanda que sofreram liquidações massivas, com Hernán Crespo (88, Icons) despencando 47,9% em 24 horas para apenas 21 mil coins, um colapso acentuado pela baixa probabilidade de alta de 24% que desencorajou qualquer tentativa de compra por oscilação. Gabriel Batistuta (89, Icons) também enfrentou uma queda severa de 44,9%, caindo para 135 mil coins, com uma probabilidade de alta de apenas 23% que sinaliza uma falta de interesse imediato dos grandes traders em segurar o ativo em níveis mais altos. Julián Alvarez (88, LALIGA EA SPORTS) perdeu 42,4% do seu valor, atingindo 126 mil coins, apesar de ter uma probabilidade de alta de 44%, o que indica que a pressão vendedora superou a expectativa de recuperação no curto prazo. Diego Armando Maradona (95, Icons) caiu 38,9% para 1,55 milhão de coins, com uma probabilidade de alta de 23% que reflete a saturação do mercado de ícones de alto custo, onde os investidores preferem realizar lucros e sair do ativo. Emiliano Martínez (88, Premier League) também recuou 38,8% para 40 mil coins, com uma probabilidade de alta de 37% que não foi suficiente para conter a venda em massa, sugerindo que o preço de equilíbrio ainda não foi encontrado neste momento de baixa liquidez.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,14 +73,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Giovani Lo Celso | 91 | 30k coins | 32k coins | 80% |
+| Giovani Lo Celso | 91 | 28k coins | 29k coins | 80% |
 
 
-O modelo de previsão aponta para Giovani Lo Celso como a principal oportunidade de compra, com uma probabilidade de alta de 80% e um preço atual de apenas 30k coins, indicando um potencial de retorno significativo em um mercado onde as chances de valorização são raras.
+O modelo preditivo identifica uma única oportunidade clara de alta no curto prazo, focando exclusivamente em Giovani Lo Celso (91, LALIGA EA SPORTS), que está cotado a 28 mil coins com uma probabilidade de alta excepcionalmente alta de 80%. Esta previsão sugere que a queda recente de 34,7% em 24 horas pode ter sido um exagero voador de vendas, criando uma oportunidade de compra em fundo de preço antes de uma correção positiva. A alta probabilidade de 80% indica que os indicadores técnicos e de volume de mercado estão alinhados para uma reversão imediata, tornando este ativo o único no segmento argentino com sinal de compra forte para os próximos ciclos de mercado. Não há outras previsões de alta significativas para outros jogadores listados, o que reforça a ideia de que a maioria dos outros ativos continuará sob pressão ou em consolidação lateral, sem força motriz clara para recuperar os valores perdidos nas últimas 24 horas.
 
 
 ## 🎯 Conclusão do dia
-A estratégia recomendada para o dia é manter a posição em caixa e evitar compras impulsivas, exceto para o Giovani Lo Celso, que apresenta uma probabilidade estatística elevada de valorização em um mercado dominado por vendas. Traders devem considerar a venda de ativos como Gabriel Batistuta e Juan Foyth se ainda os possuírem, pois as quedas de quase 50% sugerem que o fundo do poço pode estar próximo, mas o risco de continuação da queda permanece alto. É aconselhável segurar as cartas de alto valor como Maradona e Dybala apenas se o objetivo for longo prazo, já que a volatilidade atual pode criar oportunidades de recompra mais baratas no futuro. Jogadores como Ignacio Russo e Santiago Hidalgo merecem atenção para compras de curto prazo, pois suas altas recentes indicam momentum positivo que pode se sustentar nos próximos ciclos de mercado. Evite completamente a entrada em ativos de baixa liquidez como Exequiel Zeballos, que caiu 27.9%, pois a falta de volume pode dificultar a saída rápida em caso de novas quedas. O foco deve estar na preservação de capital, aguardando sinais claros de reversão de tendência ou anúncios de eventos que possam reativar a demanda por cartas argentinas.
+A estratégia do dia deve ser extremamente seletiva, focando na compra de Giovani Lo Celso (91, LALIGA EA SPORTS) a 28 mil coins devido à alta probabilidade de recuperação, enquanto se evita totalmente a compra de ícones como Hernán Crespo e Gabriel Batistuta, que ainda exibem sinais de queda livre. Recomenda-se segurar ativos como Cristian Romero e Matías Vargas apenas se forem necessários para uso imediato, pois suas altas recentes podem ser corrigidas rapidamente no ambiente vendedor predominante. Traders devem evitar acumular posições em Diego Armando Maradona (95, Icons) e Julián Alvarez (88, LALIGA EA SPORTS) até que haja sinais claros de estabilização, pois a probabilidade de alta insuficiente sugere que o fundo ainda não foi atingido. A venda de ativos de alto risco, como Emiliano Martínez e Rafael Profini, é aconselhada se o objetivo for proteger capital, já que a tendência de queda de 38,8% e 29,8% respectivamente, não mostra sinais de reversão imediata. O timing ideal para novas entradas é aguardar a confirmação da alta de Lo Celso ou uma estabilização geral do mercado nas próximas horas, evitando comprar no meio de quedas acentuadas sem suporte técnico claro.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -91,16 +90,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Ignacio Russo (84, LPF), com +29.7% em 24h, a 41k coins no PC.
+Marcos Acuña (89, LPF), com +43.7% em 24h, a 60k coins no PC.
 
 **E a maior queda do dia?**  
-Gabriel Batistuta (89), -49.2% em 24h, a 145k coins.
+Hernán Crespo (88), -47.9% em 24h, a 21k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 30k coins.
+Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 28k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 15 cartas em alta contra 28 em queda (média -6.15%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 12 cartas em alta contra 31 em queda (média -4.2%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
