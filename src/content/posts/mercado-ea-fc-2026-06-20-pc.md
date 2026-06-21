@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-20T22:49:46.000Z
+pubDatetime: 2026-06-21T01:49:51.000Z
 title: "Argentinos no EA FC hoje (20/06/2026): mercado, altas, baixas e previsões — PC"
 draft: false
 featured: true
@@ -13,59 +13,59 @@ tags:
 description: "Análise completa do mercado do EA FC Ultimate Team em 20/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/06/2026)?"
-    a: "Matías Soulé (86, Serie A TIM), com +58.8% em 24h, a 32k coins no PC."
+    a: "Matías Soulé (86, Serie A TIM), com +47.5% em 24h, a 30k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Esteban Cambiasso (86), -39.4% em 24h, a 29k coins."
+    a: "Javier Mascherano (90), -50% em 24h, a 30k coins."
   - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 28k coins."
+    a: "Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 26k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 33 em queda (média -4.4%)."
+    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 23 cartas em alta contra 27 em queda (média -2.48%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O cenário do mercado de Argentinos na plataforma PC para o dia 20 de junho de 2026 é dominado por um sentimento fortemente vendedor, caracterizado por uma pressão de liquidez que forçou a maioria dos ativos a recuarem, com 33 quedas contra apenas 16 altas, resultando em uma média negativa de -4.4% em 24 horas, o que sinaliza uma cautela extrema dos traders em segurar posições de longo prazo sem catalisadores imediatos, criando um ambiente de 'buy the rumor, sell the news' invertido onde a ausência de notícias positivas é interpretada como sinal de venda. Este contexto de volatilidade defensiva exige que os analistas de mercado filtrem com rigor as exceções à regra, pois enquanto a massa crítica de cartas perde valor, movimentos isolados de alta podem indicar oportunidades de arbitragem ou reações específicas a eventos de jogo, sendo crucial distinguir entre alta orgânica por demanda real e alta artificial por falta de oferta momentânea. A dinâmica atual sugere que o capital está rotacionando rapidamente para ativos de menor risco ou para carteiras em moeda forte, deixando as cartas intermediárias e as versões comuns de lendas expostas a correções bruscas, um fenômeno que observamos claramente na divergência entre as versões de Lionel Messi, onde a variante de maior raridade sobe enquanto a comum despencar. Portanto, a estratégia para o dia deve ser altamente seletiva, focando apenas nos ativos que demonstram resiliência técnica ou que estão sendo impulsionados por probabilidades de alta confirmadas pelo modelo, evitando-se a tentação de comprar no topo de ativos que já sofreram exaustão de compradores.
+O mercado de cartas argentinas no PC apresenta um cenário de extrema cautela e liquidez agressiva neste dia 20 de junho de 2026, caracterizado por um sentimento predominantemente vendedor que penalizou a maioria dos ativos disponíveis na plataforma. Com uma média negativa de 2.48% nas últimas 24 horas, onde 27 jogadores sofreram quedas de valor contra apenas 23 que conseguiram manter ou elevar seus preços, o ambiente exige uma análise técnica rigorosa para evitar perdas por impaciência ou compras em topos de mercado. A volatilidade observada reflete uma dinâmica de correção de preços em ativos que estavam superaquecidos, enquanto oportunidades de compra surgem em cartas com alta probabilidade de recuperação futura, indicando que o momento é propício para acumulação seletiva e não para especulação de curto prazo. Traders experientes devem focar na divergência entre o sentimento imediato de venda e as projeções estatísticas de alta, utilizando as quedas acentuadas como pontos de entrada estratégicos para ativos de longo prazo, especialmente considerando a probabilidade de alta de 66% para jogadores como Mascherano. O tom do dia é de desconfiança generalizada, mas com bolsões de oportunidade claros para quem entende de timing e não se deixa levar pelo pânico de venda, mantendo-se atento às cartas com fundamentos técnicos sólidos que contrariam a tendência de baixa do mercado geral.
 
-> 🟢 **Maior alta:** Matías Soulé (86) **+58.8%** · 🔴 **Maior baixa:** Esteban Cambiasso (86) **-39.4%**
+> 🟢 **Maior alta:** Matías Soulé (86) **+47.5%** · 🔴 **Maior baixa:** Javier Mascherano (90) **-50%**
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matías Soulé | 86 | Serie A TIM | 32k coins | +58.8% | +27% |
-| Lionel Messi | 90 | MLS | 3.30M coins | +15% | 0% |
-| Exequiel Zeballos | 83 | LPF | 51k coins | +14.4% | -63.2% |
-| Ignacio Russo | 84 | LPF | 40k coins | +14.3% | -1.2% |
-| Alexis Mac Allister | 89 | Premier League | 22k coins | +10.3% | +7.5% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 29k coins | +9.2% | -0.8% |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 50k coins | +6.7% | +11.4% |
-| Diego Armando Maradona | 96 | Icons | 3.36M coins | +5.3% | -15.8% |
-| Cristian Romero | 85 | Premier League | 30k coins | +4.3% | +2.6% |
-| Marcos Senesi | 88 | Premier League | 40k coins | +3.6% | +77.6% |
+| Matías Soulé | 86 | Serie A TIM | 30k coins | +47.5% | +18% |
+| Diego Armando Maradona | 96 | Icons | 1.87M coins | +21% | -25.1% |
+| Rafael Profini | 84 | A-League Men | 40k coins | +18.5% | -5.3% |
+| Ignacio Russo | 84 | LPF | 40k coins | +15.9% | -7% |
+| Marcos Senesi | 88 | Premier League | 45k coins | +14.6% | +83.7% |
+| Alexis Mac Allister | 89 | Premier League | 25k coins | +11% | +13.8% |
+| Juan Román Riquelme | 89 | Icons | 350k coins | +10.8% | +1.2% |
+| Pablo Aimar | 91 | LALIGA EA SPORTS | 42k coins | +9.2% | -14.9% |
+| Mariano Troilo | 86 | Serie A TIM | 30k coins | +9.1% | 0% |
+| Lautaro Martínez | 90 | Serie A TIM | 44k coins | +8.1% | -3.3% |
 
 
-Destaque absoluto para Matías Soulé, cuja carta de 86 rating da Serie A TIM registrou um impressionante salto de 58.8% em 24 horas, atingindo a marca de 32k coins, um movimento robusto apoiado por uma probabilidade de alta de 59%, o que sugere que traders agressivos estão acumulando esta carta em antecipação a um possível SBC ou evento de seleção de time, tornando-a o ativo mais quente do dia para swing trades de curto prazo. Lionel Messi, em sua versão icônica de 90 rating da MLS, também se destaca com uma alta de 15% em 24 horas, posicionando-se em 3.30M coins, embora sua probabilidade de alta seja mais moderada em 32%, indicando que este movimento é sustentado mais pela escassez de oferta no topo do mercado do que por uma demanda massiva de entrada, sendo um ativo de luxo para quem busca preservação de capital em ativos de alta liquidez. Exequiel Zeballos, com 83 rating da LPF, subiu 14.4% para 51k coins, com uma probabilidade de alta de 26%, o que pode indicar um ajuste de preço após uma queda anterior ou uma especulação pontual sobre seu desempenho em jogo, servindo como um bom exemplo de como cartas de time nacional podem ter volatilidade imprevisível em dias de pouco volume geral. Ignacio Russo, outro produto da LPF com 84 rating, acompanhou a tendência com alta de 14.3% para 40k coins e probabilidade de 32%, sugerindo uma correlação de mercado entre defensores argentinos de ligas menores que estão sendo comprados em lote para compor times de SBCs temáticos ou de liga específica. Alexis Mac Allister, da Premier League com 89 rating, teve um movimento mais conservador mas sólido de 10.3% para 22k coins, com probabilidade de 27%, reforçando a ideia de que o mercado está buscando segurança em ativos de ligas premium, mesmo que a magnitude do ganho seja menor, o que é ideal para traders que preferem exposição moderada com menor risco de reversão imediata.
+Entre os ativos que conseguiram se destacar contra a maré de vendas, Matías Soulé (86, Serie A TIM) lidera com uma alta impressionante de 47.5% em 24 horas, atingindo 30 mil coins, impulsionado por uma probabilidade de alta de 59% que sugere forte demanda sustentada por investidores buscando ativos de médio prazo com retorno rápido. Diego Armando Maradona (96, Icons) também registrou ganhos significativos de 21%, posicionando-se em 1.87 milhão de coins, embora sua probabilidade de alta de apenas 16% indique que este movimento pode ser uma correção momentânea em um ativo de luxo que tende a estabilizar em patamares mais altos devido à sua escassez intrínseca. Rafael Profini (84, A-League Men) subiu 18.5% para 40 mil coins, com uma probabilidade de alta de 42% que valida a tese de compra em ligas menores onde a liquidez é mais sensível a movimentos de volume, enquanto Ignacio Russo (84, LPF) acompanhou a tendência com alta de 15.9% para 40 mil coins, reforçando a narrativa de valorização de jogadores da liga argentina local. Marcos Senesi (88, Premier League) completou o top cinco com alta de 14.6% para 45 mil coins, aproveitando sua probabilidade de alta de 42% para atrair traders que buscam defensores premium com potencial de crescimento em metadinâmica de equipe. Alexis Mac Allister (89, Premier League) e Juan Román Riquelme (89, Icons) tiveram movimentos mais moderados de 11% e 10.8% respectivamente, com preços em 25 mil e 350 mil coins, demonstrando que mesmo em um dia de baixa, ativos com forte apelo histórico ou de time podem manter valorização relativa, embora suas probabilidades de alta de 27% e 19% sugiram cautela para novas entradas a esses preços.
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Esteban Cambiasso | 86 | Serie A TIM | 29k coins | -39.4% | -36.8% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 30k coins | -37% | -25.3% |
-| Hernán Crespo | 88 | Icons | 26k coins | -30% | -7.9% |
-| Lionel Messi | 88 | MLS | 750k coins | -17.9% | +8.8% |
-| Estefanía Banini | 89 | Liga F | 24k coins | -17.2% | +35.2% |
-| Nico Paz | 90 | Serie A TIM | 52k coins | -15.9% | +11.5% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 33k coins | -15% | -28.4% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 33k coins | -14.8% | +0.7% |
-| Lionel Messi | 88 | MLS | 648k coins | -13.8% | -1.1% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 28k coins | -13.6% | -13.6% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 30k coins | -50% | -36.8% |
+| Diego Armando Maradona | 95 | Icons | 1.45M coins | -45.5% | +36.5% |
+| Gabriel Batistuta | 92 | Icons | 275k coins | -43.1% | -67.1% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 35k coins | -35.8% | -27.2% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 27k coins | -30.8% | -4.4% |
+| Nico Paz | 90 | Serie A TIM | 50k coins | -27.9% | -4.3% |
+| Matías Vargas | 84 | Brasileirão | 34k coins | -26% | -27.6% |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 26k coins | -23.7% | -22.1% |
+| Cristian Romero | 86 | Premier League | 65k coins | -23.5% | +54.8% |
+| Enzo Fernández | 91 | Premier League | 63k coins | -23.5% | +1.6% |
 
 
-Esteban Cambiasso sofreu a maior queda relativa, despencando 39.4% em 24 horas para 29k coins, com uma probabilidade de alta baixa de 24%, o que indica uma fuga massiva de capital deste ativo, possivelmente devido ao final de um ciclo de hype ou à realização de lucros por traders que entraram em posições anteriores, tornando-o um ativo de risco extremo para compra imediata sem sinais claros de suporte técnico. Gerónimo Rulli apresenta um caso fascinante de divergência, onde sua carta de 87 rating da Ligue 1 McDonald's caiu 37% para 30k coins, enquanto sua variante de 84 rating subiu 6.7%, sugerindo que o mercado está rotacionando capital da versão mais cara e menos líquida para a versão mais acessível, ou que houve uma liberação de stock da versão 87 que inundou o mercado e derrubou o preço, um sinal claro de que a oferta superou a demanda na variante premium. Hernán Crespo, ícone com 88 rating, recuou 30% para 26k coins, com probabilidade de alta de apenas 24%, refletindo a tendência de vendas em ativos de ícones que não estão recebendo destaque em promoções atuais, o que torna sua recuperação lenta e dependente de novos eventos de mercado para reavivar o interesse dos compradores. Lionel Messi, em sua versão de 88 rating da MLS, caiu 17.9% para 750k coins, com probabilidade de alta de apenas 10%, demonstrando claramente que a demanda pelos ativos de Messi está concentrada na versão de 90 rating, enquanto a versão comum é tratada como commodity de baixo valor agregado, sendo uma área de mercado a ser evitada por traders que buscam apreciação de capital. Estefanía Banini, com 89 rating da Liga F, perdeu 17.2% para 24k coins, apesar de ter uma probabilidade de alta de 50%, o que pode indicar um fundo técnico sendo testado, mas a queda significativa sugere que a pressão vendedora ainda domina o curto prazo, exigindo cautela antes de qualquer entrada de compra.
+As quedas mais expressivas do dia revelam uma correção violenta em ativos que estavam em níveis insustentáveis, com Javier Mascherano (90, LALIGA EA SPORTS) despencando 50% em 24 horas para 30 mil coins, um movimento que, apesar da dor imediata, é tecnicamente saudável dado seu alto potencial de recuperação futuro. Diego Armando Maradona (95, Icons) sofreu uma queda drástica de 45.5%, caindo para 1.45 milhão de coins, o que representa uma oportunidade de ouro para colecionadores de ícones, já que a probabilidade de alta de 23% indica que o ativo ainda tem espaço para retomar sua tendência de longo prazo em valores mais elevados. Gabriel Batistuta (92, Icons) também recuou 43.1% para 275 mil coins, com uma probabilidade de alta de 50% que sugere que a venda em massa foi exagerada e que o preço atual pode ser o fundo do poço para esta carta icônica. Gerónimo Rulli (87, Ligue 1 McDonald's) caiu 35.8% para 35 mil coins, enquanto Valentín Barco (88, Ligue 1 McDonald's) perdeu 30.8% para 27 mil coins, refletindo uma desvalorização setorial em jogadores franceses argentinos que estavam sobreavaliados em comparação com seus pares de mercado. Nico Paz (90, Serie A TIM) e Matías Vargas (84, Brasileirão) também registraram quedas significativas de 27.9% e 26% respectivamente, com preços em 50 mil e 34 mil coins, indicando que a liquidez nesses ativos de ataque foi drenada rapidamente, criando zonas de valor para traders que entendem a ciclicidade de preços em cartas de elite e potencial de seleção de times de semana.
 
 
 ## 🔮 Projeções do modelo para 24h
@@ -74,14 +74,14 @@ Os nomes com **melhor leitura de valorização** segundo o modelo (confiança al
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
-| Giovani Lo Celso | 91 | 28k coins | 30k coins | 80% |
+| Giovani Lo Celso | 91 | 26k coins | 28k coins | 80% |
 
 
-O modelo de previsão identifica Giovani Lo Celso, com 91 rating da LALIGA EA SPORTS, como o ativo com maior potencial de valorização, apresentando uma probabilidade de alta de 80% e um preço atual de 28k coins, o que sugere uma forte divergência entre o preço atual e o valor percebido pelo algoritmo, possivelmente devido a uma subavaliação temporária ou à antecipação de um aumento de demanda por sua estatística de passe ou velocidade, tornando-o o alvo principal para operações de compra estratégica com horizonte de curto a médio prazo, especialmente considerando que ativos com mais de 90 rating tendem a ter maior liquidez e resiliência em momentos de volatilidade de mercado.
+O modelo preditivo identifica Giovani Lo Celso (91, LALIGA EA SPORTS) como o ativo com maior probabilidade de reversão de tendência, apontando uma chance de alta de 80% com o preço atual em 26 mil coins, o que configura uma oportunidade de assimetria favorável para compra imediata e segura, dada a divergência entre a queda recente de 23.7% e a forte expectativa de recuperação estatística.
 
 
 ## 🎯 Conclusão do dia
-A estratégia recomendada para o dia é de extrema seletividade, focando na compra de Giovani Lo Celso pela alta probabilidade de 80% de alta, enquanto se evita completamente a exposição a Esteban Cambiasso e Gerónimo Rulli (87) devido à pressão vendedora intensa e falta de suporte técnico, priorizando a liquidez e a segurança em ativos como Lionel Messi (90) e Matías Soulé para operações de day trading rápidas que aproveitem a volatilidade residual do mercado. É fundamental não tentar 'pegar a faca caindo' em ativos como Hernán Crespo e Lionel Messi (88), pois a queda de preços em ativos de ícones e versões comuns de estrelas geralmente precede uma fase lateral de consolidação, o que travaria capital desnecessariamente, enquanto a oportunidade real reside na arbitragem entre as versões de jogadores como Rulli e na acumulação de ativos de alta probabilidade como Lo Celso antes que o mercado reprice esses descontos. Traders devem manter posições enxutas, realizando lucros parciais em Matías Soulé e Ignacio Russo caso alcancem alvos de resistência, e estar preparados para rotacionar capital rapidamente para o lado comprador se o sentimento geral do mercado começar a inverter, mas até lá, a defesa do capital através da seleção criteriosa dos ativos com fundamentos de probabilidade superiores é a chave para navegar este dia de clima vendedor predominante.
+A estratégia recomendada para hoje é focar na compra agressiva de ativos com alta probabilidade de recuperação, especialmente Giovani Lo Celso a 26 mil coins e Javier Mascherano a 30 mil coins, que oferecem um perfil de risco-retorno atrativo diante das quedas excessivas que descolaram seus preços de equilíbrio. Traders devem segurar suas posições em ícones de luxo como Maradona (95) e Batistuta, pois as quedas de 45.5% e 43.1% respectivamente criaram fundos claros para valorização de longo prazo, evitando vender no pânico e aguardando a estabilização do mercado. É crucial evitar novas entradas em Matías Soulé e Rafael Profini neste momento, pois as altas de 47.5% e 18.5% respectivamente podem ser seguidas por correções naturais após o pico de volume inicial, reduzindo o espaço de lucro para novas compras. O timing ideal é acumular esses ativos desvalorizados durante as horas de menor liquidez do servidor, quando os preços tendem a ser mais baixos devido à falta de compradores, e vender na próxima semana quando a demanda habitual retornar. Mantenha-se disciplinado, ignore o ruído do mercado de curto prazo e foque na matemática das probabilidades de alta, que indicam que o fundo para a maioria dos ativos argentinos já foi testado e superado, preparando o terreno para uma fase de valorização sustentada nos próximos dias.
 
 
 ## 📊 Nossa metodologia em 30 segundos
@@ -91,16 +91,16 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/06/2026)?**  
-Matías Soulé (86, Serie A TIM), com +58.8% em 24h, a 32k coins no PC.
+Matías Soulé (86, Serie A TIM), com +47.5% em 24h, a 30k coins no PC.
 
 **E a maior queda do dia?**  
-Esteban Cambiasso (86), -39.4% em 24h, a 29k coins.
+Javier Mascherano (90), -50% em 24h, a 30k coins.
 
 **Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 28k coins.
+Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 26k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**  
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 16 cartas em alta contra 33 em queda (média -4.4%).
+Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 23 cartas em alta contra 27 em queda (média -2.48%).
 
 **Os dados de preço do FutQuant são confiáveis?**  
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
