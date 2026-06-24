@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-23T22:48:09.000Z
+pubDatetime: 2026-06-24T01:48:09.000Z
 title: "Jogadores baratos de Argentinos no EA FC (23/06/2026) — joias por menos de 15k — PC"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lautaro Martínez | 88 | ST | Serie A Enilive | 2k coins | -46.9% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -4.1% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11k coins | -11.8% |
-| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -21.1% |
+| Lautaro Martínez | 88 | ST | Serie A Enilive | 2k coins | -51.5% |
+| Diego Milito | 88 | ST | Serie A TIM | 11k coins | -6.1% |
+| Santiago Castro | 87 | ST | Serie A TIM | 11k coins | -39.7% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | +2.1% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | -28.7% |
 
 
 ## 📈 Destaques
 
 - **Lautaro Martínez (88, ST)** da Serie A Enilive, a apenas **2k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **11k coins**
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
+
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
