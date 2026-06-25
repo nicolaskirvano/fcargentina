@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T19:48:05.000Z
+pubDatetime: 2026-06-25T22:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 25/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/06/2026)?"
-    a: "Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alexis Mac Allister (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Alexis Mac Allister (89) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,23 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexis Mac Allister | 89 | CM | Premier League | 14k coins | -32.6% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12k coins | -27.5% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +6.4% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | -3.8% |
-| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -28.6% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | +1.9% |
+| Alexis Mac Allister | 89 | CM | Premier League | 13k coins | -38.6% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | 0% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | -25% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13k coins | -2% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -23.6% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -9.6% |
+| Matías Soulé | 86 | CAM | Serie A TIM | 14k coins | -25.6% |
 
 
 ## 📈 Destaques
 
-- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13k coins**
 
 - **Santiago Castro (87, ST)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
@@ -64,7 +65,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/06/2026)?**  
-Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
