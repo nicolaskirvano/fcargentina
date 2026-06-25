@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-25T13:48:05.000Z
+pubDatetime: 2026-06-25T16:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (25/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "As melhores cartas custo-benefício do EA FC Ultimate Team em 25/06/2026 (Console (PS)): jogadores 83+ por menos de 15 mil coins para montar time forte gastando pouco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/06/2026)?"
-    a: "Estefanía Banini (89, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS)."
+    a: "Estefanía Banini (89, Liga F) aparece como melhor custo-benefício, a 13k coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/06/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Estefanía Banini (89) por apenas 14k coins.
+> 💰 **Melhor pechincha:** Estefanía Banini (89) por apenas 13k coins.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -29,25 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Estefanía Banini | 89 | CM | Liga F | 14k coins | -23.6% |
+| Estefanía Banini | 89 | CM | Liga F | 13k coins | +5.1% |
 | Diego Milito | 88 | ST | Serie A TIM | 11k coins | -2.1% |
 | Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | -23.5% |
-| Santiago Castro | 87 | ST | Serie A TIM | 13k coins | -27.8% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 15k coins | +3.4% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11k coins | -15.4% |
+| Santiago Castro | 87 | ST | Serie A TIM | 12k coins | -26.5% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11k coins | -13.5% |
 
 
 ## 📈 Destaques
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **13k coins**
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **11k coins**
 
 - **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **15k coins**
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
@@ -64,7 +63,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/06/2026)?**  
-Estefanía Banini (89, Liga F) aparece como melhor custo-benefício, a 14k coins no Console (PS).
+Estefanía Banini (89, Liga F) aparece como melhor custo-benefício, a 13k coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
