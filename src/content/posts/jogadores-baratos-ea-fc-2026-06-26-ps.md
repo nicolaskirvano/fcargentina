@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-26T19:48:05.000Z
+pubDatetime: 2026-06-26T22:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (26/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,10 +29,10 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +4.3% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | +6.5% |
-| Santiago Castro | 87 | ST | Serie A TIM | 12k coins | -7.4% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +14% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +6.5% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | 0% |
+| Santiago Castro | 87 | ST | Serie A TIM | 13k coins | +1.9% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -2% |
 
 
 ## 📈 Destaques
@@ -41,9 +41,9 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
 
-- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **12k coins**
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **13k coins**
 
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14k coins**
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **12k coins**
 
 
 ## Por que estas cartas?
