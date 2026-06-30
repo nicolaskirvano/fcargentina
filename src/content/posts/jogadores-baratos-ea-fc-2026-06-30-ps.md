@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-06-30T10:48:05.000Z
+pubDatetime: 2026-06-30T13:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (30/06/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,8 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | +14% |
-| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +23.4% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11k coins | -10% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +12.5% |
+| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +26.1% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +10.2% |
 | Matías Soulé | 86 | CAM | Serie A TIM | 15k coins | -30.6% |
 
 
@@ -41,8 +40,6 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 - **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
-
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14k coins**
 
