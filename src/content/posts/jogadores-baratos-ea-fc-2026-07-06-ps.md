@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-06T13:48:05.000Z
+pubDatetime: 2026-07-06T19:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (06/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,26 +29,27 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Estefanía Banini | 89 | CM | Liga F | 15k coins | -30.3% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 11k coins | -30.3% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -17.2% |
-| Pablo Aimar | 88 | CAM | LALIGA EA SPORTS | 14k coins | -23.1% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11k coins | -8.2% |
-| Santiago Castro | 87 | ST | Serie A TIM | 15k coins | -14.3% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | -7.1% |
+| Estefanía Banini | 89 | CM | Liga F | 15k coins | -23.5% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12k coins | -15.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 14k coins | -3.4% |
+| Pablo Aimar | 88 | CAM | LALIGA EA SPORTS | 15k coins | -11.8% |
+| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2k coins | +100% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13k coins | +10.9% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -13% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | +7.4% |
 
 
 ## 📈 Destaques
 
 - **Estefanía Banini (89, CM)** da Liga F, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **14k coins**
 
-- **Pablo Aimar (88, CAM)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pablo Aimar (88, CAM)** da LALIGA EA SPORTS, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julián Alvarez (87, ST)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Por que estas cartas?
