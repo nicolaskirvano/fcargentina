@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-07T19:48:05.000Z
+pubDatetime: 2026-07-08T01:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (07/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,19 +29,22 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +3.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +11.8% |
+| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2k coins | +126.7% |
 | Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14k coins | +12% |
-| Matías Soulé | 86 | CAM | Serie A TIM | 14k coins | -6.7% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +11.5% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -15.9% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | +14% |
 
 
 ## 📈 Destaques
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **14k coins**
 
+- **Julián Alvarez (87, ST)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+
 - **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **14k coins**
 
-- **Matías Soulé (86, CAM)** da Serie A TIM, a apenas **14k coins**
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14k coins**
 
