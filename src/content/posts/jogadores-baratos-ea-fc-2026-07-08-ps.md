@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-08T19:48:05.000Z
+pubDatetime: 2026-07-08T22:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (08/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +16.3% |
-| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2k coins | +153.3% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14k coins | +10% |
+| Diego Milito | 88 | ST | Serie A TIM | 14k coins | +12.2% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | -6.2% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13k coins | +6.1% |
+| Santiago Castro | 87 | ST | Serie A TIM | 15k coins | 0% |
+| Matías Soulé | 86 | CAM | Serie A TIM | 13k coins | -19.7% |
 | Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | 0% |
 | Rodrigo De Paul | 84 | CM | LALIGA EA SPORTS | 2k coins | +125% |
 
 
 ## 📈 Destaques
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **14k coins**
 
-- **Julián Alvarez (87, ST)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13k coins**
 
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14k coins**
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **15k coins**
 
-- **Rodrigo De Paul (84, CM)** da LALIGA EA SPORTS, a apenas **2k coins** — já **valorizando**, sinal de procura crescente.
+- **Matías Soulé (86, CAM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
