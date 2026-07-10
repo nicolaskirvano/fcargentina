@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-09T22:48:05.000Z
+pubDatetime: 2026-07-10T01:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (09/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,11 +29,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | -9.1% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | -1.8% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | 0% |
+| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | -8.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 11k coins | -8.3% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | -14% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | +4.3% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -9.8% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 15k coins | +15.7% |
 | Matías Soulé | 86 | CAM | Serie A TIM | 15k coins | -27.2% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 15k coins | +15.4% |
 | Rodrigo De Paul | 84 | CM | LALIGA EA SPORTS | 2k coins | +112.5% |
 
 
@@ -41,13 +43,13 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **11k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
 
-- **Matías Soulé (86, CAM)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **15k coins** — já **valorizando**, sinal de procura crescente.
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
