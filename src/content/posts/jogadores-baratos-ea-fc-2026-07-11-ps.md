@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-11T19:48:05.000Z
+pubDatetime: 2026-07-11T22:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (11/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,26 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | +3.3% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | -14.8% |
-| Diego Milito | 88 | ST | Serie A TIM | 13k coins | +4% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | +4.3% |
-| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | 0% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | 0% |
+| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | -1.6% |
+| Estefanía Banini | 89 | CM | Liga F | 15k coins | +1.7% |
+| Diego Milito | 88 | ST | Serie A TIM | 13k coins | -4% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | -8.5% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13k coins | +12.8% |
+| Santiago Castro | 87 | ST | Serie A TIM | 15k coins | -3.4% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | -8.8% |
 
 
 ## 📈 Destaques
 
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **15k coins**
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **15k coins**
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **13k coins**
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **14k coins**
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13k coins**
 
 
 ## Por que estas cartas?
