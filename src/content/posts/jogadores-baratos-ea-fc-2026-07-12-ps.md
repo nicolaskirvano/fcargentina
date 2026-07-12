@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-12T16:48:05.000Z
+pubDatetime: 2026-07-12T19:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (12/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,25 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Estefanía Banini | 89 | CM | Liga F | 14k coins | +1.8% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +6.4% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | -2% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | +4.3% |
-| Santiago Castro | 87 | ST | Serie A TIM | 14k coins | -3.3% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -13.2% |
+| Estefanía Banini | 89 | CM | Liga F | 14k coins | -1.8% |
+| Alexis Mac Allister | 89 | CM | Premier League | 15k coins | -8.3% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +4.3% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | +6.1% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13k coins | +10.6% |
+| Santiago Castro | 87 | ST | Serie A TIM | 13k coins | -14.8% |
 
 
 ## 📈 Destaques
 
 - **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins**
 
+- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
 - **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins**
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
-
-- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **14k coins**
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13k coins**
 
 
 ## Por que estas cartas?
