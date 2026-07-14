@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-14T19:48:05.000Z
+pubDatetime: 2026-07-14T22:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (14/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,24 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | 0% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | +5.6% |
-| Santiago Castro | 87 | ST | Serie A TIM | 13k coins | -17.2% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14k coins | +16.7% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 14k coins | -6.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -3.8% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | -11.1% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13k coins | +4.2% |
+| Santiago Castro | 87 | ST | Serie A TIM | 15k coins | +6.2% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | -10.2% |
 
 
 ## 📈 Destaques
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins**
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13k coins**
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **14k coins** — já **valorizando**, sinal de procura crescente.
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **15k coins**
 
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14k coins**
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **13k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
