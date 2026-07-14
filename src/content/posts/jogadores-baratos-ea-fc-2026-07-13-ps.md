@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-13T22:48:05.000Z
+pubDatetime: 2026-07-14T01:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (13/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,25 +29,21 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Estefanía Banini | 89 | CM | Liga F | 14k coins | -7.8% |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | 0% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | -3.8% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | +2% |
-| Santiago Castro | 87 | ST | Serie A TIM | 15k coins | -19.7% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | -7.4% |
+| Estefanía Banini | 89 | CM | Liga F | 14k coins | -21.2% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | +2.1% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12k coins | -2% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | -5.6% |
 
 
 ## 📈 Destaques
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins**
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **14k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
-
 - **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12k coins**
 
-- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **15k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **13k coins**
 
 
 ## Por que estas cartas?
