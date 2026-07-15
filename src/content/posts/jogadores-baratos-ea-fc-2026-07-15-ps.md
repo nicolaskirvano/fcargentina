@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-15T10:48:05.000Z
+pubDatetime: 2026-07-15T13:48:05.000Z
 title: "Jogadores baratos de Argentinos no EA FC (15/07/2026) — joias por menos de 15k — Console (PS)"
 draft: false
 featured: false
@@ -29,21 +29,24 @@ Ordenadas por rating; *7d* mostra a variação na semana (quanto menor, mais 'no
 
 | Jogador | OVR | Pos | Liga | Preço | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -11.5% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13k coins | +15.4% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14k coins | +14.9% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13k coins | -7.3% |
+| Diego Milito | 88 | ST | Serie A TIM | 12k coins | -6% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 14k coins | +5.7% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13k coins | +12.8% |
+| Santiago Castro | 87 | ST | Serie A TIM | 13k coins | -3.1% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 12k coins | -12.7% |
 
 
 ## 📈 Destaques
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **12k coins**
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13k coins** — já **valorizando**, sinal de procura crescente.
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **14k coins**
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **14k coins**
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13k coins**
 
-- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **13k coins**
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **13k coins**
+
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **12k coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Por que estas cartas?
