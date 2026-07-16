@@ -5,9 +5,9 @@ export default defineAstroPaperConfig({
     url: "https://fcargentina.pages.dev/",
     title: "Argentina FUT",
     description:
-      "Precos e mercado dos jogadores argentinos no EA FC Ultimate Team, todos os dias.",
+      "preços e mercado dos jogadores argentinos no EA FC Ultimate Team, todos os dias.",
     author: "Argentina FUT",
-    profile: "https://fcargentina.pages.dev/",
+    profile: "https://fcargentina.pages.dev/about/",
     publisher: {
       type: "Organization",
       name: "Argentina FUT",
