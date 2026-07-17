@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Argentina FUT"
 pubDatetime: 2026-06-02T13:48:02.000Z
-title: "Argentinos no EA FC hoje (02/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Argentinos no EA FC em 02/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,23 +10,26 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 02/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (02/06/2026)?"
-    a: "Hernán Crespo (88, Icons), com +42.4% em 24h, a 33k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Gerónimo Rulli (87), -37.5% em 24h, a 45k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins."
-  - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 35 em queda (média -1.61%)."
-  - q: "Os dados de preço do FutQuant são confiáveis?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 02/06/2026 no PC: Hernán Crespo liderou as altas e Gerónimo Rulli as baixas em Argentinos. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 02/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
 
-Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **35 caíram**, com variação média de **-1.61%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
+## Leitura do recorte
+
+Nas 17 cartas destacadas nas tabelas, **Hernán Crespo** registrou o maior movimento de 24h (+42,4%), enquanto **Gerónimo Rulli** marcou o menor (-37,5%). A distância entre os extremos foi de **79,9 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-16,7%**: 7 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Argentinos no EA FC em 02/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-02-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
+
+Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** estava em mercado **em baixa** — predominam as quedas: das cartas relevantes (80+ acima de 5k coins), **17 subiram** e **35 caíram**, com variação média de **-1.61%** nas últimas 24 horas. Bom momento para vender quem valorizou e ficar de olho em correções para comprar.
 
 > 🟢 **Maior alta:** Hernán Crespo (88) **+42.4%** · 🔴 **Maior baixa:** Gerónimo Rulli (87) **-37.5%**
 
@@ -45,11 +48,11 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das altas
 
-- **Hernán Crespo (88)** subiu **+42.4%** em 24h, a **33k coins** (faixa do dia: 15k–35k). Está +17% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Hernán Crespo (88)** subiu **+42.4%** em 24h, a **33k coins** (faixa do dia: 15k–35k). Está +17% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Lionel Messi (90)** subiu **+28.3%** em 24h, a **5.70M coins** (faixa do dia: 4.44M–5.70M). Está +30% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Lionel Messi (90)** subiu **+28.3%** em 24h, a **5.70M coins** (faixa do dia: 4.44M–5.70M). Está +30% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Julián Alvarez (93)** subiu **+22.7%** em 24h, a **799k coins** (faixa do dia: 751k–800k). Está em linha com a média de 7 dias (+3%). O modelo vê **estabilização** no curto prazo.
+- **Julián Alvarez (93)** subiu **+22.7%** em 24h, a **799k coins** (faixa do dia: 751k–800k). Está em linha com a média de 7 dias (+3%). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
 ## 🔴 Maiores baixas (24h)
@@ -70,16 +73,16 @@ Em **02/06/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em merca
 
 ### Análise das baixas
 
-- **Gerónimo Rulli (87)** caiu **-37.5%** em 24h, a **45k coins** (faixa do dia: 45k–75k). Está -37% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Gerónimo Rulli (87)** caiu **-37.5%** em 24h, a **45k coins** (faixa do dia: 45k–75k). Está -37% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Carlos Tévez (88)** caiu **-35.1%** em 24h, a **28k coins** (faixa do dia: 28k–44k). Está -38% abaixo da média de 7 dias (descontada). O modelo vê **estabilização** no curto prazo.
+- **Carlos Tévez (88)** caiu **-35.1%** em 24h, a **28k coins** (faixa do dia: 28k–44k). Está -38% abaixo da média de 7 dias (descontada). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
-- **Juan Foyth (85)** caiu **-33%** em 24h, a **67k coins** (faixa do dia: 39k–100k). Está +25% acima da média de 7 dias (aquecida). O modelo vê **estabilização** no curto prazo.
+- **Juan Foyth (85)** caiu **-33%** em 24h, a **67k coins** (faixa do dia: 39k–100k). Está +25% acima da média de 7 dias (aquecida). Naquele snapshot, o modelo indicava **estabilização** no curto prazo.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
-As cartas que o modelo FutQuant aponta com **maior probabilidade de valorização** (sinal de alta, confiança alta):
+Na publicação original, estas cartas receberam as maiores probabilidades de valorização. Os valores expiraram após 24 horas e não representam um sinal atual:
 
 | Jogador | OVR | Preço atual | Preço previsto 24h | Prob. alta |
 | --- | --- | --- | --- | --- |
@@ -93,19 +96,19 @@ Nossos números vêm de **centenas de milhões de pontos de preço** coletados d
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (02/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (02/06/2026)?**
 Hernán Crespo (88, Icons), com +42.4% em 24h, a 33k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Gerónimo Rulli (87), -37.5% em 24h, a 45k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Giovani Lo Celso (90) — 80% de probabilidade de alta, a 23k coins.
 
-**O mercado do EA FC está em alta ou baixa hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 35 em queda (média -1.61%).
+**Como estava o mercado do EA FC nesse dia?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 17 cartas em alta contra 35 em queda (média -1.61%).
 
-**Os dados de preço do FutQuant são confiáveis?**  
+**Os dados de preço do FutQuant são confiáveis?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -114,3 +117,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 02/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Argentinos baratos no EA FC em 02/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-02-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Momentum de Argentinos no EA FC em 16/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

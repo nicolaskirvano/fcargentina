@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Argentina FUT"
 pubDatetime: 2026-06-19T19:49:02.000Z
-title: "Melhores investimentos em Argentinos no EA FC (19/06/2026): análise e previsões — Console (PS)"
+title: "Momentum de Argentinos no EA FC em 19/06 — PS"
 draft: false
 featured: true
 tags:
@@ -9,19 +9,26 @@ tags:
   - trading
   - previsoes
   - ps
-description: "As cartas 84+ do EA FC Ultimate Team com tendência de alta mais consistente em 19/06/2026 (Console (PS)), cruzadas com a previsão do modelo FutQuant e níveis técnicos. Onde investir com dado, não palpite."
-faq:
-  - q: "Qual a melhor carta para investir hoje (19/06/2026) no EA FC?"
-    a: "Estefanía Banini (89, Liga F) lidera, com +52.6% em 7 dias a 22k coins no Console (PS), e o modelo dá 27% de chance de seguir subindo."
-  - q: "Investir em FUT dá lucro garantido?"
-    a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
-  - q: "Com que frequência a lista de investimentos atualiza?"
-    a: "Várias vezes ao dia, junto com os preços do mercado do EA FC."
+description: "Ranking histórico de momentum em 19/06/2026 no PS: Estefanía Banini liderou 7d com +52,6%. Compare preços, 24h/7d, gráfico e limites."
 ---
+
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+**Estefanía Banini** liderou o recorte com **+52,6% em 7d** e +20,8% em 24h. Entre 5 cartas, 5 tinham as duas janelas positivas; a mediana semanal foi **+12,1%**.
+
+Os preços destacados iam de **22k coins** a **109k coins**. O ranking descreve momentum observado naquela data; previsão ausente ou inválida aparece como N/D e não confirma uma compra atual.
+
+![Gráfico de variação em 7 dias para os destaques de Momentum de Argentinos no EA FC em 19/06 — PS](/charts/melhores-investimentos-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
 
 ## Por que estas cartas
 
-Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** — depois confronta cada uma com a **previsão do nosso modelo**. Resultado de **19/06/2026** no **Console (PS)**:
+Investir bem no **EA FC Ultimate Team** é seguir tendência sustentada, não pico isolado. O **FutQuant** cruza a variação de **24h e 7 dias** de mais de 18 mil cartas e filtra as **84+ que sobem de forma consistente** e organiza o recorte pelo **momentum observado**. Resultado de **19/06/2026** no **Console (PS)**:
 
 > 🔝 **Destaque:** Estefanía Banini (89) acumula **+52.6% em 7 dias** a 22k coins.
 
@@ -39,9 +46,9 @@ Por fim, Javier Zanetti se destaca como o ativo de maior valor e maior probabili
 
 ## 💎 Cartas em tendência de alta (84+)
 
-Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seguir subindo:
+Ordenadas pela valorização de 7 dias. *Prob. registrada* preserva a saída histórica do modelo; N/D indica ausência ou leitura inválida:
 
-| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. alta |
+| Jogador | OVR | Liga | Preço | 24h | 7d | Prob. registrada |
 | --- | --- | --- | --- | --- | --- | --- |
 | Estefanía Banini | 89 | Liga F | 22k coins | +20.8% | +52.6% | 27% |
 | Matías Vargas | 84 | Brasileirão | 45k coins | +9.3% | +22.9% | 27% |
@@ -56,19 +63,19 @@ Ordenadas pela valorização de 7 dias; *Prob. alta* é a chance estimada de seg
 
 - **Matías Vargas (84)** — 45k coins, **+22.9% em 7 dias** (+9.3% em 24h). Preço em linha com a média de 7 dias (+2%). ⚠️ Porém o modelo já vê risco de correção no curtíssimo prazo — entre com cautela.
 
-- **Lautaro Martínez (90)** — 60k coins, **+12.1% em 7 dias** (+2.6% em 24h). Preço em linha com a média de 7 dias (+3%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Lautaro Martínez (90)** — 60k coins, **+12.1% em 7 dias** (+2.6% em 24h). Preço em linha com a média de 7 dias (+3%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Hernán Crespo (86)** — 68k coins, **+7.6% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+0%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Hernán Crespo (86)** — 68k coins, **+7.6% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+0%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
-- **Javier Zanetti (91)** — 109k coins, **+5.8% em 7 dias** (+11.8% em 24h). Preço em linha com a média de 7 dias (+4%). Momentum positivo; acompanhe para escolher o ponto de entrada.
+- **Javier Zanetti (91)** — 109k coins, **+5.8% em 7 dias** (+11.8% em 24h). Preço em linha com a média de 7 dias (+4%). O dado registrava momentum positivo; uma entrada atual exige nova validação.
 
 
 ## Como usar esta lista
 
-- **24h e 7d positivos juntos** = tendência sustentada, o sinal mais confiável.
-- Prefira entrar em **correções** (quedas curtas dentro da alta) para reduzir risco.
+- **24h e 7d positivos juntos** indicavam continuidade naquele recorte, sem garantir uma entrada futura.
+- Naquele contexto, uma correção dentro da alta reduziria o risco; hoje é preciso recalcular a entrada.
 - **Liquidez importa**: cartas de ligas e ratings populares vendem mais rápido.
-- Use a coluna *Prob. alta* para priorizar: quanto maior, mais o modelo concorda com a tendência.
+- A coluna *Prob. registrada* é apenas histórica; revalide preço, liquidez e contexto antes de decidir.
 
 
 ## 🧪 De onde vêm estes números
@@ -77,13 +84,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual a melhor carta para investir hoje (19/06/2026) no EA FC?**  
-Estefanía Banini (89, Liga F) lidera, com +52.6% em 7 dias a 22k coins no Console (PS), e o modelo dá 27% de chance de seguir subindo.
+**Qual carta liderava o momentum em 19/06/2026 no EA FC?**
+Estefanía Banini (89, Liga F) lidera, com +52.6% em 7 dias a 22k coins no Console (PS). No recorte, isso descrevia momentum observado, não uma recomendação atual.
 
-**Investir em FUT dá lucro garantido?**  
+**Investir em FUT dá lucro garantido?**
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
 
-**Com que frequência a lista de investimentos atualiza?**  
+**Com que frequência a lista de investimentos atualiza?**
 Várias vezes ao dia, junto com os preços do mercado do EA FC.
 
 
@@ -92,3 +99,12 @@ Várias vezes ao dia, junto com os preços do mercado do EA FC.
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Argentinos baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Argentinos no EA FC em 19/06: altas e baixas — PS](/posts/mercado-ea-fc-2026-06-19-ps/)
+- [Momentum de Argentinos no EA FC em 16/07 — PS](/posts/melhores-investimentos-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Argentina FUT"
 pubDatetime: 2026-06-20T01:48:59.000Z
-title: "Argentinos no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — Console (PS)"
+title: "Argentinos no EA FC em 19/06: altas e baixas — PS"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - ps
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (Console (PS)): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Lionel Messi (90, MLS), com +10.7% em 24h, a 3.10M coins no Console (PS)."
-  - q: "E a maior queda do dia?"
-    a: "Paulo Dybala (91), -37.9% em 24h, a 101k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Hernán Crespo (88) — 95% de probabilidade de alta, a 19k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 8 cartas em alta contra 29 em queda (média -11.06%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PS: Lionel Messi liderou as altas e Paulo Dybala as baixas em Argentinos. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, Console (PS):** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 15 cartas destacadas nas tabelas, **Lionel Messi** registrou o maior movimento de 24h (+10,7%), enquanto **Paulo Dybala** marcou o menor (-37,9%). A distância entre os extremos foi de **48,6 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-18,8%**: 5 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Argentinos no EA FC em 19/06: altas e baixas — PS](/charts/mercado-ea-fc-2026-06-19-ps.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de cartas argentinas no console PlayStation apresenta um cenário extremamente hostil para os investidores hoje, 19 de junho de 2026, caracterizado por uma queda generalizada que afeta a maioria dos ativos disponíveis. Com uma média de desvalorização de -11,06% nas últimas 24 horas, o sentimento do mercado está claramente em baixa, com apenas 8 altas registradas contra 29 quedas significativas, indicando uma forte pressão de venda em setores amplos. Essa dinâmica sugere que a liquidez está sendo drenada de forma agressiva, possivelmente devido a eventos do jogo ou promoções que incentivam a conversão de cartas em moedas, criando um ambiente onde a cautela é a única estratégia viável para a maioria dos traders. A predominância das quedas, especialmente em perfis de alto valor e utilidade, sinaliza que os investidores estão priorizando a saída de posições em detrimento de novas entradas, o que pode criar oportunidades de compra seletiva para quem possui capital e paciência para esperar a estabilização dos preços.
 
@@ -63,7 +66,7 @@ Entre as poucas exceções positivas, Lionel Messi (90, MLS) destaca-se com uma 
 As quedas, por outro lado, são dramáticas e abrangem alguns dos nomes mais importantes do segmento, com Paulo Dybala (91, Serie A TIM) despencando 37,9% para 101 mil moedas, apesar de ainda ter 58% de probabilidade de alta, o que indica um potencial de rebote técnico a curto prazo. Diego Armando Maradona (96, Icons) sofre uma queda massiva de 37,5% para 2,95 milhões de moedas, com probabilidade de alta de apenas 32%, sugerindo que o mercado está reavaliando seu valor intrínseco frente a alternativas mais baratas ou eventos futuros. Javier Mascherano (90, LALIGA EA SPORTS) cai 28,3% para 38 mil moedas, mas sua alta probabilidade de alta de 68% torna-o um candidato interessante para compras de risco, pois a queda parece desproporcional ao seu valor de mercado histórico. Sua versão de 89 de rating também despenca 26,9% para 48 mil moedas, com 50% de probabilidade de alta, reforçando a instabilidade em cartas defensivas argentinas. Juan Román Riquelme (89, Icons) perde 23,2% para 160 mil moedas, enquanto Lionel Messi (88, MLS) cai 22,4% para 419 mil moedas, mostrando que até mesmo os ídolos não estão imunes à pressão de venda generalizada do dia.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -107,19 +110,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Lionel Messi (90, MLS), com +10.7% em 24h, a 3.10M coins no Console (PS).
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Paulo Dybala (91), -37.9% em 24h, a 101k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Hernán Crespo (88) — 95% de probabilidade de alta, a 19k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Hernán Crespo (88) — 95% de probabilidade de alta, a 19k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 8 cartas em alta contra 29 em queda (média -11.06%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 8 cartas em alta contra 29 em queda (média -11.06%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -128,3 +131,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de Console (PS), referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Argentinos baratos no EA FC em 19/06 — PS](/posts/jogadores-baratos-ea-fc-2026-06-19-ps/)
+- [Momentum de Argentinos no EA FC em 19/06 — PS](/posts/melhores-investimentos-ea-fc-2026-06-19-ps/)
+- [este segmento no EA FC em 16/07: altas e baixas — PS](/posts/mercado-ea-fc-2026-07-16-ps/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)

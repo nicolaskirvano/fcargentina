@@ -1,7 +1,7 @@
 ---
-author: "FutQuant"
+author: "Argentina FUT"
 pubDatetime: 2026-06-19T19:49:38.000Z
-title: "Argentinos no EA FC hoje (19/06/2026): mercado, altas, baixas e previsões — PC"
+title: "Argentinos no EA FC em 19/06: altas e baixas — PC"
 draft: false
 featured: true
 tags:
@@ -10,21 +10,24 @@ tags:
   - previsoes
   - altas-e-baixas
   - pc
-description: "Análise completa do mercado do EA FC Ultimate Team em 19/06/2026 (PC): sentimento do dia, maiores altas e baixas, previsões do modelo FutQuant e níveis técnicos. Dados reais e curados."
-faq:
-  - q: "Qual foi a maior alta do EA FC hoje (19/06/2026)?"
-    a: "Javier Mascherano (89, LALIGA EA SPORTS), com +51.9% em 24h, a 100k coins no PC."
-  - q: "E a maior queda do dia?"
-    a: "Javier Mascherano (90), -39.6% em 24h, a 41k coins."
-  - q: "Qual carta tem mais chance de subir amanhã no EA FC?"
-    a: "Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 33k coins."
-  - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 35 em queda (média -3.59%)."
-  - q: "De onde vêm os preços do FutQuant?"
-    a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
+description: "Snapshot histórico de 19/06/2026 no PC: Javier Mascherano liderou as altas e Javier Mascherano as baixas em Argentinos. Compare preços, variações, gráfico e riscos."
 ---
 
-## 📊 Resumo do mercado hoje
+<!-- historical-review:v1 -->
+> **Arquivo histórico — 19/06/2026, PC:** os preços e previsões deste artigo preservam o snapshot original e não representam a cotação atual.
+
+## Leitura do recorte
+
+Nas 18 cartas destacadas nas tabelas, **Javier Mascherano** registrou o maior movimento de 24h (+51,9%), enquanto **Javier Mascherano** marcou o menor (-39,6%). A distância entre os extremos foi de **91,5 pontos percentuais**.
+
+A mediana de 24h do recorte ficou em **-15,5%**: 8 destaques subiam e 10 caíam. Essa dispersão ajuda a comparar o dia, mas não transforma o snapshot antigo em preço ou sinal atual.
+
+![Gráfico de variação em 24h para os destaques de Argentinos no EA FC em 19/06: altas e baixas — PC](/charts/mercado-ea-fc-2026-06-19-pc.svg)
+
+*Gráfico gerado exclusivamente com os valores da tabela deste artigo.*
+<!-- /historical-review:v1 -->
+
+## 📊 Resumo do mercado naquele dia
 
 O mercado de cartas argentinas no PC apresenta um cenário de extrema volatilidade e predomínio de quedas, com uma média negativa de -3.59% nas últimas 24 horas, refletindo um sentimento de cautela entre os traders que favorece a liquidação de ativos em detrimento de acumulação. Com 35 cartas registrando queda contra apenas 17 em alta, o ambiente é hostil para investidores de curto prazo, exigindo uma leitura precisa das exceções que desafiam a tendência geral de desvalorização. A divergência entre os preços de diferentes versões dos mesmos jogadores, como observado em Mascherano e Rulli, cria oportunidades de arbitragem complexas que requerem atenção aos detalhes de rating e liga. O tom do dia é marcado pela desconfiança, onde apenas ativos com fundamentos sólidos ou eventos específicos conseguem manter ou aumentar seu valor em meio ao fluxo de vendas massivas. Analisar este mercado exige filtrar o ruído das quedas generalizadas para identificar os poucos ativos que demonstram resiliência ou potencial de correção ascendente iminente.
 
@@ -66,7 +69,7 @@ Javier Mascherano na versão 89 da LaLiga EA Sports lidera as altas com um impre
 A versão 90 de Javier Mascherano sofre a maior queda do dia com -39.6% para 41k coins, apesar de manter alta probabilidade de alta de 66%, sugerindo uma correção brusca após sobreavaliação ou venda em massa de especuladores. Gerónimo Rulli na versão 87 despencou 31% para 60k coins, mostrando a fragilidade de ativos de goleiro com alta liquidez quando a demanda cai, mesmo com probabilidade de alta de 34%. Pablo Aimar na carta 91 cai 29.9% para 29k coins, enquanto sua versão 88 também perde 19.6% para 21k coins, indicando uma desvalorização generalizada do ativo Aimar que pode estar relacionada a promoções ou falta de rotatividade. Matías Soulé e Juan Foyth registram quedas de 24.1% e 21.1% respectivamente, refletindo a saída de traders de ativos de ataque e defesa que não estão sendo priorizados nas squads atuais. Gabriel Batistuta e Giovani Lo Celso também perdem valor, com Batistuta caindo 20.6% para 596k coins, o que sinaliza que até os ícones não estão imunes à pressão de venda do mercado em baixa.
 
 
-## 🔮 O que o modelo prevê para as próximas 24h
+## 🔮 Previsão registrada naquele snapshot
 
 Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alta confiança):
 
@@ -75,7 +78,7 @@ Onde o modelo vê **mais chance de subir** nas próximas 24h (sinal de alta, alt
 | Giovani Lo Celso | 91 | 33k coins | 34k coins | 80% |
 
 
-O modelo projeta uma alta significativa para Giovani Lo Celso na versão 91 da LaLiga EA Sports, que cotado a 33k coins apresenta a maior probabilidade de alta do dia com 80%, indicando um forte potencial de recuperação de valor após a queda recente de 15.9%.
+Naquele snapshot, o modelo projetava uma alta significativa para Giovani Lo Celso na versão 91 da LaLiga EA Sports, que cotado a 33k coins apresenta a maior probabilidade de alta do dia com 80%, indicando um forte potencial de recuperação de valor após a queda recente de 15.9%.
 
 
 ## 🎯 A estratégia do dia
@@ -88,19 +91,19 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 
 ## ❓ Perguntas frequentes
 
-**Qual foi a maior alta do EA FC hoje (19/06/2026)?**  
+**Qual foi a maior alta do EA FC hoje (19/06/2026)?**
 Javier Mascherano (89, LALIGA EA SPORTS), com +51.9% em 24h, a 100k coins no PC.
 
-**E a maior queda do dia?**  
+**E a maior queda do dia?**
 Javier Mascherano (90), -39.6% em 24h, a 41k coins.
 
-**Qual carta tem mais chance de subir amanhã no EA FC?**  
-Pelo modelo FutQuant, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 33k coins.
+**Qual carta tinha maior probabilidade registrada nesse snapshot?**
+No snapshot histórico, Giovani Lo Celso (91) — 80% de probabilidade de alta, a 33k coins.
 
-**Como está o mercado do EA FC hoje?**  
-Hoje o mercado está em mercado em baixa — predominam as quedas, com 17 cartas em alta contra 35 em queda (média -3.59%).
+**Como está o mercado do EA FC hoje?**
+Naquele dia, o mercado estava em baixa — predominam as quedas, com 17 cartas em alta contra 35 em queda (média -3.59%).
 
-**De onde vêm os preços do FutQuant?**  
+**De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
 
 
@@ -109,3 +112,12 @@ Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados c
 ---
 
 *Preços de PC, referência de 19/06/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+
+<!-- content-links:v2 -->
+## Continue a análise
+
+- [Argentinos baratos no EA FC em 19/06 — PC](/posts/jogadores-baratos-ea-fc-2026-06-19-pc/)
+- [Momentum de Argentinos no EA FC em 19/06 — PC](/posts/melhores-investimentos-ea-fc-2026-06-19-pc/)
+- [este segmento no EA FC em 16/07: altas e baixas — PC](/posts/mercado-ea-fc-2026-07-16-pc/)
+- [Ver as análises mais recentes](/posts/)
+- [Entenda a metodologia e os limites dos dados](/about/)
