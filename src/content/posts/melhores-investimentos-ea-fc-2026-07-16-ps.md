@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-16T23:57:40.000Z
+pubDatetime: 2026-07-17T00:11:06.000Z
 title: "Investimentos EA FC: Argentinos em 16/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **16/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.1% em 24h** e **+30.4% em 7 dias**.
-- **4 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+13.1% em 24h** e **+29.8% em 7 dias**.
+- **4 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Icons** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -46,15 +46,12 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Javier Zanetti | 91 | Icons | 189k coins | +13.1% | +90% | Esticada |
 | Javier Mascherano | 90 | LALIGA EA SPORTS | 78k coins | +39.2% | +56.1% | Esticada |
 | Lionel Messi | 87 | MLS | 161k coins | +21.5% | +52.2% | Esticada |
-| Matías Soulé | 86 | Serie A TIM | 30k coins | +8.6% | +49.2% | Momentum moderado |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 42k coins | +1.1% | +34.3% | Momentum moderado |
-| Julián Alvarez | 89 | LALIGA EA SPORTS | 238k coins | +17.2% | +30.8% | Momentum moderado |
-| Nicolás Otamendi | 86 | Liga Portugal | 130k coins | +8.3% | +30% | Momentum moderado |
+| Matías Soulé | 86 | Serie A TIM | 26k coins | +8.6% | +49.2% | Momentum moderado |
 | Pablo Aimar | 91 | LALIGA EA SPORTS | 54k coins | +11.2% | +29.8% | Momentum moderado |
 | Mauro Icardi | 87 | Trendyol Süper Lig | 54k coins | +5.8% | +26.4% | Momentum moderado |
 | Carlos Tévez | 88 | Premier League | 37k coins | +31.6% | +25% | Esticada |
 | Juan Román Riquelme | 88 | Icons | 85k coins | +19.5% | +19.5% | Momentum moderado |
-| Mariano Troilo | 86 | Serie A TIM | 40k coins | +6% | +17.6% | Momentum moderado |
+| Mariano Troilo | 86 | Serie A TIM | 40k coins | +6% | +15.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -65,9 +62,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Lionel Messi (87)** — 161k coins, **+52.2% em 7 dias** (+21.5% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Soulé (86)** — 30k coins, **+49.2% em 7 dias** (+8.6% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (86)** — 26k coins, **+49.2% em 7 dias** (+8.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Foyth (85)** — 42k coins, **+34.3% em 7 dias** (+1.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pablo Aimar (91)** — 54k coins, **+29.8% em 7 dias** (+11.2% em 24h). Preço +40% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

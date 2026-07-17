@@ -16,10 +16,10 @@
 <text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Matías Soulé</text>
 <rect x="285" y="269" width="262" height="28" rx="7" fill="#22c55e"/>
 <text x="557" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+49.2%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Juan Foyth</text>
-<rect x="285" y="327" width="183" height="28" rx="7" fill="#22c55e"/>
-<text x="478" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+34.3%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julián Alvarez</text>
-<rect x="285" y="385" width="164" height="28" rx="7" fill="#22c55e"/>
-<text x="459" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.8%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Pablo Aimar</text>
+<rect x="285" y="327" width="159" height="28" rx="7" fill="#22c55e"/>
+<text x="454" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.8%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mauro Icardi</text>
+<rect x="285" y="385" width="141" height="28" rx="7" fill="#22c55e"/>
+<text x="436" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+26.4%</text>
 </svg>
