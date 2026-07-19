@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:26:12.000Z
+pubDatetime: 2026-07-19T10:48:17.000Z
 title: "Mercado EA FC em 19/07: Argentinos — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Lautaro Martínez (89), -44.1% em 24h, a 45k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 20 cartas em alta contra 26 em queda (média 2.95%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 20 cartas em alta contra 26 em queda (média 2.23%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **19/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **20 em alta** e **26 em queda**, média de **2.95%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **19/07/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **20 em alta** e **26 em queda**, média de **2.23%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Exequiel Zeballos (83) **+39.4%** · 🔴 **Maior baixa:** Lautaro Martínez (89) **-44.1%**
 
@@ -37,7 +37,7 @@ Panorama de **19/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 - **Amplitude do dia:** 83.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
 - **Participação das altas:** 43.5% entre as cartas que se moveram; o universo observado reúne 58 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
@@ -46,13 +46,13 @@ Panorama de **19/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 | Exequiel Zeballos | 83 | LPF | 107k coins | +39.4% | -37.2% |
 | Diego Armando Maradona | 96 | Icons | 2.30M coins | +29.3% | +22.3% |
 | Julián Alvarez | 88 | LALIGA EA SPORTS | 100k coins | +25.8% | +36.1% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 47k coins | +21.9% | +33.7% |
 | Nico Paz | 90 | Serie A TIM | 84k coins | +16.1% | +50.4% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 40k coins | +14.1% | +4.5% |
-| Lionel Messi | 89 | MLS | 400k coins | +12.6% | +27.6% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 40k coins | +13.4% | +3.9% |
+| Lautaro Martínez | 90 | Serie A TIM | 152k coins | +12.9% | +103.9% |
+| Lionel Messi | 89 | MLS | 395k coins | +12.6% | +27.6% |
 | Gabriel Batistuta | 89 | Icons | 92k coins | +11.4% | -3.1% |
-| Lautaro Martínez | 90 | Serie A TIM | 152k coins | +9.7% | +105.2% |
-| Pablo Aimar | 91 | LALIGA EA SPORTS | 45k coins | +7% | +22.7% |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 76k coins | +6.7% | +33.3% |
+| Javier Zanetti | 91 | Icons | 200k coins | +6.4% | +5.8% |
 
 
 ### Análise das altas
@@ -74,14 +74,14 @@ Panorama de **19/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 | --- | --- | --- | --- | --- | --- |
 | Lautaro Martínez | 89 | Serie A TIM | 45k coins | -44.1% | -39.2% |
 | Javier Mascherano | 89 | LALIGA EA SPORTS | 59k coins | -41% | -20.8% |
+| Nicolás Otamendi | 86 | Liga Portugal | 60k coins | -39% | -38.7% |
 | Hernán Crespo | 88 | Icons | 34k coins | -34.3% | -11.2% |
+| Estefanía Banini | 89 | Liga F | 20k coins | -33.6% | +14.1% |
 | Gerónimo Rulli | 87 | Ligue 1 McDonald's | 35k coins | -29.6% | 0% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 45k coins | -25% | -18.2% |
-| Ignacio Russo | 84 | LPF | 38k coins | -24.5% | -24.5% |
-| Martín Ojeda | 83 | MLS | 27k coins | -19.4% | -23.4% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | -18% | -3.2% |
+| Emiliano Martínez | 88 | Premier League | 65k coins | -28.6% | +11.7% |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 57k coins | -25% | -18.2% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | -21.8% | -8.5% |
 | Enzo Fernández | 91 | Premier League | 98k coins | -17.5% | +32.9% |
-| Diego Armando Maradona | 96 | Icons | 8.08M coins | -11.2% | +49.6% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ Panorama de **19/07/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 - **Javier Mascherano (89)** caiu **-41%** em 24h, a **59k coins** (faixa do dia: 59k–100k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Hernán Crespo (88)** caiu **-34.3%** em 24h, a **34k coins** (faixa do dia: 30k–54k). Está -15% abaixo da média de 7 dias (descontada).
+- **Nicolás Otamendi (86)** caiu **-39%** em 24h, a **60k coins** (faixa do dia: 41k–100k). Está -32% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Exequiel Zeballos (83, LPF), com +39.4% em 24h, a 107k coins no PC.
 Lautaro Martínez (89), -44.1% em 24h, a 45k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 20 cartas em alta contra 26 em queda (média 2.95%).
+Hoje o mercado está em alta — predominam as valorizações, com 20 cartas em alta contra 26 em queda (média 2.23%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.

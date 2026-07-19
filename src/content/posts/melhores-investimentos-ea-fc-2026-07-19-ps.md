@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:26:04.000Z
+pubDatetime: 2026-07-19T10:48:09.000Z
 title: "Investimentos EA FC: Argentinos em 19/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **19/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.7% em 24h** e **+37.3% em 7 dias**.
-- **7 de 15 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+12.8% em 24h** e **+37.4% em 7 dias**.
+- **6 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,34 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 154k coins | +24.3% | +87.1% | Esticada |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 48k coins | +11.7% | +83.3% | Esticada |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 60k coins | +20.2% | +70% | Esticada |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 154k coins | +27% | +87.1% | Esticada |
+| Matías Vargas | 84 | Brasileirão | 30k coins | +35.2% | +80.3% | Esticada |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 58k coins | +20.2% | +70% | Esticada |
 | Pablo Aimar | 91 | LALIGA EA SPORTS | 55k coins | +5.8% | +66.7% | Esticada |
-| Lionel Messi | 87 | MLS | 176k coins | +20% | +53.6% | Esticada |
-| Emiliano Martínez | 88 | Premier League | 48k coins | +30.4% | +47.5% | Esticada |
+| Emiliano Martínez | 88 | Premier League | 28k coins | +39.9% | +56.9% | Esticada |
+| Lionel Messi | 87 | MLS | 160k coins | +32.4% | +53.6% | Esticada |
 | Hernán Crespo | 88 | Icons | 34k coins | +14.2% | +38.4% | Momentum moderado |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 50k coins | +7.1% | +37.3% | Momentum moderado |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 36k coins | +1.4% | +36.4% | Momentum moderado |
-| Lautaro Martínez | 90 | Serie A TIM | 112k coins | +9.6% | +20% | Momentum moderado |
-| Ignacio Russo | 84 | LPF | 40k coins | +20.5% | +16.8% | Esticada |
-| Hernán Crespo | 86 | Icons | 72k coins | +15.4% | +15.4% | Momentum moderado |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 48k coins | +9.9% | +12.7% | Momentum moderado |
-| Nico Paz | 86 | Serie A TIM | 43k coins | +2.4% | +10.1% | Entrada a observar |
-| Rafael Profini | 84 | A-League Men | 36k coins | +12.7% | +5.6% | Momentum moderado |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 50k coins | +5% | +36.4% | Momentum moderado |
+| Pablo Aimar | 87 | LALIGA EA SPORTS | 16.250 coins | +14.5% | +28.6% | Momentum moderado |
+| Lautaro Martínez | 90 | Serie A TIM | 112k coins | +7.7% | +17.9% | Momentum moderado |
+| Hernán Crespo | 86 | Icons | 72k coins | +11.5% | +11.5% | Momentum moderado |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 48k coins | +9.9% | +11.2% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 42k coins | +7.5% | +8.9% | Momentum moderado |
+| Juan Sebastián Verón | 86 | Icons | 77k coins | +1.4% | +8.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Julián Alvarez (88)** — 154k coins, **+87.1% em 7 dias** (+24.3% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julián Alvarez (88)** — 154k coins, **+87.1% em 7 dias** (+27% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovani Lo Celso (91)** — 48k coins, **+83.3% em 7 dias** (+11.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Vargas (84)** — 30k coins, **+80.3% em 7 dias** (+35.2% em 24h). Preço -28% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Mascherano (89)** — 60k coins, **+70% em 7 dias** (+20.2% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (89)** — 58k coins, **+70% em 7 dias** (+20.2% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Pablo Aimar (91)** — 55k coins, **+66.7% em 7 dias** (+5.8% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Lionel Messi (87)** — 176k coins, **+53.6% em 7 dias** (+20% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emiliano Martínez (88)** — 28k coins, **+56.9% em 7 dias** (+39.9% em 24h). Preço -21% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

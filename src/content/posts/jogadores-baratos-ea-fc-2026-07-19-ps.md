@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-19T10:26:05.000Z
+pubDatetime: 2026-07-19T10:48:10.000Z
 title: "Jogadores baratos EA FC: Argentinos em 19/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 11.170 coins.
+- **Preço médio das 4 opções:** 10.550 coins.
 - **Posição mais frequente:** CB, com 1 cartas.
-- **Faixa real:** 3.100 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.200 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,10 +41,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13.000 coins | -1.9% |
-| Diego Milito | 88 | ST | Serie A TIM | 13.000 coins | +1.9% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.750 coins | +14.5% |
-| Lionel Messi | 86 | RW | MLS | 3.100 coins | +30.4% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13.000 coins | -7.3% |
+| Diego Milito | 88 | ST | Serie A TIM | 13.000 coins | -1.9% |
+| Lionel Messi | 86 | RW | MLS | 3.200 coins | +30.4% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 13.000 coins | -8.9% |
 
 
 ## 📈 Destaques
@@ -53,9 +52,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **13.000 coins**
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13.750 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Lionel Messi (86, RW)** da MLS, a apenas **3.100 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Lionel Messi (86, RW)** da MLS, a apenas **3.200 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
 - **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **13.000 coins**
 
@@ -64,7 +61,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Defesa:** Javier Mascherano (88, CB) por 13.000 coins é a referência de rating deste recorte.
 
-- **Meio:** Pablo Aimar (87, CAM) por 13.750 coins é a referência de rating deste recorte.
+- **Meio:** Esteban Cambiasso (86, CDM) por 13.000 coins é a referência de rating deste recorte.
 
 - **Ataque:** Diego Milito (88, ST) por 13.000 coins é a referência de rating deste recorte.
 

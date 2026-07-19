@@ -13,13 +13,13 @@
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Julián Alvarez</text>
 <rect x="285" y="211" width="314" height="28" rx="7" fill="#22c55e"/>
 <text x="609" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.8%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Giovani Lo Celso</text>
-<rect x="285" y="269" width="267" height="28" rx="7" fill="#22c55e"/>
-<text x="562" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+21.9%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Paz</text>
-<rect x="285" y="327" width="196" height="28" rx="7" fill="#22c55e"/>
-<text x="491" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.1%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Hidalgo</text>
-<rect x="285" y="385" width="172" height="28" rx="7" fill="#22c55e"/>
-<text x="467" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+14.1%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Paz</text>
+<rect x="285" y="269" width="196" height="28" rx="7" fill="#22c55e"/>
+<text x="491" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.1%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Santiago Hidalgo</text>
+<rect x="285" y="327" width="163" height="28" rx="7" fill="#22c55e"/>
+<text x="458" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+13.4%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lautaro Martínez</text>
+<rect x="285" y="385" width="157" height="28" rx="7" fill="#22c55e"/>
+<text x="452" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+12.9%</text>
 </svg>
