@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:26:44.000Z
+pubDatetime: 2026-07-20T10:48:09.000Z
 title: "Investimentos EA FC: Argentinos em 20/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Estefanía Banini (89, Liga F) lidera, com +62.7% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Estefanía Banini (89, Liga F) lidera, com +62.7% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Estefanía Banini (89) acumula **+62.7% em 7 dias** a 24k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Estefanía Banini (89) acumula **+62.7% em 7 dias** a 26k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 20/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-20-ps.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.9% em 24h** e **+24.7% em 7 dias**.
-- **6 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+10.3% em 24h** e **+22.3% em 7 dias**.
+- **5 de 14 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,33 +43,33 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Estefanía Banini | 89 | Liga F | 24k coins | +11.6% | +62.7% | Esticada |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 45k coins | +21.2% | +45.4% | Esticada |
+| Estefanía Banini | 89 | Liga F | 26k coins | +11.6% | +62.7% | Esticada |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 45k coins | +21.2% | +44.3% | Esticada |
 | Santiago Castro | 87 | Serie A TIM | 16.000 coins | +20.3% | +31.5% | Esticada |
-| Nico Paz | 86 | Serie A TIM | 44k coins | +9.3% | +30.6% | Momentum moderado |
-| Nico Paz | 90 | Serie A TIM | 80k coins | +6.7% | +30.3% | Momentum moderado |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 160k coins | +3.9% | +25% | Entrada a observar |
-| Paulo Dybala | 91 | Serie A TIM | 235k coins | +24.4% | +25% | Esticada |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +30.9% | +24.4% | Esticada |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 47k coins | +7.2% | +21.4% | Momentum moderado |
-| Marcos Senesi | 88 | Premier League | 30k coins | +2.6% | +20% | Entrada a observar |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +36.1% | +15.3% | Esticada |
-| Mariano Troilo | 86 | Serie A TIM | 44k coins | +6.7% | +10.7% | Momentum moderado |
-| Ignacio Russo | 84 | LPF | 45k coins | +8.5% | +8.5% | Momentum moderado |
+| Nico Paz | 90 | Serie A TIM | 80k coins | +6.7% | +27.2% | Momentum moderado |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 159k coins | +3.9% | +26% | Momentum moderado |
+| Matías Soulé | 84 | Serie A TIM | 50k coins | +31.8% | +24.4% | Esticada |
+| Nico Paz | 86 | Serie A TIM | 42k coins | +1.7% | +22.9% | Entrada a observar |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 47k coins | +19.4% | +21.7% | Momentum moderado |
+| Paulo Dybala | 91 | Serie A TIM | 250k coins | +18.1% | +21.1% | Momentum moderado |
+| Marcos Senesi | 88 | Premier League | 26k coins | +2.6% | +20% | Entrada a observar |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 21k coins | +36.1% | +15.3% | Esticada |
+| Mariano Troilo | 86 | Serie A TIM | 43k coins | +1.2% | +9.4% | Entrada a observar |
+| Ignacio Russo | 84 | LPF | 45k coins | +9.1% | +8.5% | Momentum moderado |
 | Gerónimo Rulli | 84 | Ligue 1 McDonald's | 50k coins | +5.8% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Estefanía Banini (89)** — 24k coins, **+62.7% em 7 dias** (+11.6% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 26k coins, **+62.7% em 7 dias** (+11.6% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Foyth (85)** — 45k coins, **+45.4% em 7 dias** (+21.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan Foyth (85)** — 45k coins, **+44.3% em 7 dias** (+21.2% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Santiago Castro (87)** — 16.000 coins, **+31.5% em 7 dias** (+20.3% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Paz (86)** — 44k coins, **+30.6% em 7 dias** (+9.3% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Paz (90)** — 80k coins, **+27.2% em 7 dias** (+6.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Paz (90)** — 80k coins, **+30.3% em 7 dias** (+6.7% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julián Alvarez (88)** — 159k coins, **+26% em 7 dias** (+3.9% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -85,6 +85,7 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Jogadores baratos EA FC: Argentinos em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Mercado EA FC em 20/07: Argentinos — Console (PS)](/posts/mercado-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -96,7 +97,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Estefanía Banini (89, Liga F) lidera, com +62.7% em 7 dias a 24k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Estefanía Banini (89, Liga F) lidera, com +62.7% em 7 dias a 26k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
