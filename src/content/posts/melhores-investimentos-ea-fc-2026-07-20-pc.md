@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:48:18.000Z
+pubDatetime: 2026-07-20T13:48:18.000Z
 title: "Investimentos EA FC: Argentinos em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Lautaro Martínez (90, Serie A TIM) lidera, com +74.3% em 7 dias a 152k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Paulo Dybala (88, Serie A TIM) lidera, com +71.8% em 7 dias a 201k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Lautaro Martínez (90) acumula **+74.3% em 7 dias** a 152k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Paulo Dybala (88) acumula **+71.8% em 7 dias** a 201k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.9% em 24h** e **+29.9% em 7 dias**.
-- **6 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 5 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.2% em 24h** e **+22.0% em 7 dias**.
+- **3 de 9 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,31 +43,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Lautaro Martínez | 90 | Serie A TIM | 152k coins | +2.6% | +74.3% | Esticada |
-| Paulo Dybala | 88 | Serie A TIM | 189k coins | +2.2% | +71.8% | Esticada |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 62k coins | +38% | +64.3% | Esticada |
-| Emiliano Martínez | 88 | Premier League | 75k coins | +15.4% | +53.8% | Momentum moderado |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 80k coins | +5.3% | +39.1% | Momentum moderado |
-| Diego Milito | 88 | Serie A TIM | 16.250 coins | +3.2% | +30% | Momentum moderado |
-| Santiago Castro | 87 | Serie A TIM | 22k coins | +28% | +29.7% | Esticada |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 26k coins | +15.1% | +25.9% | Momentum moderado |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +23% | +18.6% | Esticada |
-| Mariano Troilo | 86 | Serie A TIM | 47k coins | +10.7% | +16.9% | Momentum moderado |
-| Rafael Profini | 84 | A-League Men | 47k coins | +27.9% | +13.9% | Esticada |
+| Paulo Dybala | 88 | Serie A TIM | 201k coins | +2.2% | +71.8% | Esticada |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 65k coins | +30.5% | +57.4% | Esticada |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 70k coins | +3.6% | +32.1% | Momentum moderado |
+| Diego Milito | 88 | Serie A TIM | 16.250 coins | +10.2% | +22.6% | Momentum moderado |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 24k coins | +11.1% | +22% | Momentum moderado |
+| Estefanía Banini | 89 | Liga F | 34k coins | +3.9% | +19.4% | Entrada a observar |
+| Mariano Troilo | 86 | Serie A TIM | 47k coins | +19.1% | +16.9% | Momentum moderado |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 48k coins | +22.4% | +16.5% | Esticada |
 | Juan Foyth | 85 | LALIGA EA SPORTS | 60k coins | +5.3% | +9.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Lautaro Martínez (90)** — 152k coins, **+74.3% em 7 dias** (+2.6% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Dybala (88)** — 201k coins, **+71.8% em 7 dias** (+2.2% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Paulo Dybala (88)** — 189k coins, **+71.8% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovani Lo Celso (91)** — 65k coins, **+57.4% em 7 dias** (+30.5% em 24h). Preço +42% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovani Lo Celso (91)** — 62k coins, **+64.3% em 7 dias** (+38% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (90)** — 70k coins, **+32.1% em 7 dias** (+3.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Emiliano Martínez (88)** — 75k coins, **+53.8% em 7 dias** (+15.4% em 24h). Preço +41% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Diego Milito (88)** — 16.250 coins, **+22.6% em 7 dias** (+10.2% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (87)** — 80k coins, **+39.1% em 7 dias** (+5.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (88)** — 24k coins, **+22% em 7 dias** (+11.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -94,7 +91,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Lautaro Martínez (90, Serie A TIM) lidera, com +74.3% em 7 dias a 152k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Paulo Dybala (88, Serie A TIM) lidera, com +71.8% em 7 dias a 201k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

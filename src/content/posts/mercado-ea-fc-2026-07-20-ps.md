@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T10:48:08.000Z
+pubDatetime: 2026-07-20T13:48:08.000Z
 title: "Mercado EA FC em 20/07: Argentinos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 20/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (20/07/2026)?"
-    a: "Valentín Barco (88, Ligue 1 McDonald's), com +36.1% em 24h, a 21k coins no Console (PS)."
+    a: "Carlos Tévez (89, Premier League), com +47.1% em 24h, a 399k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Julián Alvarez (88), -26.2% em 24h, a 66k coins."
+    a: "Alexis Mac Allister (89), -28% em 24h, a 21k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 24 cartas em alta contra 27 em queda (média 0.78%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 31 cartas em alta contra 17 em queda (média 5.28%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-O mercado do **EA FC** abre **20/07/2026** no Console (PS) com mercado **de lado** — altas e quedas se equilibram: **24 cartas subiram** e **27 caíram** (80+ acima de 5k coins), variação média de **0.78%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **20/07/2026** no Console (PS) com clima **comprador** — a maioria das cartas subiu: **31 cartas subiram** e **17 caíram** (80+ acima de 5k coins), variação média de **5.28%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Valentín Barco (88) **+36.1%** · 🔴 **Maior baixa:** Julián Alvarez (88) **-26.2%**
+> 🟢 **Maior alta:** Carlos Tévez (89) **+47.1%** · 🔴 **Maior baixa:** Alexis Mac Allister (89) **-28%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 20/07: Argentinos — Console (PS)](/charts/mercado-ea-fc-2026-07-20-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **20/07/2026** no Console (PS) com mercado **de lado
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 62.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.1% entre as cartas que se moveram; o universo observado reúne 62 cartas.
-- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 75.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 64.6% entre as cartas que se moveram; o universo observado reúne 56 cartas.
+- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 21k coins | +36.1% | +15.3% |
-| Carlos Tévez | 89 | Premier League | 400k coins | +32.5% | -2.9% |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +31.8% | +24.4% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 45k coins | +21.2% | +44.3% |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 47k coins | +19.4% | +21.7% |
-| Carlos Tévez | 88 | Premier League | 42k coins | +18.2% | +1.6% |
-| Paulo Dybala | 91 | Serie A TIM | 250k coins | +18.1% | +21.1% |
-| Emiliano Buendía | 83 | Premier League | 54k coins | +14.3% | +14.3% |
-| Ignacio Russo | 84 | LPF | 45k coins | +9.1% | +8.5% |
-| Tadeo Allende | 83 | MLS | 43k coins | +8.8% | +10.2% |
+| Carlos Tévez | 89 | Premier League | 399k coins | +47.1% | -4.1% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 79k coins | +38.6% | +119.4% |
+| Nicolás Otamendi | 86 | Liga Portugal | 42k coins | +30.8% | -58.7% |
+| Cristian Romero | 86 | Premier League | 48k coins | +22.2% | +0.8% |
+| Rafael Profini | 84 | A-League Men | 45k coins | +21.8% | -0.6% |
+| Mariano Troilo | 86 | Serie A TIM | 45k coins | +21.6% | +25.5% |
+| Diego Armando Maradona | 95 | Icons | 1.14M coins | +20.5% | +32.6% |
+| Hernán Crespo | 88 | Icons | 30k coins | +18.1% | +31.7% |
+| Nico Paz | 90 | Serie A TIM | 78k coins | +16.9% | +25.2% |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 45k coins | +16.9% | +30.4% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **20/07/2026** no Console (PS) com mercado **de lado
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Valentín Barco (88)** subiu **+36.1%** em 24h, a **21k coins** (faixa do dia: 15.000–23k). Está em linha com a média de 7 dias (+8%).
+- **Carlos Tévez (89)** subiu **+47.1%** em 24h, a **399k coins** (faixa do dia: 257k–400k). Está em linha com a média de 7 dias (+6%).
 
-- **Carlos Tévez (89)** subiu **+32.5%** em 24h, a **400k coins** (faixa do dia: 257k–400k). Está em linha com a média de 7 dias (+6%).
+- **Javier Mascherano (89)** subiu **+38.6%** em 24h, a **79k coins** (faixa do dia: 46k–80k). Está +18% acima da média de 7 dias (aquecida).
 
-- **Matías Soulé (84)** subiu **+31.8%** em 24h, a **50k coins** (faixa do dia: 33k–50k). Está +19% acima da média de 7 dias (aquecida).
+- **Nicolás Otamendi (86)** subiu **+30.8%** em 24h, a **42k coins** (faixa do dia: 20k–50k). Está -49% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 66k coins | -26.2% | +8.9% |
-| Enzo Fernández | 91 | Premier League | 58k coins | -22% | +17% |
-| Gabriel Batistuta | 92 | Icons | 263k coins | -17.2% | +31.8% |
-| Lautaro Martínez | 90 | Serie A TIM | 86k coins | -17% | +9.4% |
-| Alejandro Garnacho | 89 | Premier League | 178k coins | -10.8% | +10.5% |
-| Aldana Cometti | 85 | D1 Arkema | 45k coins | -10% | -16.7% |
-| Javier Zanetti | 91 | Icons | 160k coins | -10% | +29.2% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 78k coins | -9.3% | +13.4% |
-| Hernán Crespo | 86 | Icons | 65k coins | -9.1% | 0% |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 20k coins | -7.8% | -4.6% |
+| Alexis Mac Allister | 89 | Premier League | 21k coins | -28% | -5.3% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 53k coins | -23.9% | -3.2% |
+| Marcos Acuña | 89 | LPF | 92k coins | -19.7% | +87.2% |
+| Emiliano Martínez | 88 | Premier League | 26k coins | -19.4% | -3.3% |
+| Julián Alvarez | 89 | LALIGA EA SPORTS | 196k coins | -18.4% | -3% |
+| Gabriel Batistuta | 89 | Icons | 69k coins | -14.9% | +0.7% |
+| Lionel Messi | 88 | MLS | 325k coins | -12.2% | -9.6% |
+| Nahuel Losada | 83 | LPF | 44k coins | -10.1% | -3.8% |
+| Nico Paz | 86 | Serie A TIM | 38k coins | -8.2% | +8.3% |
+| Lionel Messi | 90 | MLS | 3.20M coins | -7.6% | -4.6% |
 
 
 ### Análise das baixas
 
-- **Julián Alvarez (88)** caiu **-26.2%** em 24h, a **66k coins** (faixa do dia: 50k–92k). Está -14% abaixo da média de 7 dias (descontada).
+- **Alexis Mac Allister (89)** caiu **-28%** em 24h, a **21k coins** (faixa do dia: 15.750–29k). Está -13% abaixo da média de 7 dias (descontada).
 
-- **Enzo Fernández (91)** caiu **-22%** em 24h, a **58k coins** (faixa do dia: 29k–90k). Está -26% abaixo da média de 7 dias (descontada).
+- **Julián Alvarez (88)** caiu **-23.9%** em 24h, a **53k coins** (faixa do dia: 50k–89k). Está -31% abaixo da média de 7 dias (descontada).
 
-- **Gabriel Batistuta (92)** caiu **-17.2%** em 24h, a **263k coins** (faixa do dia: 255k–285k). Está em linha com a média de 7 dias (-6%).
+- **Marcos Acuña (89)** caiu **-19.7%** em 24h, a **92k coins** (faixa do dia: 60k–120k). Está em linha com a média de 7 dias (+4%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Valentín Barco já avançou 36.1% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Carlos Tévez já avançou 47.1% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Julián Alvarez recuou -26.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Alexis Mac Allister recuou -28%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,7 +107,6 @@ O mercado do **EA FC** abre **20/07/2026** no Console (PS) com mercado **de lado
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Jogadores baratos EA FC: Argentinos em 20/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-20-ps/)
 - [Investimentos EA FC: Argentinos em 20/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-20-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
@@ -119,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (20/07/2026)?**
-Valentín Barco (88, Ligue 1 McDonald's), com +36.1% em 24h, a 21k coins no Console (PS).
+Carlos Tévez (89, Premier League), com +47.1% em 24h, a 399k coins no Console (PS).
 
 **E a maior queda do dia?**
-Julián Alvarez (88), -26.2% em 24h, a 66k coins.
+Alexis Mac Allister (89), -28% em 24h, a 21k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está de lado — altas e quedas se equilibram, com 24 cartas em alta contra 27 em queda (média 0.78%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 31 cartas em alta contra 17 em queda (média 5.28%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
