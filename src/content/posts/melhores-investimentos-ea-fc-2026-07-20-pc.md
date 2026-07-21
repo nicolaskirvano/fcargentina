@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-20T22:48:18.000Z
+pubDatetime: 2026-07-21T01:48:18.000Z
 title: "Investimentos EA FC: Argentinos em 20/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 20/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (20/07/2026) no EA FC?"
-    a: "Juan Román Riquelme (88, Icons) lidera, com +42.3% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Giovani Lo Celso (91, LALIGA EA SPORTS) lidera, com +87.3% em 7 dias a 59k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Juan Román Riquelme (88) acumula **+42.3% em 7 dias** a 130k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Giovani Lo Celso (91) acumula **+87.3% em 7 dias** a 59k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 20/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-20-pc.svg)
 
@@ -33,8 +33,8 @@ Esta lista de **20/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.0% em 24h** e **+34.6% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+20.6% em 24h** e **+21.4% em 7 dias**.
+- **5 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,27 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Juan Román Riquelme | 88 | Icons | 130k coins | +13.4% | +42.3% | Momentum moderado |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 71k coins | +10.6% | +39% | Momentum moderado |
-| Marcos Acuña | 89 | LPF | 130k coins | +4% | +36.8% | Momentum moderado |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 65k coins | +30.7% | +35.4% | Esticada |
-| Carlos Tévez | 88 | Premier League | 38k coins | +4.2% | +33.9% | Momentum moderado |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 86k coins | +6.1% | +27.5% | Momentum moderado |
-| Mariano Troilo | 86 | Serie A TIM | 48k coins | +39.7% | +18.8% | Esticada |
-| Esteban Cambiasso | 86 | Serie A TIM | 18.250 coins | +30.4% | +12.3% | Esticada |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 59k coins | +15.7% | +87.3% | Esticada |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 65k coins | +36.1% | +35.4% | Esticada |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +29.1% | +28.2% | Esticada |
+| Carlos Tévez | 88 | Premier League | 37k coins | +7.1% | +23% | Momentum moderado |
+| Rafael Profini | 84 | A-League Men | 47k coins | +17.5% | +19.7% | Momentum moderado |
+| Esteban Cambiasso | 86 | Serie A TIM | 18.250 coins | +23.7% | +15.9% | Esticada |
+| Mariano Troilo | 86 | Serie A TIM | 48k coins | +3.3% | +15.9% | Entrada a observar |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 86k coins | +32.3% | +15.4% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Juan Román Riquelme (88)** — 130k coins, **+42.3% em 7 dias** (+13.4% em 24h). Preço +33% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovani Lo Celso (91)** — 59k coins, **+87.3% em 7 dias** (+15.7% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Mascherano (90)** — 71k coins, **+39% em 7 dias** (+10.6% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mauro Icardi (87)** — 65k coins, **+35.4% em 7 dias** (+36.1% em 24h). Preço +37% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Acuña (89)** — 130k coins, **+36.8% em 7 dias** (+4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santiago Hidalgo (84)** — 50k coins, **+28.2% em 7 dias** (+29.1% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mauro Icardi (87)** — 65k coins, **+35.4% em 7 dias** (+30.7% em 24h). Preço +38% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Tévez (88)** — 37k coins, **+23% em 7 dias** (+7.1% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Carlos Tévez (88)** — 38k coins, **+33.9% em 7 dias** (+4.2% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rafael Profini (84)** — 47k coins, **+19.7% em 7 dias** (+17.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -90,7 +90,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (20/07/2026) no EA FC?**  
-Juan Román Riquelme (88, Icons) lidera, com +42.3% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Giovani Lo Celso (91, LALIGA EA SPORTS) lidera, com +87.3% em 7 dias a 59k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
