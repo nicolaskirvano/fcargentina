@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-21T10:24:55.000Z
+pubDatetime: 2026-07-21T10:48:09.000Z
 title: "Investimentos EA FC: Argentinos em 21/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 21/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (21/07/2026) no EA FC?"
-    a: "Pablo Aimar (91, LALIGA EA SPORTS) lidera, com +88.6% em 7 dias a 66k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Pablo Aimar (91, LALIGA EA SPORTS) lidera, com +88.6% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Pablo Aimar (91) acumula **+88.6% em 7 dias** a 66k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Pablo Aimar (91) acumula **+88.6% em 7 dias** a 65k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 21/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-21-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **21/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.2% em 24h** e **+22.6% em 7 dias**.
-- **2 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+8.7% em 24h** e **+24.2% em 7 dias**.
+- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Pablo Aimar | 91 | LALIGA EA SPORTS | 66k coins | +20% | +88.6% | Esticada |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 64k coins | +17.9% | +44.5% | Momentum moderado |
+| Pablo Aimar | 91 | LALIGA EA SPORTS | 65k coins | +20% | +88.6% | Esticada |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 43k coins | +5.4% | +88.5% | Esticada |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 60k coins | +9.4% | +34% | Momentum moderado |
 | Gerónimo Rulli | 84 | Ligue 1 McDonald's | 62k coins | +24% | +25.3% | Esticada |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 165k coins | +3.1% | +23.1% | Entrada a observar |
-| Nico Paz | 86 | Serie A TIM | 43k coins | +2.8% | +22.1% | Entrada a observar |
-| Javier Zanetti | 89 | Icons | 74k coins | +18.8% | +21.5% | Momentum moderado |
-| Matías Soulé | 84 | Serie A TIM | 48k coins | +16.6% | +20.3% | Momentum moderado |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 43k coins | +12.5% | +12.5% | Momentum moderado |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 164k coins | +3.1% | +23.1% | Entrada a observar |
+| Matías Soulé | 84 | Serie A TIM | 46k coins | +16.6% | +20.3% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 42k coins | +2.9% | +16.7% | Entrada a observar |
+| Javier Zanetti | 89 | Icons | 74k coins | +8% | +10.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Pablo Aimar (91)** — 66k coins, **+88.6% em 7 dias** (+20% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pablo Aimar (91)** — 65k coins, **+88.6% em 7 dias** (+20% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (87)** — 64k coins, **+44.5% em 7 dias** (+17.9% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Giovani Lo Celso (91)** — 43k coins, **+88.5% em 7 dias** (+5.4% em 24h). Preço em linha com a média de 7 dias (-5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Nahuel Molina (87)** — 60k coins, **+34% em 7 dias** (+9.4% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Gerónimo Rulli (84)** — 62k coins, **+25.3% em 7 dias** (+24% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julián Alvarez (88)** — 165k coins, **+23.1% em 7 dias** (+3.1% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Nico Paz (86)** — 43k coins, **+22.1% em 7 dias** (+2.8% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julián Alvarez (88)** — 164k coins, **+23.1% em 7 dias** (+3.1% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +81,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (21/07/2026) no EA FC?**  
-Pablo Aimar (91, LALIGA EA SPORTS) lidera, com +88.6% em 7 dias a 66k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Pablo Aimar (91, LALIGA EA SPORTS) lidera, com +88.6% em 7 dias a 65k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
