@@ -11,15 +11,15 @@
 <rect x="285" y="153" width="375" height="28" rx="7" fill="#22c55e"/>
 <text x="670" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.1%</text>
 <text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nahuel Molina</text>
-<rect x="285" y="211" width="230" height="28" rx="7" fill="#22c55e"/>
-<text x="525" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Gonzalez</text>
-<rect x="285" y="269" width="224" height="28" rx="7" fill="#22c55e"/>
-<text x="519" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+31.1%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Gerónimo Rulli</text>
-<rect x="285" y="327" width="214" height="28" rx="7" fill="#22c55e"/>
-<text x="509" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+29.7%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Paz</text>
-<rect x="285" y="385" width="186" height="28" rx="7" fill="#22c55e"/>
-<text x="481" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.9%</text>
+<rect x="285" y="211" width="198" height="28" rx="7" fill="#22c55e"/>
+<text x="493" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+27.5%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Paz</text>
+<rect x="285" y="269" width="176" height="28" rx="7" fill="#22c55e"/>
+<text x="471" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+24.5%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Hernán Crespo</text>
+<rect x="285" y="327" width="137" height="28" rx="7" fill="#22c55e"/>
+<text x="432" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+19.0%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nico Gonzalez</text>
+<rect x="285" y="385" width="133" height="28" rx="7" fill="#22c55e"/>
+<text x="428" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+18.5%</text>
 </svg>

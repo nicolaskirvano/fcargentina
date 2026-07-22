@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-22T10:27:22.000Z
+pubDatetime: 2026-07-22T10:48:10.000Z
 title: "Jogadores baratos EA FC: Argentinos em 22/07 — Console (PS)"
 draft: false
 featured: false
@@ -12,7 +12,7 @@ tags:
 description: "Cartas 83+ abaixo de 15 mil coins em 22/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (22/07/2026)?"
-    a: "Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 14.250 coins no Console (PS)."
+    a: "Javier Mascherano (88, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 12.500 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
@@ -21,7 +21,7 @@ faq:
 
 Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **22/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
-> 💰 **Melhor pechincha:** Alexis Mac Allister (89) por apenas 14.250 coins.
+> 💰 **Melhor pechincha:** Javier Mascherano (88) por apenas 12.500 coins.
 
 ![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Argentinos em 22/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-22-ps.svg)
 
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 11.658 coins.
-- **Posição mais frequente:** CM, com 1 cartas.
-- **Faixa real:** 1.700 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 11.060 coins.
+- **Posição mais frequente:** CB, com 1 cartas.
+- **Faixa real:** 2.300 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -40,34 +40,33 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
-| Alexis Mac Allister | 89 | CM | Premier League | 14.250 coins | -1.2% |
-| Diego Milito | 88 | ST | Serie A TIM | 13.000 coins | -3.8% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 13.750 coins | +12.7% |
+| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 12.500 coins | -1.7% |
+| Diego Milito | 88 | ST | Serie A TIM | 13.250 coins | -3.8% |
 | Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.250 coins | -9.4% |
-| Lionel Messi | 86 | RW | MLS | 1.700 coins | +5% |
+| Lionel Messi | 86 | RW | MLS | 2.300 coins | +5% |
 | Esteban Cambiasso | 86 | CDM | Serie A TIM | 14.000 coins | +3.7% |
 
 
 ## 📈 Destaques
 
-- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **14.250 coins**
+- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **12.500 coins**
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13.000 coins**
-
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **13.750 coins**
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13.250 coins**
 
 - **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13.250 coins**
 
-- **Lionel Messi (86, RW)** da MLS, a apenas **1.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Lionel Messi (86, RW)** da MLS, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente.
+
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **14.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Javier Mascherano (88, CB) por 13.750 coins é a referência de rating deste recorte.
+- **Defesa:** Javier Mascherano (88, CB) por 12.500 coins é a referência de rating deste recorte.
 
-- **Meio:** Alexis Mac Allister (89, CM) por 14.250 coins é a referência de rating deste recorte.
+- **Meio:** Pablo Aimar (87, CAM) por 13.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Diego Milito (88, ST) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Diego Milito (88, ST) por 13.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
@@ -86,7 +85,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (22/07/2026)?**  
-Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 14.250 coins no Console (PS).
+Javier Mascherano (88, LALIGA EA SPORTS) aparece como melhor custo-benefício, a 12.500 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
