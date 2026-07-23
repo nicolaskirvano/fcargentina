@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T16:48:17.000Z
+pubDatetime: 2026-07-23T19:48:17.000Z
 title: "Mercado EA FC em 23/07: Argentinos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 23/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (23/07/2026)?"
-    a: "Mauro Icardi (87, Trendyol Süper Lig), com +40% em 24h, a 67k coins no PC."
+    a: "Diego Armando Maradona (96, Icons), com +55.9% em 24h, a 2.17M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Javier Mascherano (90), -40% em 24h, a 45k coins."
+    a: "Javier Zanetti (89), -38.8% em 24h, a 76k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 22 cartas em alta contra 15 em queda (média 10.28%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 26 cartas em alta contra 21 em queda (média 7.28%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Em **23/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **22 subiram** e **15 caíram**, com variação média de **10.28%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **23/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima **comprador** — a maioria das cartas subiu: das cartas relevantes (80+ acima de 5k coins), **26 subiram** e **21 caíram**, com variação média de **7.28%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Mauro Icardi (87) **+40%** · 🔴 **Maior baixa:** Javier Mascherano (90) **-40%**
+> 🟢 **Maior alta:** Diego Armando Maradona (96) **+55.9%** · 🔴 **Maior baixa:** Javier Zanetti (89) **-38.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 23/07: Argentinos — PC](/charts/mercado-ea-fc-2026-07-23-pc.svg)
 
@@ -35,24 +35,24 @@ Em **23/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 80.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 59.5% entre as cartas que se moveram; o universo observado reúne 51 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 94.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 55.3% entre as cartas que se moveram; o universo observado reúne 63 cartas.
+- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 67k coins | +40% | +52.2% |
-| Lionel Messi | 89 | MLS | 429k coins | +33% | -4.3% |
-| Nicolás Otamendi | 86 | Liga Portugal | 100k coins | +29.3% | -9.5% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 169k coins | +20.7% | -19.5% |
-| Matías Vargas | 84 | Brasileirão | 40k coins | +15.8% | +2.5% |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +15.6% | +13.6% |
-| Hernán Crespo | 88 | Icons | 37k coins | +12.9% | +4.9% |
-| Rafael Profini | 84 | A-League Men | 47k coins | +11.2% | +20.5% |
-| Alejandro Garnacho | 89 | Premier League | 376k coins | +10.6% | +25.3% |
-| Mariano Troilo | 86 | Serie A TIM | 43k coins | +7.5% | -5% |
+| Diego Armando Maradona | 96 | Icons | 2.17M coins | +55.9% | +3.4% |
+| Marcos Senesi | 88 | Premier League | 36k coins | +54.2% | -56.5% |
+| Matías Vargas | 84 | Brasileirão | 47k coins | +37.7% | +21.8% |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 67k coins | +34% | +45.7% |
+| Diego Armando Maradona | 95 | Icons | 2.60M coins | +33.3% | -2.4% |
+| Lionel Messi | 89 | MLS | 390k coins | +30.4% | -6.5% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 159k coins | +27.2% | -22.4% |
+| Mariano Troilo | 86 | Serie A TIM | 43k coins | +16.2% | -5.5% |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 48k coins | +15% | 0% |
+| Diego Armando Maradona | 96 | Icons | 6.70M coins | +13.6% | +15.5% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ Em **23/07/2026**, o mercado do **EA FC Ultimate Team** no **PC** está em clima
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Mauro Icardi (87)** subiu **+40%** em 24h, a **67k coins** (faixa do dia: 50k–70k). Está +25% acima da média de 7 dias (aquecida).
+- **Diego Armando Maradona (96)** subiu **+55.9%** em 24h, a **2.17M coins** (faixa do dia: 1.25M–2.30M). Está +15% acima da média de 7 dias (aquecida).
 
-- **Lionel Messi (89)** subiu **+33%** em 24h, a **429k coins** (faixa do dia: 243k–430k). Está +25% acima da média de 7 dias (aquecida).
+- **Marcos Senesi (88)** subiu **+54.2%** em 24h, a **36k coins** (faixa do dia: 24k–106k). Está -43% abaixo da média de 7 dias (descontada).
 
-- **Nicolás Otamendi (86)** subiu **+29.3%** em 24h, a **100k coins** (faixa do dia: 71k–100k). Está +26% acima da média de 7 dias (aquecida).
+- **Matías Vargas (84)** subiu **+37.7%** em 24h, a **47k coins** (faixa do dia: 32k–48k). Está +10% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 45k coins | -40% | -39.6% |
-| Marcos Acuña | 89 | LPF | 100k coins | -27.6% | -1.9% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 38k coins | -15.5% | -17.3% |
-| Pablo Aimar | 91 | LALIGA EA SPORTS | 49k coins | -14.8% | +66.1% |
-| Hernán Crespo | 86 | Icons | 65k coins | -12.8% | 0% |
-| Javier Zanetti | 91 | Icons | 150k coins | -12.4% | -9.6% |
-| Alexis Mac Allister | 89 | Premier League | 31k coins | -9.9% | -23.5% |
-| Ignacio Russo | 84 | LPF | 39k coins | -8.7% | -17.4% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 116k coins | -7.6% | +83.3% |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 23k coins | -6.6% | -7.5% |
+| Javier Zanetti | 89 | Icons | 76k coins | -38.8% | +3.2% |
+| Cristian Romero | 86 | Premier League | 94k coins | -25.7% | -29.2% |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 42k coins | -23.9% | +9.2% |
+| Martín Ojeda | 83 | MLS | 22k coins | -19.3% | -39.3% |
+| Estefanía Banini | 89 | Liga F | 23k coins | -18.8% | +5.6% |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 110k coins | -18.2% | +50% |
+| Pablo Aimar | 91 | LALIGA EA SPORTS | 49k coins | -10.1% | +66.1% |
+| Nico Paz | 86 | Serie A TIM | 38k coins | -6.2% | -2.6% |
+| Carlos Tévez | 88 | Premier League | 30k coins | -5% | -8.8% |
+| Lionel Messi | 87 | MLS | 162k coins | -3.7% | 0% |
 
 
 ### Análise das baixas
 
-- **Javier Mascherano (90)** caiu **-40%** em 24h, a **45k coins** (faixa do dia: 45k–100k). Está -36% abaixo da média de 7 dias (descontada).
+- **Javier Zanetti (89)** caiu **-38.8%** em 24h, a **76k coins** (faixa do dia: 72k–130k). Está -8% abaixo da média de 7 dias (descontada).
 
-- **Marcos Acuña (89)** caiu **-27.6%** em 24h, a **100k coins** (faixa do dia: 90k–160k). Está -20% abaixo da média de 7 dias (descontada).
+- **Cristian Romero (86)** caiu **-25.7%** em 24h, a **94k coins** (faixa do dia: 60k–110k). Está em linha com a média de 7 dias (-0%).
 
-- **Santiago Hidalgo (84)** caiu **-15.5%** em 24h, a **38k coins** (faixa do dia: 30k–45k). Está -11% abaixo da média de 7 dias (descontada).
+- **Nico Gonzalez (87)** caiu **-23.9%** em 24h, a **42k coins** (faixa do dia: 35k–54k). Está em linha com a média de 7 dias (-5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Mauro Icardi já avançou 40% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Diego Armando Maradona já avançou 55.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Javier Mascherano recuou -40%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Javier Zanetti recuou -38.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (23/07/2026)?**
-Mauro Icardi (87, Trendyol Süper Lig), com +40% em 24h, a 67k coins no PC.
+Diego Armando Maradona (96, Icons), com +55.9% em 24h, a 2.17M coins no PC.
 
 **E a maior queda do dia?**
-Javier Mascherano (90), -40% em 24h, a 45k coins.
+Javier Zanetti (89), -38.8% em 24h, a 76k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 22 cartas em alta contra 15 em queda (média 10.28%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 26 cartas em alta contra 21 em queda (média 7.28%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
