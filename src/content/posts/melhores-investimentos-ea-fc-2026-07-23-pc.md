@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T19:48:18.000Z
+pubDatetime: 2026-07-23T22:48:19.000Z
 title: "Investimentos EA FC: Argentinos em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Mauro Icardi (87, Trendyol Süper Lig) lidera, com +45.7% em 7 dias a 67k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Esteban Cambiasso (86, Serie A TIM) lidera, com +47.8% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mauro Icardi (87) acumula **+45.7% em 7 dias** a 67k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Esteban Cambiasso (86) acumula **+47.8% em 7 dias** a 25k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.5% em 24h** e **+29.0% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.8% em 24h** e **+11.4% em 7 dias**.
+- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 67k coins | +34% | +45.7% | Esticada |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 65k coins | +4% | +35.4% | Momentum moderado |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 130k coins | +7.5% | +29% | Momentum moderado |
-| Matías Vargas | 84 | Brasileirão | 47k coins | +37.7% | +21.8% | Esticada |
-| Rafael Profini | 84 | A-League Men | 42k coins | +4.3% | +8.3% | Entrada a observar |
+| Esteban Cambiasso | 86 | Serie A TIM | 25k coins | +4.2% | +47.8% | Momentum moderado |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 110k coins | +22.9% | +42.9% | Esticada |
+| Nico Paz | 90 | Serie A TIM | 100k coins | +2.6% | +19% | Entrada a observar |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 60k coins | +33.3% | +13.2% | Esticada |
+| Matías Vargas | 84 | Brasileirão | 42k coins | +4.9% | +9.7% | Entrada a observar |
+| Javier Mascherano | 88 | LALIGA EA SPORTS | 19.000 coins | +5.3% | +8.1% | Momentum moderado |
+| Rafael Profini | 84 | A-League Men | 42k coins | +6.4% | +6.4% | Momentum moderado |
+| Matías Soulé | 84 | Serie A TIM | 45k coins | +22.3% | +5.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mauro Icardi (87)** — 67k coins, **+45.7% em 7 dias** (+34% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Esteban Cambiasso (86)** — 25k coins, **+47.8% em 7 dias** (+4.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Giovani Lo Celso (91)** — 65k coins, **+35.4% em 7 dias** (+4% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nahuel Molina (87)** — 110k coins, **+42.9% em 7 dias** (+22.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julián Alvarez (88)** — 130k coins, **+29% em 7 dias** (+7.5% em 24h). Preço +39% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Paz (90)** — 100k coins, **+19% em 7 dias** (+2.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Vargas (84)** — 47k coins, **+21.8% em 7 dias** (+37.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan Foyth (85)** — 60k coins, **+13.2% em 7 dias** (+33.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rafael Profini (84)** — 42k coins, **+8.3% em 7 dias** (+4.3% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Vargas (84)** — 42k coins, **+9.7% em 7 dias** (+4.9% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +81,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Mauro Icardi (87, Trendyol Süper Lig) lidera, com +45.7% em 7 dias a 67k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Esteban Cambiasso (86, Serie A TIM) lidera, com +47.8% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
