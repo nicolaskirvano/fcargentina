@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T16:48:19.000Z
+pubDatetime: 2026-07-24T19:48:21.000Z
 title: "Investimentos EA FC: Argentinos em 24/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 24/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (24/07/2026) no EA FC?"
-    a: "Nico Paz (90, Serie A TIM) lidera, com +51.7% em 7 dias a 110k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Estefanía Banini (89, Liga F) lidera, com +33.7% em 7 dias a 33k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Nico Paz (90) acumula **+51.7% em 7 dias** a 110k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Estefanía Banini (89) acumula **+33.7% em 7 dias** a 33k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 24/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-24-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **24/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+17.9% em 24h** e **+42.1% em 7 dias**.
+- A mediana é de **+21.6% em 24h** e **+24.4% em 7 dias**.
 - **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Liga F** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Nico Paz | 90 | Serie A TIM | 110k coins | +21.5% | +51.7% | Esticada |
-| Estefanía Banini | 89 | Liga F | 34k coins | +38.4% | +44.2% | Esticada |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +4.5% | +40% | Momentum moderado |
-| Matías Soulé | 86 | Serie A TIM | 40k coins | +14.3% | +5.3% | Momentum moderado |
+| Estefanía Banini | 89 | Liga F | 33k coins | +37.9% | +33.7% | Esticada |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 130k coins | +30% | +30% | Esticada |
+| Rafael Profini | 84 | A-League Men | 48k coins | +13.1% | +18.8% | Momentum moderado |
+| Javier Zanetti | 89 | Icons | 73k coins | +7.2% | +5.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Nico Paz (90)** — 110k coins, **+51.7% em 7 dias** (+21.5% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 33k coins, **+33.7% em 7 dias** (+37.9% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Estefanía Banini (89)** — 34k coins, **+44.2% em 7 dias** (+38.4% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Mascherano (89)** — 130k coins, **+30% em 7 dias** (+30% em 24h). Preço +69% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mauro Icardi (87)** — 70k coins, **+40% em 7 dias** (+4.5% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rafael Profini (84)** — 48k coins, **+18.8% em 7 dias** (+13.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Soulé (86)** — 40k coins, **+5.3% em 7 dias** (+14.3% em 24h). Preço +60% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (89)** — 73k coins, **+5.1% em 7 dias** (+7.2% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +75,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (24/07/2026) no EA FC?**  
-Nico Paz (90, Serie A TIM) lidera, com +51.7% em 7 dias a 110k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Estefanía Banini (89, Liga F) lidera, com +33.7% em 7 dias a 33k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
