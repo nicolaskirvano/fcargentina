@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-23T22:48:19.000Z
+pubDatetime: 2026-07-24T01:48:18.000Z
 title: "Investimentos EA FC: Argentinos em 23/07 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 23/07/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (23/07/2026) no EA FC?"
-    a: "Esteban Cambiasso (86, Serie A TIM) lidera, com +47.8% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Estefanía Banini (89, Liga F) lidera, com +32.2% em 7 dias a 27k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Esteban Cambiasso (86) acumula **+47.8% em 7 dias** a 25k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Estefanía Banini (89) acumula **+32.2% em 7 dias** a 27k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 23/07 — PC](/charts/melhores-investimentos-ea-fc-2026-07-23-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **23/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.8% em 24h** e **+11.4% em 7 dias**.
-- **3 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+25.7% em 24h** e **+19.2% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,27 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Esteban Cambiasso | 86 | Serie A TIM | 25k coins | +4.2% | +47.8% | Momentum moderado |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 110k coins | +22.9% | +42.9% | Esticada |
+| Estefanía Banini | 89 | Liga F | 27k coins | +19% | +32.2% | Momentum moderado |
+| Rafael Profini | 84 | A-League Men | 48k coins | +33.8% | +21.8% | Esticada |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 105k coins | +5.1% | +19.5% | Momentum moderado |
 | Nico Paz | 90 | Serie A TIM | 100k coins | +2.6% | +19% | Entrada a observar |
+| Matías Soulé | 84 | Serie A TIM | 48k coins | +32.4% | +13.6% | Esticada |
 | Juan Foyth | 85 | LALIGA EA SPORTS | 60k coins | +33.3% | +13.2% | Esticada |
-| Matías Vargas | 84 | Brasileirão | 42k coins | +4.9% | +9.7% | Entrada a observar |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 19.000 coins | +5.3% | +8.1% | Momentum moderado |
-| Rafael Profini | 84 | A-League Men | 42k coins | +6.4% | +6.4% | Momentum moderado |
-| Matías Soulé | 84 | Serie A TIM | 45k coins | +22.3% | +5.8% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Esteban Cambiasso (86)** — 25k coins, **+47.8% em 7 dias** (+4.2% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 27k coins, **+32.2% em 7 dias** (+19% em 24h). Preço em linha com a média de 7 dias (+1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (87)** — 110k coins, **+42.9% em 7 dias** (+22.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rafael Profini (84)** — 48k coins, **+21.8% em 7 dias** (+33.8% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Paz (90)** — 100k coins, **+19% em 7 dias** (+2.6% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nahuel Molina (87)** — 105k coins, **+19.5% em 7 dias** (+5.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Foyth (85)** — 60k coins, **+13.2% em 7 dias** (+33.3% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Paz (90)** — 100k coins, **+19% em 7 dias** (+2.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Vargas (84)** — 42k coins, **+9.7% em 7 dias** (+4.9% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (84)** — 48k coins, **+13.6% em 7 dias** (+32.4% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -81,7 +79,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (23/07/2026) no EA FC?**  
-Esteban Cambiasso (86, Serie A TIM) lidera, com +47.8% em 7 dias a 25k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Estefanía Banini (89, Liga F) lidera, com +32.2% em 7 dias a 27k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
