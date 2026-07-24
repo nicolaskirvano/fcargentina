@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-24T10:25:29.000Z
+pubDatetime: 2026-07-24T10:48:08.000Z
 title: "Mercado EA FC em 24/07: Argentinos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 24/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (24/07/2026)?"
-    a: "Alejandro Garnacho (89, Premier League), com +44.4% em 24h, a 260k coins no Console (PS)."
+    a: "Emiliano Martínez (88, Premier League), com +50.7% em 24h, a 26k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Javier Mascherano (89), -45.3% em 24h, a 38k coins."
+    a: "Javier Mascherano (89), -43.3% em 24h, a 38k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 21 cartas em alta contra 27 em queda (média -1.8%)."
+    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 16 cartas em alta contra 18 em queda (média -0.27%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Panorama de **24/07/2026** (Console (PS)): mercado **pressionado** — as quedas dominam o dia. Entre as cartas relevantes (80+ e acima de 5k coins), foram **21 em alta** e **27 em queda**, média de **-1.8%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
+Panorama de **24/07/2026** (Console (PS)): dia **indefinido** — sem tendência dominante. Entre as cartas relevantes (80+ e acima de 5k coins), foram **16 em alta** e **18 em queda**, média de **-0.27%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Alejandro Garnacho (89) **+44.4%** · 🔴 **Maior baixa:** Javier Mascherano (89) **-45.3%**
+> 🟢 **Maior alta:** Emiliano Martínez (88) **+50.7%** · 🔴 **Maior baixa:** Javier Mascherano (89) **-43.3%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 24/07: Argentinos — Console (PS)](/charts/mercado-ea-fc-2026-07-24-ps.svg)
 
@@ -35,24 +35,24 @@ Panorama de **24/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 89.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.8% entre as cartas que se moveram; o universo observado reúne 56 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 94.0 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.1% entre as cartas que se moveram; o universo observado reúne 34 cartas.
+- **Concentração:** Premier League aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Alejandro Garnacho | 89 | Premier League | 260k coins | +44.4% | +13% |
-| Emiliano Martínez | 88 | Premier League | 25k coins | +42.9% | -50% |
+| Emiliano Martínez | 88 | Premier League | 26k coins | +50.7% | -48% |
+| Alejandro Garnacho | 89 | Premier League | 247k coins | +46.1% | +13% |
 | Juan Foyth | 85 | LALIGA EA SPORTS | 24k coins | +40% | -48.4% |
 | Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +39.4% | +15% |
-| Rafael Profini | 84 | A-League Men | 45k coins | +23.1% | +20.7% |
-| Matías Soulé | 86 | Serie A TIM | 30k coins | +20.4% | +31.9% |
+| Rafael Profini | 84 | A-League Men | 44k coins | +23.1% | +20.7% |
+| Enzo Fernández | 91 | Premier League | 88k coins | +21.8% | -13.6% |
+| Pablo Aimar | 88 | LALIGA EA SPORTS | 22k coins | +20.5% | -9.3% |
 | Marcos Acuña | 89 | LPF | 60k coins | +19.4% | -18.9% |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 22k coins | +18.9% | -9.3% |
-| Enzo Fernández | 91 | Premier League | 95k coins | +17.9% | -10% |
-| Hernán Crespo | 88 | Icons | 24k coins | +15.7% | -28.4% |
+| Matías Soulé | 86 | Serie A TIM | 30k coins | +18.4% | +29.8% |
+| Hernán Crespo | 88 | Icons | 20k coins | +14.5% | -29.1% |
 
 
 ### Análise das altas
@@ -61,9 +61,9 @@ Panorama de **24/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Alejandro Garnacho (89)** subiu **+44.4%** em 24h, a **260k coins** (faixa do dia: 165k–379k). Está +21% acima da média de 7 dias (aquecida).
+- **Emiliano Martínez (88)** subiu **+50.7%** em 24h, a **26k coins** (faixa do dia: 15.125–30k). Está -12% abaixo da média de 7 dias (descontada).
 
-- **Emiliano Martínez (88)** subiu **+42.9%** em 24h, a **25k coins** (faixa do dia: 15.125–30k). Está -15% abaixo da média de 7 dias (descontada).
+- **Alejandro Garnacho (89)** subiu **+46.1%** em 24h, a **247k coins** (faixa do dia: 165k–379k). Está +14% acima da média de 7 dias (aquecida).
 
 - **Juan Foyth (85)** subiu **+40%** em 24h, a **24k coins** (faixa do dia: 15.750–34k). Está -31% abaixo da média de 7 dias (descontada).
 
@@ -72,32 +72,32 @@ Panorama de **24/07/2026** (Console (PS)): mercado **pressionado** — as quedas
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 38k coins | -45.3% | -47.9% |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 37k coins | -41.7% | -28.6% |
-| Nico Paz | 90 | Serie A TIM | 68k coins | -33.5% | -8.7% |
-| Javier Zanetti | 91 | Icons | 114k coins | -27.7% | -42% |
-| Lionel Messi | 88 | MLS | 187k coins | -25.4% | -48.7% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 90k coins | -24.2% | -43.1% |
-| Paulo Dybala | 91 | Serie A TIM | 222k coins | -21.5% | -8.7% |
-| Lionel Messi | 87 | MLS | 97k coins | -19.2% | -51.8% |
-| Hernán Crespo | 86 | Icons | 65k coins | -17.5% | -4.3% |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 40k coins | -15.3% | -17.9% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 38k coins | -43.3% | -47.9% |
+| Carlos Tévez | 89 | Premier League | 268k coins | -40.6% | -25.6% |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 37k coins | -38.3% | -24.5% |
+| Nico Paz | 90 | Serie A TIM | 74k coins | -27.7% | -0.7% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 40k coins | -27.1% | -45% |
+| Lionel Messi | 88 | MLS | 187k coins | -25.5% | -51.3% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 90k coins | -21.7% | -43.8% |
+| Hernán Crespo | 86 | Icons | 65k coins | -15.9% | -4.3% |
+| Carlos Tévez | 88 | Premier League | 22k coins | -12% | -38.9% |
+| Juan Román Riquelme | 88 | Icons | 66k coins | -6.3% | -2.9% |
 
 
 ### Análise das baixas
 
-- **Javier Mascherano (89)** caiu **-45.3%** em 24h, a **38k coins** (faixa do dia: 36k–78k). Está -37% abaixo da média de 7 dias (descontada).
+- **Javier Mascherano (89)** caiu **-43.3%** em 24h, a **38k coins** (faixa do dia: 36k–78k). Está -37% abaixo da média de 7 dias (descontada).
 
-- **Mauro Icardi (87)** caiu **-41.7%** em 24h, a **37k coins** (faixa do dia: 33k–65k). Está -24% abaixo da média de 7 dias (descontada).
+- **Carlos Tévez (89)** caiu **-40.6%** em 24h, a **268k coins** (faixa do dia: 268k–529k). Está -25% abaixo da média de 7 dias (descontada).
 
-- **Nico Paz (90)** caiu **-33.5%** em 24h, a **68k coins** (faixa do dia: 68k–103k). Está -17% abaixo da média de 7 dias (descontada).
+- **Mauro Icardi (87)** caiu **-38.3%** em 24h, a **37k coins** (faixa do dia: 33k–65k). Está -24% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Alejandro Garnacho já avançou 44.4% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Emiliano Martínez já avançou 50.7% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Javier Mascherano recuou -45.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Javier Mascherano recuou -43.3%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (24/07/2026)?**
-Alejandro Garnacho (89, Premier League), com +44.4% em 24h, a 260k coins no Console (PS).
+Emiliano Martínez (88, Premier League), com +50.7% em 24h, a 26k coins no Console (PS).
 
 **E a maior queda do dia?**
-Javier Mascherano (89), -45.3% em 24h, a 38k coins.
+Javier Mascherano (89), -43.3% em 24h, a 38k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 21 cartas em alta contra 27 em queda (média -1.8%).
+Hoje o mercado está em dia indefinido — sem tendência dominante, com 16 cartas em alta contra 18 em queda (média -0.27%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
