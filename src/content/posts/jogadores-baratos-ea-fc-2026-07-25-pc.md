@@ -1,38 +1,38 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T16:48:13.000Z
-title: "Jogadores baratos EA FC: Argentinos em 25/07 — Console (PS)"
+pubDatetime: 2026-07-25T16:48:22.000Z
+title: "Jogadores baratos EA FC: Argentinos em 25/07 — PC"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - ps
-description: "Cartas 83+ abaixo de 15 mil coins em 25/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
+  - pc
+description: "Cartas 83+ abaixo de 15 mil coins em 25/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (25/07/2026)?"
-    a: "Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 11.250 coins no Console (PS)."
+    a: "Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 11.250 coins no PC."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **25/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Alexis Mac Allister (89) por apenas 11.250 coins.
 
-![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Argentinos em 25/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-25-ps.svg)
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Argentinos em 25/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-25-pc.svg)
 
 *Visualização gerada com os mesmos valores da tabela deste artigo.*
 
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 4 opções:** 12.750 coins.
+- **Preço médio das 5 opções:** 10.660 coins.
 - **Posição mais frequente:** ST, com 2 cartas.
-- **Faixa real:** 11.250 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.800 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,9 +41,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 12.000 coins | -10.2% |
-| Paulo Dybala | 88 | ST | Serie A TIM | 14.000 coins | 0% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.750 coins | +6.2% |
+| Diego Milito | 88 | ST | Serie A TIM | 12.000 coins | 0% |
+| Paulo Dybala | 88 | ST | Serie A TIM | 14.750 coins | 0% |
+| Lionel Messi | 86 | RW | MLS | 3.800 coins | +58.3% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11.500 coins | -2.1% |
 
 
 ## 📈 Destaques
@@ -52,9 +53,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **14.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13.750 coins**
+- **Lionel Messi (86, RW)** da MLS, a apenas **3.800 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Esteban Cambiasso (86, CDM)** da Serie A TIM, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca
@@ -78,8 +81,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Argentinos em 25/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-25-ps/)
-- [Mercado EA FC em 25/07: Argentinos — Console (PS)](/posts/mercado-ea-fc-2026-07-25-ps/)
+- [Investimentos EA FC: Argentinos em 25/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-25-pc/)
+- [Mercado EA FC em 25/07: Argentinos — PC](/posts/mercado-ea-fc-2026-07-25-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
 
@@ -90,7 +93,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (25/07/2026)?**  
-Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 11.250 coins no Console (PS).
+Alexis Mac Allister (89, Premier League) aparece como melhor custo-benefício, a 11.250 coins no PC.
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -103,4 +106,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de Console (PS), referência de 25/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de PC, referência de 25/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
