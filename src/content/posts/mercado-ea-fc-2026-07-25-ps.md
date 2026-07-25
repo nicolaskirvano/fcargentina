@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T10:48:08.000Z
+pubDatetime: 2026-07-25T13:48:10.000Z
 title: "Mercado EA FC em 25/07: Argentinos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 25/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (25/07/2026)?"
-    a: "Matías Vargas (84, Brasileirão), com +55.3% em 24h, a 59k coins no Console (PS)."
+    a: "Estefanía Banini (89, Liga F), com +53.3% em 24h, a 22k coins no Console (PS)."
   - q: "E a maior queda do dia?"
-    a: "Juan Román Riquelme (89), -45.9% em 24h, a 301k coins."
+    a: "Juan Román Riquelme (89), -43.5% em 24h, a 297k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está lateral — sem direção clara, com 25 cartas em alta contra 26 em queda (média 1.31%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 20 cartas em alta contra 25 em queda (média -0.13%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-O mercado do **EA FC** abre **25/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **25 cartas subiram** e **26 caíram** (80+ acima de 5k coins), variação média de **1.31%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **25/07/2026** no Console (PS) com mercado **lateral** — sem direção clara: **20 cartas subiram** e **25 caíram** (80+ acima de 5k coins), variação média de **-0.13%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Matías Vargas (84) **+55.3%** · 🔴 **Maior baixa:** Juan Román Riquelme (89) **-45.9%**
+> 🟢 **Maior alta:** Estefanía Banini (89) **+53.3%** · 🔴 **Maior baixa:** Juan Román Riquelme (89) **-43.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 25/07: Argentinos — Console (PS)](/charts/mercado-ea-fc-2026-07-25-ps.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **25/07/2026** no Console (PS) com mercado **lateral
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 101.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 49.0% entre as cartas que se moveram; o universo observado reúne 60 cartas.
-- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 96.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 44.4% entre as cartas que se moveram; o universo observado reúne 51 cartas.
+- **Concentração:** Icons aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Matías Vargas | 84 | Brasileirão | 59k coins | +55.3% | +53.2% |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 54k coins | +47.3% | +7.9% |
-| Estefanía Banini | 89 | Liga F | 34k coins | +45.7% | +85.1% |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 48k coins | +39.3% | +8.3% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 36k coins | +37.8% | -25% |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 26k coins | +36.4% | +26.3% |
-| Nahuel Losada | 83 | LPF | 60k coins | +27% | +14.3% |
-| Nico Paz | 86 | Serie A TIM | 40k coins | +21.9% | +6.4% |
-| Exequiel Zeballos | 83 | LPF | 90k coins | +20.6% | +15.7% |
-| Matías Soulé | 84 | Serie A TIM | 49k coins | +15.9% | 0% |
+| Estefanía Banini | 89 | Liga F | 22k coins | +53.3% | -5.2% |
+| Martín Ojeda | 83 | MLS | 22k coins | +46.2% | +23.2% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 37k coins | +37.2% | +22.8% |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 28k coins | +36.8% | -19.4% |
+| Emiliano Buendía | 83 | Premier League | 55k coins | +28.7% | +3.8% |
+| Matías Vargas | 84 | Brasileirão | 51k coins | +27.5% | +25.9% |
+| Emiliano Martínez | 88 | Premier League | 30k coins | +23.9% | -24% |
+| Matías Soulé | 84 | Serie A TIM | 49k coins | +23.4% | +2.6% |
+| Juan Román Riquelme | 88 | Icons | 70k coins | +12% | +0.7% |
+| Pablo Aimar | 88 | LALIGA EA SPORTS | 24k coins | +10.2% | +2.1% |
 
 
 ### Análise das altas
@@ -61,43 +61,43 @@ O mercado do **EA FC** abre **25/07/2026** no Console (PS) com mercado **lateral
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Matías Vargas (84)** subiu **+55.3%** em 24h, a **59k coins** (faixa do dia: 34k–60k). Está +26% acima da média de 7 dias (aquecida).
+- **Estefanía Banini (89)** subiu **+53.3%** em 24h, a **22k coins** (faixa do dia: 11.250–37k). Está em linha com a média de 7 dias (-7%).
 
-- **Mauro Icardi (87)** subiu **+47.3%** em 24h, a **54k coins** (faixa do dia: 35k–63k). Está +11% acima da média de 7 dias (aquecida).
+- **Martín Ojeda (83)** subiu **+46.2%** em 24h, a **22k coins** (faixa do dia: 17.500–30k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Estefanía Banini (89)** subiu **+45.7%** em 24h, a **34k coins** (faixa do dia: 11.250–37k). Está +42% acima da média de 7 dias (aquecida).
+- **Santiago Hidalgo (84)** subiu **+37.2%** em 24h, a **37k coins** (faixa do dia: 33k–50k). Está -11% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Román Riquelme | 89 | Icons | 301k coins | -45.9% | -25.1% |
-| Paulo Dybala | 91 | Serie A TIM | 120k coins | -34.9% | -30% |
-| Diego Armando Maradona | 96 | Icons | 1.80M coins | -33.7% | -41.4% |
-| Lionel Messi | 87 | MLS | 60k coins | -30.5% | -53.7% |
-| Lautaro Martínez | 90 | Serie A TIM | 80k coins | -30% | +6.5% |
-| Lionel Messi | 90 | MLS | 1.85M coins | -27.8% | -34.2% |
-| Aldana Cometti | 85 | D1 Arkema | 50k coins | -13.7% | -10.6% |
-| Lautaro Martínez | 89 | Serie A TIM | 55k coins | -13.1% | -16.3% |
-| Hernán Crespo | 88 | Icons | 20k coins | -12.1% | -23.1% |
-| Emiliano Martínez | 88 | Premier League | 22k coins | -10% | -39.6% |
+| Juan Román Riquelme | 89 | Icons | 297k coins | -43.5% | -22.5% |
+| Diego Armando Maradona | 96 | Icons | 1.29M coins | -41.7% | -32.2% |
+| Paulo Dybala | 91 | Serie A TIM | 167k coins | -41% | -41% |
+| Diego Armando Maradona | 96 | Icons | 1.75M coins | -35% | -41.7% |
+| Lionel Messi | 90 | MLS | 1.70M coins | -28.1% | -34% |
+| Lionel Messi | 87 | MLS | 52k coins | -19% | -46.7% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 60k coins | -18% | +7.4% |
+| Tadeo Allende | 83 | MLS | 41k coins | -13.1% | +7.5% |
+| Mariano Troilo | 86 | Serie A TIM | 45k coins | -8.6% | 0% |
+| Diego Armando Maradona | 95 | Icons | 827k coins | -8% | -24.8% |
 
 
 ### Análise das baixas
 
-- **Juan Román Riquelme (89)** caiu **-45.9%** em 24h, a **301k coins** (faixa do dia: 258k–600k). Está -34% abaixo da média de 7 dias (descontada).
+- **Juan Román Riquelme (89)** caiu **-43.5%** em 24h, a **297k coins** (faixa do dia: 258k–482k). Está -34% abaixo da média de 7 dias (descontada).
 
-- **Paulo Dybala (91)** caiu **-34.9%** em 24h, a **120k coins** (faixa do dia: 106k–232k). Está -43% abaixo da média de 7 dias (descontada).
+- **Diego Armando Maradona (96)** caiu **-41.7%** em 24h, a **1.29M coins** (faixa do dia: 850k–2.21M). Está -21% abaixo da média de 7 dias (descontada).
 
-- **Diego Armando Maradona (96)** caiu **-33.7%** em 24h, a **1.80M coins** (faixa do dia: 1.48M–2.88M). Está -36% abaixo da média de 7 dias (descontada).
+- **Paulo Dybala (91)** caiu **-41%** em 24h, a **167k coins** (faixa do dia: 106k–194k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Matías Vargas já avançou 55.3% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Estefanía Banini já avançou 53.3% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Juan Román Riquelme recuou -45.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Juan Román Riquelme recuou -43.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -107,7 +107,7 @@ O mercado do **EA FC** abre **25/07/2026** no Console (PS) com mercado **lateral
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Argentinos em 25/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-25-ps/)
+- [Jogadores baratos EA FC: Argentinos em 25/07 — Console (PS)](/posts/jogadores-baratos-ea-fc-2026-07-25-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
 
@@ -118,13 +118,13 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (25/07/2026)?**
-Matías Vargas (84, Brasileirão), com +55.3% em 24h, a 59k coins no Console (PS).
+Estefanía Banini (89, Liga F), com +53.3% em 24h, a 22k coins no Console (PS).
 
 **E a maior queda do dia?**
-Juan Román Riquelme (89), -45.9% em 24h, a 301k coins.
+Juan Román Riquelme (89), -43.5% em 24h, a 297k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está lateral — sem direção clara, com 25 cartas em alta contra 26 em queda (média 1.31%).
+Hoje o mercado está lateral — sem direção clara, com 20 cartas em alta contra 25 em queda (média -0.13%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
