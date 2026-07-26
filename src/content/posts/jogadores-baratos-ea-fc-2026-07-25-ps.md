@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:48:10.000Z
+pubDatetime: 2026-07-26T01:48:10.000Z
 title: "Jogadores baratos EA FC: Argentinos em 25/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 11.714 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 11.000 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 8 opções:** 12.469 coins.
+- **Posição mais frequente:** ST, com 3 cartas.
+- **Faixa real:** 11.000 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -41,30 +41,31 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Jogador | OVR | Pos | Liga | Preço | 24h |
 | --- | --- | --- | --- | --- | --- |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
-| Marcos Acuña | 89 | LB | LPF | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Javier Mascherano | 88 | CB | LALIGA EA SPORTS | 11.000 coins | +21.6% |
-| Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | -11.5% |
+| Marcos Acuña | 89 | LB | LPF | 12.000 coins | +6.7% |
+| Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | -13.7% |
+| Valentín Barco | 88 | CM | Ligue 1 McDonald's | 13.750 coins | +17.2% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 14.000 coins | 0% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12.250 coins | -10.7% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12.000 coins | -14.3% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14.500 coins | +5.5% |
 
 
 ## 📈 Destaques
 
 - **Nico Paz (90, CAM)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marcos Acuña (89, LB)** da LPF, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Javier Mascherano (88, CB)** da LALIGA EA SPORTS, a apenas **11.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Marcos Acuña (89, LB)** da LPF, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+
+- **Valentín Barco (88, CM)** da Ligue 1 McDonald's, a apenas **13.750 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Marcos Acuña (89, LB) por 11.250 coins é a referência de rating deste recorte.
+- **Defesa:** Marcos Acuña (89, LB) por 12.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Nico Paz (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
@@ -85,6 +86,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Argentinos em 25/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-25-ps/)
 - [Mercado EA FC em 25/07: Argentinos — Console (PS)](/posts/mercado-ea-fc-2026-07-25-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

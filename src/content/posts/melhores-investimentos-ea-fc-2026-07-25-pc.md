@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:48:18.000Z
+pubDatetime: 2026-07-26T01:48:19.000Z
 title: "Investimentos EA FC: Argentinos em 25/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **25/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+7.1% em 24h** e **+23.4% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+3.6% em 24h** e **+28.5% em 7 dias**.
+- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Trendyol Süper Lig** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +7.7% | +70.7% | Esticada |
-| Pablo Aimar | 91 | LALIGA EA SPORTS | 78k coins | +14.4% | +63.1% | Esticada |
-| Ignacio Russo | 84 | LPF | 50k coins | +7% | +25.8% | Momentum moderado |
-| Matías Vargas | 84 | Brasileirão | 47k coins | +3.3% | +21% | Entrada a observar |
-| Javier Zanetti | 91 | Icons | 207k coins | +7.2% | +10.6% | Momentum moderado |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +4.2% | +10.5% | Entrada a observar |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +4.5% | +70.7% | Esticada |
+| Aldana Cometti | 85 | D1 Arkema | 70k coins | +2.2% | +29.6% | Momentum moderado |
+| Ignacio Russo | 84 | LPF | 50k coins | +8.7% | +27.4% | Momentum moderado |
+| Matías Vargas | 84 | Brasileirão | 44k coins | +2.7% | +21.9% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Mauro Icardi (87)** — 70k coins, **+70.7% em 7 dias** (+7.7% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mauro Icardi (87)** — 70k coins, **+70.7% em 7 dias** (+4.5% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pablo Aimar (91)** — 78k coins, **+63.1% em 7 dias** (+14.4% em 24h). Preço +48% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aldana Cometti (85)** — 70k coins, **+29.6% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ignacio Russo (84)** — 50k coins, **+25.8% em 7 dias** (+7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ignacio Russo (84)** — 50k coins, **+27.4% em 7 dias** (+8.7% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Vargas (84)** — 47k coins, **+21% em 7 dias** (+3.3% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Javier Zanetti (91)** — 207k coins, **+10.6% em 7 dias** (+7.2% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Vargas (84)** — 44k coins, **+21.9% em 7 dias** (+2.7% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-25T22:48:20.000Z
+pubDatetime: 2026-07-26T01:48:20.000Z
 title: "Jogadores baratos EA FC: Argentinos em 25/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 10.825 coins.
+- **Preço médio das 6 opções:** 10.750 coins.
 - **Posição mais frequente:** CAM, com 1 cartas.
-- **Faixa real:** 3.700 a 14.750 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,10 +42,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Marcos Acuña | 89 | LB | LPF | 12.250 coins | +4.3% |
+| Marcos Acuña | 89 | LB | LPF | 12.000 coins | +6.7% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 14.750 coins | 0% |
-| Lionel Messi | 86 | RW | MLS | 3.700 coins | +19.4% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11.750 coins | -4.3% |
+| Lionel Messi | 86 | RW | MLS | 3.500 coins | +13.3% |
+| Esteban Cambiasso | 86 | CDM | Serie A TIM | 11.750 coins | +2.2% |
 
 
 ## 📈 Destaques
@@ -54,16 +54,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marcos Acuña (89, LB)** da LPF, a apenas **12.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Marcos Acuña (89, LB)** da LPF, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lionel Messi (86, RW)** da MLS, a apenas **3.700 coins** — já **valorizando**, sinal de procura crescente.
+- **Lionel Messi (86, RW)** da MLS, a apenas **3.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Marcos Acuña (89, LB) por 12.250 coins é a referência de rating deste recorte.
+- **Defesa:** Marcos Acuña (89, LB) por 12.000 coins é a referência de rating deste recorte.
 
 - **Meio:** Nico Paz (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
