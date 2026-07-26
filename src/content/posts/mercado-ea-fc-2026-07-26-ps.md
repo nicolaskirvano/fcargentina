@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:25:33.000Z
+pubDatetime: 2026-07-26T10:48:11.000Z
 title: "Mercado EA FC em 26/07: Argentinos — Console (PS)"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Javier Mascherano (90), -43.3% em 24h, a 51k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 28 cartas em alta contra 30 em queda (média 7.6%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 29 cartas em alta contra 31 em queda (média 7.32%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **26/07/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **28 valorizações** contra **30 quedas** entre as cartas relevantes, com média de **7.6%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **26/07/2026** no Console (PS): clima **comprador** — a maioria das cartas subiu. **29 valorizações** contra **31 quedas** entre as cartas relevantes, com média de **7.32%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Gabriel Batistuta (92) **+45.9%** · 🔴 **Maior baixa:** Javier Mascherano (90) **-43.3%**
 
@@ -36,7 +36,7 @@ Resumo de **26/07/2026** no Console (PS): clima **comprador** — a maioria das 
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 89.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.3% entre as cartas que se moveram; o universo observado reúne 69 cartas.
+- **Participação das altas:** 48.3% entre as cartas que se moveram; o universo observado reúne 68 cartas.
 - **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -45,14 +45,14 @@ Resumo de **26/07/2026** no Console (PS): clima **comprador** — a maioria das 
 | --- | --- | --- | --- | --- | --- |
 | Gabriel Batistuta | 92 | Icons | 248k coins | +45.9% | -13% |
 | Paulo Dybala | 91 | Serie A TIM | 200k coins | +42.9% | 0% |
-| Emiliano Martínez | 88 | Premier League | 32k coins | +39.1% | -17.9% |
+| Emiliano Martínez | 88 | Premier League | 32k coins | +39.1% | -16.3% |
 | Hernán Crespo | 88 | Icons | 28k coins | +37.5% | -9.1% |
 | Lautaro Martínez | 89 | Serie A TIM | 72k coins | +28.3% | +16% |
-| Estefanía Banini | 89 | Liga F | 30k coins | +26.3% | +23.7% |
+| Estefanía Banini | 89 | Liga F | 30k coins | +26.3% | +26.3% |
 | Lionel Messi | 90 | MLS | 2.25M coins | +25.2% | -27.4% |
 | Lionel Messi | 88 | MLS | 170k coins | +25% | -43.3% |
 | Mariano Troilo | 86 | Serie A TIM | 50k coins | +24.4% | +17.1% |
-| Diego Armando Maradona | 95 | Icons | 1.05M coins | +21.2% | -8.1% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 70k coins | +22.8% | -11.9% |
 
 
 ### Análise das altas
@@ -73,24 +73,24 @@ Resumo de **26/07/2026** no Console (PS): clima **comprador** — a maioria das 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Javier Mascherano | 90 | LALIGA EA SPORTS | 51k coins | -43.3% | -23.9% |
-| Julián Alvarez | 94 | LALIGA EA SPORTS | 206k coins | -37.4% | -56.4% |
-| Lionel Messi | 88 | MLS | 146k coins | -32.1% | -58% |
+| Julián Alvarez | 94 | LALIGA EA SPORTS | 206k coins | -36.8% | -56.4% |
+| Lionel Messi | 88 | MLS | 146k coins | -32.7% | -57.9% |
 | Javier Mascherano | 89 | LALIGA EA SPORTS | 70k coins | -30.7% | +12% |
 | Juan Foyth | 85 | LALIGA EA SPORTS | 24k coins | -29.2% | -41.9% |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 21k coins | -27.6% | -12.5% |
+| Exequiel Zeballos | 83 | LPF | 66k coins | -27.2% | -22.9% |
 | Matías Soulé | 86 | Serie A TIM | 26k coins | -23.7% | +13.2% |
+| Enzo Fernández | 91 | Premier League | 38k coins | -23% | -48.3% |
 | Nico Gonzalez | 87 | LALIGA EA SPORTS | 38k coins | -20.2% | -2.5% |
 | Gerónimo Rulli | 84 | Ligue 1 McDonald's | 45k coins | -18.9% | -10% |
-| Diego Armando Maradona | 96 | Icons | 1.47M coins | -18.2% | -54.2% |
 
 
 ### Análise das baixas
 
-- **Javier Mascherano (90)** caiu **-43.3%** em 24h, a **51k coins** (faixa do dia: 36k–99k). Está -29% abaixo da média de 7 dias (descontada).
+- **Javier Mascherano (90)** caiu **-43.3%** em 24h, a **51k coins** (faixa do dia: 36k–86k). Está -29% abaixo da média de 7 dias (descontada).
 
-- **Julián Alvarez (94)** caiu **-37.4%** em 24h, a **206k coins** (faixa do dia: 204k–417k). Está -40% abaixo da média de 7 dias (descontada).
+- **Julián Alvarez (94)** caiu **-36.8%** em 24h, a **206k coins** (faixa do dia: 204k–360k). Está -40% abaixo da média de 7 dias (descontada).
 
-- **Lionel Messi (88)** caiu **-32.1%** em 24h, a **146k coins** (faixa do dia: 144k–235k). Está -39% abaixo da média de 7 dias (descontada).
+- **Lionel Messi (88)** caiu **-32.7%** em 24h, a **146k coins** (faixa do dia: 144k–235k). Está -39% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Gabriel Batistuta (92, Icons), com +45.9% em 24h, a 248k coins no Console (PS).
 Javier Mascherano (90), -43.3% em 24h, a 51k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 28 cartas em alta contra 30 em queda (média 7.6%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 29 cartas em alta contra 31 em queda (média 7.32%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

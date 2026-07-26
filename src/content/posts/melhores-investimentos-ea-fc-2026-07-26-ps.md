@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:25:34.000Z
+pubDatetime: 2026-07-26T10:48:12.000Z
 title: "Investimentos EA FC: Argentinos em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+16.4% em 24h** e **+17.1% em 7 dias**.
-- **3 de 7 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+20.4% em 24h** e **+17.6% em 7 dias**.
+- **3 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,19 +44,18 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +16.4% | +27.6% | Momentum moderado |
-| Estefanía Banini | 89 | Liga F | 30k coins | +26.3% | +23.7% | Esticada |
+| Estefanía Banini | 89 | Liga F | 30k coins | +26.3% | +26.3% | Esticada |
 | Rafael Profini | 84 | A-League Men | 47k coins | +2.2% | +18.2% | Entrada a observar |
 | Mariano Troilo | 86 | Serie A TIM | 50k coins | +24.4% | +17.1% | Esticada |
 | Lautaro Martínez | 89 | Serie A TIM | 72k coins | +28.3% | +16% | Esticada |
 | Javier Zanetti | 89 | Icons | 80k coins | +7.4% | +10.3% | Momentum moderado |
-| Nico Paz | 86 | Serie A TIM | 45k coins | +5.3% | +5.3% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
 - **Santiago Hidalgo (84)** — 50k coins, **+27.6% em 7 dias** (+16.4% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Estefanía Banini (89)** — 30k coins, **+23.7% em 7 dias** (+26.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 30k coins, **+26.3% em 7 dias** (+26.3% em 24h). Preço +27% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Rafael Profini (84)** — 47k coins, **+18.2% em 7 dias** (+2.2% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 

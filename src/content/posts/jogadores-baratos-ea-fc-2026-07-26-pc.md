@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:25:45.000Z
+pubDatetime: 2026-07-26T10:48:23.000Z
 title: "Jogadores baratos EA FC: Argentinos em 26/07 — PC"
 draft: false
 featured: false
@@ -30,8 +30,8 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 10.344 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
+- **Preço médio das 8 opções:** 9.856 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
 - **Faixa real:** 1.500 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
@@ -48,7 +48,6 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Paulo Dybala | 88 | ST | Serie A TIM | 14.750 coins | 0% |
 | Paulo Dybala | 86 | CAM | Serie A Enilive | 1.500 coins | 0% |
 | Lionel Messi | 86 | RW | MLS | 3.100 coins | -8.8% |
-| Martín Ojeda | 83 | CAM | MLS | 14.250 coins | +23.9% |
 
 
 ## 📈 Destaques

@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:25:42.000Z
+pubDatetime: 2026-07-26T10:48:20.000Z
 title: "Mercado EA FC em 26/07: Argentinos — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Giovani Lo Celso (91), -43.6% em 24h, a 33k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 24 cartas em alta contra 26 em queda (média 1.76%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 25 cartas em alta contra 28 em queda (média 3.09%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **24 valorizações** contra **26 quedas** entre as cartas relevantes, com média de **1.76%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **25 valorizações** contra **28 quedas** entre as cartas relevantes, com média de **3.09%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Tadeo Allende (83) **+42.9%** · 🔴 **Maior baixa:** Giovani Lo Celso (91) **-43.6%**
 
@@ -36,7 +36,7 @@ Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 86.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.0% entre as cartas que se moveram; o universo observado reúne 70 cartas.
+- **Participação das altas:** 47.2% entre as cartas que se moveram; o universo observado reúne 69 cartas.
 - **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
@@ -49,10 +49,10 @@ Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 | Paulo Dybala | 91 | Serie A TIM | 190k coins | +23.4% | -25.5% |
 | Carlos Tévez | 88 | Premier League | 22k coins | +23.3% | -40.8% |
 | Julián Alvarez | 89 | LALIGA EA SPORTS | 400k coins | +22.7% | +2% |
-| Lionel Messi | 88 | MLS | 427k coins | +22% | +1.7% |
 | Nicolás Otamendi | 86 | Liga Portugal | 78k coins | +20% | +60% |
 | Alejandro Garnacho | 89 | Premier League | 366k coins | +13.7% | +10.9% |
 | Estefanía Banini | 89 | Liga F | 33k coins | +12.8% | +65% |
+| Diego Armando Maradona | 95 | Icons | 1.15M coins | +10.2% | -68.8% |
 
 
 ### Análise das altas
@@ -76,17 +76,17 @@ Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 | Emiliano Buendía | 83 | Premier League | 50k coins | -33.2% | -30.9% |
 | Juan Román Riquelme | 88 | Icons | 66k coins | -30.4% | -26.9% |
 | Javier Zanetti | 91 | Icons | 148k coins | -23.7% | -26% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 32k coins | -22.9% | -31.9% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 32k coins | -22.9% | -30.8% |
 | Santiago Hidalgo | 84 | Ligue 1 McDonald's | 38k coins | -22.7% | +2% |
 | Lautaro Martínez | 89 | Serie A TIM | 70k coins | -22.2% | +55.6% |
 | Julián Alvarez | 88 | LALIGA EA SPORTS | 82k coins | -21.9% | -18% |
-| Mariano Troilo | 86 | Serie A TIM | 35k coins | -17.3% | -9.2% |
+| Mariano Troilo | 86 | Serie A TIM | 35k coins | -17.3% | -11.5% |
 | Javier Mascherano | 90 | LALIGA EA SPORTS | 58k coins | -17.1% | -16.5% |
 
 
 ### Análise das baixas
 
-- **Giovani Lo Celso (91)** caiu **-43.6%** em 24h, a **33k coins** (faixa do dia: 19.500–60k). Está -42% abaixo da média de 7 dias (descontada).
+- **Giovani Lo Celso (91)** caiu **-43.6%** em 24h, a **33k coins** (faixa do dia: 19.500–58k). Está -42% abaixo da média de 7 dias (descontada).
 
 - **Emiliano Buendía (83)** caiu **-33.2%** em 24h, a **50k coins** (faixa do dia: 50k–75k). Está -16% abaixo da média de 7 dias (descontada).
 
@@ -115,7 +115,7 @@ Tadeo Allende (83, MLS), com +42.9% em 24h, a 60k coins no PC.
 Giovani Lo Celso (91), -43.6% em 24h, a 33k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 24 cartas em alta contra 26 em queda (média 1.76%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 25 cartas em alta contra 28 em queda (média 3.09%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.

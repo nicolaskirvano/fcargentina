@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:25:44.000Z
+pubDatetime: 2026-07-26T10:48:22.000Z
 title: "Investimentos EA FC: Argentinos em 26/07 — PC"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **26/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+6.9% em 24h** e **+49.7% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+7.5% em 24h** e **+47.2% em 7 dias**.
+- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Liga F** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -45,18 +45,19 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | --- | --- | --- | --- | --- | --- | --- |
 | Estefanía Banini | 89 | Liga F | 33k coins | +12.8% | +65% | Esticada |
 | Nicolás Otamendi | 86 | Liga Portugal | 78k coins | +20% | +60% | Esticada |
-| Aldana Cometti | 85 | D1 Arkema | 70k coins | +2.2% | +49.7% | Momentum moderado |
+| Aldana Cometti | 85 | D1 Arkema | 70k coins | +2.2% | +50.5% | Momentum moderado |
 | Nico Paz | 86 | Serie A TIM | 48k coins | +6.1% | +43.9% | Momentum moderado |
 | Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +6.9% | +40.7% | Momentum moderado |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 105k coins | +8.2% | +31.2% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Estefanía Banini (89)** — 33k coins, **+65% em 7 dias** (+12.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 33k coins, **+65% em 7 dias** (+12.8% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Nicolás Otamendi (86)** — 78k coins, **+60% em 7 dias** (+20% em 24h). Preço em linha com a média de 7 dias (+0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aldana Cometti (85)** — 70k coins, **+49.7% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Aldana Cometti (85)** — 70k coins, **+50.5% em 7 dias** (+2.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Nico Paz (86)** — 48k coins, **+43.9% em 7 dias** (+6.1% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
