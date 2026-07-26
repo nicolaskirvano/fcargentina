@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T10:48:20.000Z
+pubDatetime: 2026-07-26T13:48:17.000Z
 title: "Mercado EA FC em 26/07: Argentinos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 26/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (26/07/2026)?"
-    a: "Tadeo Allende (83, MLS), com +42.9% em 24h, a 60k coins no PC."
+    a: "Nahuel Molina (87, LALIGA EA SPORTS), com +41.4% em 24h, a 90k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Giovani Lo Celso (91), -43.6% em 24h, a 33k coins."
+    a: "Enzo Fernández (91), -36% em 24h, a 32k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 25 cartas em alta contra 28 em queda (média 3.09%)."
+    a: "Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 14 cartas em alta contra 18 em queda (média 2.3%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **25 valorizações** contra **28 quedas** entre as cartas relevantes, com média de **3.09%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas subiu. **14 valorizações** contra **18 quedas** entre as cartas relevantes, com média de **2.3%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Tadeo Allende (83) **+42.9%** · 🔴 **Maior baixa:** Giovani Lo Celso (91) **-43.6%**
+> 🟢 **Maior alta:** Nahuel Molina (87) **+41.4%** · 🔴 **Maior baixa:** Enzo Fernández (91) **-36%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 26/07: Argentinos — PC](/charts/mercado-ea-fc-2026-07-26-pc.svg)
 
@@ -35,24 +35,22 @@ Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 86.5 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 47.2% entre as cartas que se moveram; o universo observado reúne 69 cartas.
-- **Concentração:** Premier League aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 77.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.8% entre as cartas que se moveram; o universo observado reúne 54 cartas.
+- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Tadeo Allende | 83 | MLS | 60k coins | +42.9% | 0% |
-| Cristian Romero | 86 | Premier League | 110k coins | +37.5% | 0% |
-| Lionel Messi | 87 | MLS | 115k coins | +29.2% | -28.1% |
-| Paulo Dybala | 91 | Serie A TIM | 190k coins | +23.4% | -25.5% |
-| Carlos Tévez | 88 | Premier League | 22k coins | +23.3% | -40.8% |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 90k coins | +41.4% | +23.8% |
+| Carlos Tévez | 88 | Premier League | 22k coins | +23.3% | -41.2% |
 | Julián Alvarez | 89 | LALIGA EA SPORTS | 400k coins | +22.7% | +2% |
-| Nicolás Otamendi | 86 | Liga Portugal | 78k coins | +20% | +60% |
-| Alejandro Garnacho | 89 | Premier League | 366k coins | +13.7% | +10.9% |
-| Estefanía Banini | 89 | Liga F | 33k coins | +12.8% | +65% |
-| Diego Armando Maradona | 95 | Icons | 1.15M coins | +10.2% | -68.8% |
+| Alejandro Garnacho | 89 | Premier League | 380k coins | +18% | +15.2% |
+| Paulo Dybala | 91 | Serie A TIM | 178k coins | +14.1% | -27.1% |
+| Hernán Crespo | 88 | Icons | 22k coins | +10% | -36.2% |
+| Santiago Castro | 87 | Serie A TIM | 20k coins | +7.9% | +24.2% |
+| Gabriel Batistuta | 89 | Icons | 72k coins | +5.1% | -22.6% |
 
 
 ### Análise das altas
@@ -61,43 +59,43 @@ Resumo de **26/07/2026** no PC: clima **comprador** — a maioria das cartas sub
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Tadeo Allende (83)** subiu **+42.9%** em 24h, a **60k coins** (faixa do dia: 41k–60k). Está +13% acima da média de 7 dias (aquecida).
+- **Nahuel Molina (87)** subiu **+41.4%** em 24h, a **90k coins** (faixa do dia: 64k–110k). Está em linha com a média de 7 dias (-2%).
 
-- **Cristian Romero (86)** subiu **+37.5%** em 24h, a **110k coins** (faixa do dia: 56k–110k). Está +19% acima da média de 7 dias (aquecida).
+- **Carlos Tévez (88)** subiu **+23.3%** em 24h, a **22k coins** (faixa do dia: 17.250–25k). Está -27% abaixo da média de 7 dias (descontada).
 
-- **Lionel Messi (87)** subiu **+29.2%** em 24h, a **115k coins** (faixa do dia: 79k–130k). Está -24% abaixo da média de 7 dias (descontada).
+- **Julián Alvarez (89)** subiu **+22.7%** em 24h, a **400k coins** (faixa do dia: 300k–400k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 33k coins | -43.6% | -43.1% |
-| Emiliano Buendía | 83 | Premier League | 50k coins | -33.2% | -30.9% |
-| Juan Román Riquelme | 88 | Icons | 66k coins | -30.4% | -26.9% |
+| Enzo Fernández | 91 | Premier League | 32k coins | -36% | -67.8% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 58k coins | -26.1% | -16.5% |
 | Javier Zanetti | 91 | Icons | 148k coins | -23.7% | -26% |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 32k coins | -22.9% | -30.8% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 38k coins | -22.7% | +2% |
-| Lautaro Martínez | 89 | Serie A TIM | 70k coins | -22.2% | +55.6% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 82k coins | -21.9% | -18% |
-| Mariano Troilo | 86 | Serie A TIM | 35k coins | -17.3% | -11.5% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 58k coins | -17.1% | -16.5% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 34k coins | -21.8% | -20% |
+| Carlos Tévez | 89 | Premier League | 564k coins | -19.1% | -11.6% |
+| Matías Soulé | 84 | Serie A TIM | 40k coins | -19% | -1.2% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 46k coins | -18.7% | +8.1% |
+| Rafael Profini | 84 | A-League Men | 38k coins | -18.3% | +9.4% |
+| Mariano Troilo | 86 | Serie A TIM | 37k coins | -16.8% | -2.5% |
+| Lautaro Martínez | 89 | Serie A TIM | 70k coins | -12.5% | +55.6% |
 
 
 ### Análise das baixas
 
-- **Giovani Lo Celso (91)** caiu **-43.6%** em 24h, a **33k coins** (faixa do dia: 19.500–58k). Está -42% abaixo da média de 7 dias (descontada).
+- **Enzo Fernández (91)** caiu **-36%** em 24h, a **32k coins** (faixa do dia: 29k–50k). Está -59% abaixo da média de 7 dias (descontada).
 
-- **Emiliano Buendía (83)** caiu **-33.2%** em 24h, a **50k coins** (faixa do dia: 50k–75k). Está -16% abaixo da média de 7 dias (descontada).
+- **Javier Mascherano (90)** caiu **-26.1%** em 24h, a **58k coins** (faixa do dia: 50k–100k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Juan Román Riquelme (88)** caiu **-30.4%** em 24h, a **66k coins** (faixa do dia: 66k–127k). Está -42% abaixo da média de 7 dias (descontada).
+- **Javier Zanetti (91)** caiu **-23.7%** em 24h, a **148k coins** (faixa do dia: 148k–240k). Está -21% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Tadeo Allende já avançou 42.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Nahuel Molina já avançou 41.4% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Giovani Lo Celso recuou -43.6%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Enzo Fernández recuou -36%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +107,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (26/07/2026)?**
-Tadeo Allende (83, MLS), com +42.9% em 24h, a 60k coins no PC.
+Nahuel Molina (87, LALIGA EA SPORTS), com +41.4% em 24h, a 90k coins no PC.
 
 **E a maior queda do dia?**
-Giovani Lo Celso (91), -43.6% em 24h, a 33k coins.
+Enzo Fernández (91), -36% em 24h, a 32k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 25 cartas em alta contra 28 em queda (média 3.09%).
+Hoje o mercado está em clima comprador — a maioria das cartas subiu, com 14 cartas em alta contra 18 em queda (média 2.3%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
@@ -131,6 +129,5 @@ Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e l
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Argentinos em 26/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-26-pc/)
-- [Investimentos EA FC: Argentinos em 26/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-26-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
