@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:48:20.000Z
+pubDatetime: 2026-07-27T13:48:20.000Z
 title: "Investimentos EA FC: Argentinos em 27/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+44.6% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+26.2% em 24h** e **+19.0% em 7 dias**.
+- **4 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +11.1% | +83.5% | Esticada |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 109k coins | +14.3% | +50% | Momentum moderado |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 92k coins | +14.6% | +44.6% | Momentum moderado |
-| Nicolás Otamendi | 86 | Liga Portugal | 100k coins | +28.2% | +25% | Esticada |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 40k coins | +5.2% | +8.8% | Momentum moderado |
+| Matías Soulé | 84 | Serie A TIM | 50k coins | +23.5% | +83.5% | Esticada |
+| Javier Zanetti | 89 | Icons | 87k coins | +28.9% | +19.2% | Esticada |
+| Estefanía Banini | 89 | Liga F | 34k coins | +29.1% | +18.9% | Esticada |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 65k coins | +20.8% | +12.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Matías Soulé (84)** — 50k coins, **+83.5% em 7 dias** (+11.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (84)** — 50k coins, **+83.5% em 7 dias** (+23.5% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (87)** — 109k coins, **+50% em 7 dias** (+14.3% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Javier Zanetti (89)** — 87k coins, **+19.2% em 7 dias** (+28.9% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julián Alvarez (88)** — 92k coins, **+44.6% em 7 dias** (+14.6% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Estefanía Banini (89)** — 34k coins, **+18.9% em 7 dias** (+29.1% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nicolás Otamendi (86)** — 100k coins, **+25% em 7 dias** (+28.2% em 24h). Preço +26% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Santiago Hidalgo (84)** — 40k coins, **+8.8% em 7 dias** (+5.2% em 24h). Preço em linha com a média de 7 dias (-7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Gonzalez (87)** — 65k coins, **+12.3% em 7 dias** (+20.8% em 24h). Preço +45% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
