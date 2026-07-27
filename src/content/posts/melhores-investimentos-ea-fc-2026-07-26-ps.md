@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-26T22:48:10.000Z
+pubDatetime: 2026-07-27T01:48:10.000Z
 title: "Investimentos EA FC: Argentinos em 26/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 26/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (26/07/2026) no EA FC?"
-    a: "Javier Mascherano (88, LALIGA EA SPORTS) lidera, com +38.5% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Ignacio Russo (84, LPF) lidera, com +31.6% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Javier Mascherano (88) acumula **+38.5% em 7 dias** a 20k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Ignacio Russo (84) acumula **+31.6% em 7 dias** a 50k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 26/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-26-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **26/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.3% em 24h** e **+31.3% em 7 dias**.
-- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+9.8% em 24h** e **+18.4% em 7 dias**.
+- **0 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 20k coins | +14.3% | +38.5% | Momentum moderado |
-| Ignacio Russo | 84 | LPF | 40k coins | +6.4% | +31.6% | Momentum moderado |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 60k coins | +19.3% | +31.3% | Momentum moderado |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 41k coins | +3.7% | +11.8% | Entrada a observar |
-| Pablo Aimar | 87 | LALIGA EA SPORTS | 15.000 coins | +20.4% | +5.4% | Esticada |
+| Ignacio Russo | 84 | LPF | 50k coins | +6.4% | +31.6% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 50k coins | +10.5% | +21.2% | Momentum moderado |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 45k coins | +9.8% | +18.4% | Momentum moderado |
+| Matías Soulé | 84 | Serie A TIM | 50k coins | +5.3% | +9.3% | Momentum moderado |
+| Mariano Troilo | 86 | Serie A TIM | 45k coins | +13.2% | +5.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Javier Mascherano (88)** — 20k coins, **+38.5% em 7 dias** (+14.3% em 24h). Preço +47% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ignacio Russo (84)** — 50k coins, **+31.6% em 7 dias** (+6.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ignacio Russo (84)** — 40k coins, **+31.6% em 7 dias** (+6.4% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Paz (86)** — 50k coins, **+21.2% em 7 dias** (+10.5% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mauro Icardi (87)** — 60k coins, **+31.3% em 7 dias** (+19.3% em 24h). Preço +19% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Gonzalez (87)** — 45k coins, **+18.4% em 7 dias** (+9.8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Gonzalez (87)** — 41k coins, **+11.8% em 7 dias** (+3.7% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (84)** — 50k coins, **+9.3% em 7 dias** (+5.3% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pablo Aimar (87)** — 15.000 coins, **+5.4% em 7 dias** (+20.4% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariano Troilo (86)** — 45k coins, **+5.9% em 7 dias** (+13.2% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (26/07/2026) no EA FC?**  
-Javier Mascherano (88, LALIGA EA SPORTS) lidera, com +38.5% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Ignacio Russo (84, LPF) lidera, com +31.6% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
