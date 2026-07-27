@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T16:48:20.000Z
+pubDatetime: 2026-07-27T19:48:22.000Z
 title: "Jogadores baratos EA FC: Argentinos em 27/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 9.650 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 12.562 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 11.250 a 14.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,11 +42,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Marcos Acuña | 89 | LB | LPF | 12.000 coins | +4.3% |
-| Lautaro Martínez | 88 | ST | Serie A Enilive | 1.600 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 13.750 coins | 0% |
-| Valentín Barco | 88 | CM | Ligue 1 McDonald's | 14.000 coins | +22.4% |
-| Lionel Messi | 86 | RW | MLS | 3.700 coins | +18.8% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.000 coins | -5.6% |
+| Santiago Castro | 87 | ST | Serie A TIM | 14.750 coins | +31.2% |
 
 
 ## 📈 Destaques
@@ -55,20 +52,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marcos Acuña (89, LB)** da LPF, a apenas **12.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lautaro Martínez (88, ST)** da Serie A Enilive, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente.
-
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Santiago Castro (87, ST)** da Serie A TIM, a apenas **14.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Marcos Acuña (89, LB) por 12.000 coins é a referência de rating deste recorte.
-
 - **Meio:** Nico Paz (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
-- **Ataque:** Lautaro Martínez (88, ST) por 1.600 coins é a referência de rating deste recorte.
+- **Ataque:** Santiago Castro (87, ST) por 14.750 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
