@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:24:16.000Z
+pubDatetime: 2026-07-27T10:48:10.000Z
 title: "Investimentos EA FC: Argentinos em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Matías Soulé (86, Serie A TIM) lidera, com +75% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Matías Soulé (86, Serie A TIM) lidera, com +75% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Matías Soulé (86) acumula **+75% em 7 dias** a 32k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Matías Soulé (86) acumula **+75% em 7 dias** a 45k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,7 +33,7 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.7% em 24h** e **+13.9% em 7 dias**.
+- A mediana é de **+8.1% em 24h** e **+31.0% em 7 dias**.
 - **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -43,24 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Matías Soulé | 86 | Serie A TIM | 32k coins | +8.7% | +75% | Esticada |
+| Matías Soulé | 86 | Serie A TIM | 45k coins | +8.7% | +75% | Esticada |
+| Matías Vargas | 84 | Brasileirão | 50k coins | +8.1% | +33.3% | Momentum moderado |
+| Lautaro Martínez | 89 | Serie A TIM | 76k coins | +4.8% | +31% | Momentum moderado |
 | Julián Alvarez | 88 | LALIGA EA SPORTS | 76k coins | +10.7% | +24% | Momentum moderado |
-| Juan Román Riquelme | 88 | Icons | 80k coins | +14.7% | +13.9% | Momentum moderado |
-| Javier Zanetti | 91 | Icons | 145k coins | +4.4% | +9.9% | Entrada a observar |
-| Matías Soulé | 84 | Serie A TIM | 41k coins | +8.3% | +5.4% | Momentum moderado |
+| Juan Román Riquelme | 88 | Icons | 80k coins | +6.7% | +6% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Matías Soulé (86)** — 32k coins, **+75% em 7 dias** (+8.7% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (86)** — 45k coins, **+75% em 7 dias** (+8.7% em 24h). Preço +83% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julián Alvarez (88)** — 76k coins, **+24% em 7 dias** (+10.7% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Vargas (84)** — 50k coins, **+33.3% em 7 dias** (+8.1% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Román Riquelme (88)** — 80k coins, **+13.9% em 7 dias** (+14.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lautaro Martínez (89)** — 76k coins, **+31% em 7 dias** (+4.8% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Javier Zanetti (91)** — 145k coins, **+9.9% em 7 dias** (+4.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julián Alvarez (88)** — 76k coins, **+24% em 7 dias** (+10.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Soulé (84)** — 41k coins, **+5.4% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan Román Riquelme (88)** — 80k coins, **+6% em 7 dias** (+6.7% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Matías Soulé (86, Serie A TIM) lidera, com +75% em 7 dias a 32k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Matías Soulé (86, Serie A TIM) lidera, com +75% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

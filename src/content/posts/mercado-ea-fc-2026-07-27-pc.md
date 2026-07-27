@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T10:24:24.000Z
+pubDatetime: 2026-07-27T10:48:18.000Z
 title: "Mercado EA FC em 27/07: Argentinos — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Lautaro Martínez (89), -41.4% em 24h, a 41k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está em dia indefinido — sem tendência dominante, com 18 cartas em alta contra 26 em queda (média 1.37%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 20 cartas em alta contra 23 em queda (média 3.66%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Hoje (**27/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem tendência dominante — **18 subiram**, **26 caíram** (80+ e 5k+ coins), média de **1.37%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Hoje (**27/07/2026**, PC) o Ultimate Team está **aquecido** — as altas dominam o dia — **20 subiram**, **23 caíram** (80+ e 5k+ coins), média de **3.66%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Lionel Messi (88) **+40.5%** · 🔴 **Maior baixa:** Lautaro Martínez (89) **-41.4%**
 
@@ -36,7 +36,7 @@ Hoje (**27/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 81.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 40.9% entre as cartas que se moveram; o universo observado reúne 67 cartas.
+- **Participação das altas:** 46.5% entre as cartas que se moveram; o universo observado reúne 65 cartas.
 - **Concentração:** MLS aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
@@ -48,11 +48,11 @@ Hoje (**27/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 | Emiliano Buendía | 83 | Premier League | 64k coins | +28.6% | -14.7% |
 | Nicolás Otamendi | 86 | Liga Portugal | 100k coins | +28.2% | +25% |
 | Mariano Troilo | 86 | Serie A TIM | 43k coins | +23% | -10% |
+| Gabriel Batistuta | 89 | Icons | 85k coins | +22.3% | +3.7% |
 | Gerónimo Rulli | 84 | Ligue 1 McDonald's | 48k coins | +18.5% | 0% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 94k coins | +17.7% | +48.5% |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 50k coins | +17.1% | +16.4% |
 | Matías Vargas | 84 | Brasileirão | 46k coins | +15.7% | -3.2% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 120k coins | +14.3% | +50% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 92k coins | +14.6% | +44.6% |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 109k coins | +14.3% | +50% |
 
 
 ### Análise das altas
@@ -74,14 +74,14 @@ Hoje (**27/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 | --- | --- | --- | --- | --- | --- |
 | Lautaro Martínez | 89 | Serie A TIM | 41k coins | -41.4% | -68.5% |
 | Lautaro Martínez | 90 | Serie A TIM | 46k coins | -40.2% | -67.3% |
-| Lionel Messi | 88 | MLS | 880k coins | -36.9% | +19.8% |
-| Estefanía Banini | 89 | Liga F | 24k coins | -31.8% | -29.1% |
-| Diego Armando Maradona | 96 | Icons | 4.58M coins | -31.3% | -42% |
-| Lionel Messi | 89 | MLS | 261k coins | -30.5% | 0% |
-| Marcos Senesi | 88 | Premier League | 25k coins | -25.2% | -56.7% |
-| Alejandro Garnacho | 89 | Premier League | 279k coins | -23.8% | -7% |
-| Diego Armando Maradona | 95 | Icons | 927k coins | -19.4% | -69.1% |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 57k coins | -18.6% | +19.4% |
+| Paulo Dybala | 91 | Serie A TIM | 123k coins | -35.3% | -56.1% |
+| Diego Armando Maradona | 96 | Icons | 4.58M coins | -31.7% | -41.9% |
+| Lionel Messi | 89 | MLS | 261k coins | -30.5% | +3.1% |
+| Marcos Senesi | 88 | Premier League | 30k coins | -28.8% | -58.8% |
+| Estefanía Banini | 89 | Liga F | 32k coins | -28% | -25.2% |
+| Alejandro Garnacho | 89 | Premier League | 379k coins | -23.8% | -7% |
+| Lionel Messi | 87 | MLS | 92k coins | -22.2% | -44.8% |
+| Diego Armando Maradona | 95 | Icons | 920k coins | -19.6% | -69.2% |
 
 
 ### Análise das baixas
@@ -90,7 +90,7 @@ Hoje (**27/07/2026**, PC) o Ultimate Team está em dia **indefinido** — sem te
 
 - **Lautaro Martínez (90)** caiu **-40.2%** em 24h, a **46k coins** (faixa do dia: 46k–76k). Está -62% abaixo da média de 7 dias (descontada).
 
-- **Lionel Messi (88)** caiu **-36.9%** em 24h, a **880k coins** (faixa do dia: 280k–950k). Está +132% acima da média de 7 dias (aquecida).
+- **Paulo Dybala (91)** caiu **-35.3%** em 24h, a **123k coins** (faixa do dia: 123k–310k). Está -54% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -115,7 +115,7 @@ Lionel Messi (88, MLS), com +40.5% em 24h, a 600k coins no PC.
 Lautaro Martínez (89), -41.4% em 24h, a 41k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está em dia indefinido — sem tendência dominante, com 18 cartas em alta contra 26 em queda (média 1.37%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 20 cartas em alta contra 23 em queda (média 3.66%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
