@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-27T22:48:11.000Z
+pubDatetime: 2026-07-28T01:48:09.000Z
 title: "Investimentos EA FC: Argentinos em 27/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 27/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (27/07/2026) no EA FC?"
-    a: "Gerónimo Rulli (87, Ligue 1 McDonald's) lidera, com +78.6% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mauro Icardi (87, Trendyol Süper Lig) lidera, com +34.8% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Gerónimo Rulli (87) acumula **+78.6% em 7 dias** a 50k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Mauro Icardi (87) acumula **+34.8% em 7 dias** a 60k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 27/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-27-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **27/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+10.2% em 24h** e **+19.6% em 7 dias**.
+- A mediana é de **+15.0% em 24h** e **+29.6% em 7 dias**.
 - **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Ligue 1 McDonald's** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 50k coins | +6.4% | +78.6% | Esticada |
-| Aldana Cometti | 85 | D1 Arkema | 62k coins | +10% | +22.2% | Momentum moderado |
-| Mariano Troilo | 86 | Serie A TIM | 52k coins | +16.4% | +17% | Momentum moderado |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 48k coins | +10.5% | +13.1% | Momentum moderado |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 60k coins | +33.3% | +34.8% | Esticada |
+| Lautaro Martínez | 89 | Serie A TIM | 78k coins | +4.7% | +33.6% | Momentum moderado |
+| Mariano Troilo | 86 | Serie A TIM | 50k coins | +14.4% | +25.6% | Momentum moderado |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 52k coins | +15.6% | +23.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Gerónimo Rulli (87)** — 50k coins, **+78.6% em 7 dias** (+6.4% em 24h). Preço +68% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mauro Icardi (87)** — 60k coins, **+34.8% em 7 dias** (+33.3% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aldana Cometti (85)** — 62k coins, **+22.2% em 7 dias** (+10% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lautaro Martínez (89)** — 78k coins, **+33.6% em 7 dias** (+4.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mariano Troilo (86)** — 52k coins, **+17% em 7 dias** (+16.4% em 24h). Preço +20% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariano Troilo (86)** — 50k coins, **+25.6% em 7 dias** (+14.4% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Gonzalez (87)** — 48k coins, **+13.1% em 7 dias** (+10.5% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Gonzalez (87)** — 52k coins, **+23.8% em 7 dias** (+15.6% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +75,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (27/07/2026) no EA FC?**  
-Gerónimo Rulli (87, Ligue 1 McDonald's) lidera, com +78.6% em 7 dias a 50k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mauro Icardi (87, Trendyol Süper Lig) lidera, com +34.8% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
