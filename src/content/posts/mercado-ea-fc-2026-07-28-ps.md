@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T10:25:12.000Z
+pubDatetime: 2026-07-28T10:48:08.000Z
 title: "Mercado EA FC em 28/07: Argentinos — Console (PS)"
 draft: false
 featured: true

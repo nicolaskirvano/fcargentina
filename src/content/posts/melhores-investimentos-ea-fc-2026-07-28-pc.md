@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-28T10:25:23.000Z
+pubDatetime: 2026-07-28T10:48:18.000Z
 title: "Investimentos EA FC: Argentinos em 28/07 — PC"
 draft: false
 featured: true
