@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T19:48:23.000Z
+pubDatetime: 2026-07-29T22:48:21.000Z
 title: "Jogadores baratos EA FC: Argentinos em 29/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 7.017 coins.
-- **Posição mais frequente:** CM, com 2 cartas.
-- **Faixa real:** 1.800 a 11.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 10.100 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 4.500 a 12.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,9 +43,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 1.800 coins | +50% |
-| Alexis Mac Allister | 87 | CM | Premier League | 2.500 coins | +58.3% |
-| Lionel Messi | 86 | RW | MLS | 4.300 coins | +16.2% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 12.500 coins | -13.7% |
+| Lionel Messi | 86 | RW | MLS | 4.500 coins | +18.9% |
 
 
 ## 📈 Destaques
@@ -56,9 +55,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Julián Alvarez (87, ST)** da LALIGA EA SPORTS, a apenas **1.800 coins** A alta de 24h pede uma nova checagem antes da compra.
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **12.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alexis Mac Allister (87, CM)** da Premier League, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Lionel Messi (86, RW)** da MLS, a apenas **4.500 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
