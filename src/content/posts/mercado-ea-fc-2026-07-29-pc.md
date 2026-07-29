@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T13:48:20.000Z
+pubDatetime: 2026-07-29T16:48:21.000Z
 title: "Mercado EA FC em 29/07: Argentinos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 29/07/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (29/07/2026)?"
-    a: "Juan Román Riquelme (88, Icons), com +55.2% em 24h, a 66k coins no PC."
+    a: "Valentín Barco (88, Ligue 1 McDonald's), com +14.9% em 24h, a 25k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Exequiel Zeballos (83), -47.9% em 24h, a 75k coins."
+    a: "Gerónimo Rulli (84), -12.5% em 24h, a 42k coins."
   - q: "O mercado do Ultimate Team subiu ou caiu hoje?"
-    a: "Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 15 cartas em alta contra 23 em queda (média 0.23%)."
+    a: "Hoje o mercado está de lado — altas e quedas se equilibram, com 9 cartas em alta contra 10 em queda (média -0.01%)."
   - q: "Os dados de preço do FutQuant são confiáveis?"
     a: "Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia."
 ---
 
 ## 📈 O mercado hoje, em resumo
 
-Panorama de **29/07/2026** (PC): clima **vendedor** — a maioria das cartas recuou. Entre as cartas relevantes (80+ e acima de 5k coins), foram **15 em alta** e **23 em queda**, média de **0.23%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **29/07/2026** (PC): mercado **de lado** — altas e quedas se equilibram. Entre as cartas relevantes (80+ e acima de 5k coins), foram **9 em alta** e **10 em queda**, média de **-0.01%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Juan Román Riquelme (88) **+55.2%** · 🔴 **Maior baixa:** Exequiel Zeballos (83) **-47.9%**
+> 🟢 **Maior alta:** Valentín Barco (88) **+14.9%** · 🔴 **Maior baixa:** Gerónimo Rulli (84) **-12.5%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 29/07: Argentinos — PC](/charts/mercado-ea-fc-2026-07-29-pc.svg)
 
@@ -35,24 +35,21 @@ Panorama de **29/07/2026** (PC): clima **vendedor** — a maioria das cartas rec
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 103.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 39.5% entre as cartas que se moveram; o universo observado reúne 60 cartas.
-- **Concentração:** MLS aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 27.4 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 47.4% entre as cartas que se moveram; o universo observado reúne 40 cartas.
+- **Concentração:** Ligue 1 McDonald's aparece em 3 dos 20 maiores movimentos listados.
 
 ## 🟢 Destaques de alta (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Román Riquelme | 88 | Icons | 66k coins | +55.2% | +50% |
-| Lionel Messi | 88 | MLS | 600k coins | +40.5% | +20% |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 52k coins | +31% | -11.8% |
-| Lautaro Martínez | 90 | Serie A TIM | 59k coins | +29% | -57.9% |
-| Pablo Aimar | 91 | LALIGA EA SPORTS | 82k coins | +18.3% | +12% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 96k coins | +15.8% | +9.8% |
-| Nicolás Otamendi | 86 | Liga Portugal | 98k coins | +15.3% | +22.1% |
-| Carlos Tévez | 88 | Premier League | 24k coins | +14.3% | -36% |
-| Diego Armando Maradona | 95 | Icons | 1.11M coins | +14.2% | -77.8% |
-| Marcos Senesi | 88 | Premier League | 31k coins | +13.8% | -47.9% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 25k coins | +14.9% | +37% |
+| Rafael Profini | 84 | A-League Men | 47k coins | +10.6% | +15.3% |
+| Lionel Messi | 87 | MLS | 110k coins | +10% | -41.2% |
+| Javier Zanetti | 89 | Icons | 82k coins | +7.9% | -14.7% |
+| Lautaro Martínez | 89 | Serie A TIM | 92k coins | +5.1% | +65.8% |
+| Gabriel Batistuta | 92 | Icons | 500k coins | +4% | +19.9% |
+| Matías Soulé | 86 | Serie A TIM | 26k coins | +3.9% | -24.3% |
 
 
 ### Análise das altas
@@ -61,43 +58,38 @@ Panorama de **29/07/2026** (PC): clima **vendedor** — a maioria das cartas rec
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Juan Román Riquelme (88)** subiu **+55.2%** em 24h, a **66k coins** (faixa do dia: 66k–202k). Está -42% abaixo da média de 7 dias (descontada).
+- **Valentín Barco (88)** subiu **+14.9%** em 24h, a **25k coins** (faixa do dia: 22k–25k). Está +20% acima da média de 7 dias (aquecida).
 
-- **Lionel Messi (88)** subiu **+40.5%** em 24h, a **600k coins** (faixa do dia: 427k–600k). Está +16% acima da média de 7 dias (aquecida).
+- **Rafael Profini (84)** subiu **+10.6%** em 24h, a **47k coins** (faixa do dia: 42k–47k). Está +10% acima da média de 7 dias (aquecida).
 
-- **Nico Gonzalez (87)** subiu **+31%** em 24h, a **52k coins** (faixa do dia: 43k–65k). Está +16% acima da média de 7 dias (aquecida).
+- **Lionel Messi (87)** subiu **+10%** em 24h, a **110k coins** (faixa do dia: 100k–115k). Está -13% abaixo da média de 7 dias (descontada).
 
 
 ## 🔴 Maiores baixas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Exequiel Zeballos | 83 | LPF | 75k coins | -47.9% | -35.3% |
-| Emiliano Buendía | 83 | Premier League | 47k coins | -37.2% | -34.2% |
-| Lionel Messi | 88 | MLS | 360k coins | -33.2% | -19.8% |
-| Javier Zanetti | 91 | Icons | 100k coins | -32.4% | -49% |
-| Lionel Messi | 89 | MLS | 290k coins | -22.7% | -14.1% |
-| Ignacio Russo | 84 | LPF | 50k coins | -19% | +1.2% |
-| Lionel Messi | 90 | MLS | 4.30M coins | -18.9% | -5.6% |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 57k coins | -12.3% | -6.9% |
-| Paulo Dybala | 91 | Serie A TIM | 275k coins | -11.3% | -8.3% |
-| Julián Alvarez | 89 | LALIGA EA SPORTS | 359k coins | -10.5% | +10.5% |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 42k coins | -12.5% | -0.6% |
+| Mariano Troilo | 86 | Serie A TIM | 45k coins | -11.1% | +1.2% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 40k coins | -11% | -9.5% |
+| Lionel Messi | 88 | MLS | 500k coins | -7.4% | -16.7% |
+| Julián Alvarez | 89 | LALIGA EA SPORTS | 333k coins | -7.2% | -6.5% |
 
 
 ### Análise das baixas
 
-- **Exequiel Zeballos (83)** caiu **-47.9%** em 24h, a **75k coins** (faixa do dia: 75k–144k). Está -45% abaixo da média de 7 dias (descontada).
+- **Gerónimo Rulli (84)** caiu **-12.5%** em 24h, a **42k coins** (faixa do dia: 42k–48k). Está -9% abaixo da média de 7 dias (descontada).
 
-- **Emiliano Buendía (83)** caiu **-37.2%** em 24h, a **47k coins** (faixa do dia: 47k–74k). Está -15% abaixo da média de 7 dias (descontada).
+- **Mariano Troilo (86)** caiu **-11.1%** em 24h, a **45k coins** (faixa do dia: 42k–48k). Está em linha com a média de 7 dias (+4%).
 
-- **Lionel Messi (88)** caiu **-33.2%** em 24h, a **360k coins** (faixa do dia: 260k–950k). Está em linha com a média de 7 dias (-6%).
+- **Santiago Hidalgo (84)** caiu **-11%** em 24h, a **40k coins** (faixa do dia: 40k–46k). Está em linha com a média de 7 dias (-5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Juan Román Riquelme já avançou 55.2% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Valentín Barco já avançou 14.9% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Exequiel Zeballos recuou -47.9%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Gerónimo Rulli recuou -12.5%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -109,13 +101,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (29/07/2026)?**
-Juan Román Riquelme (88, Icons), com +55.2% em 24h, a 66k coins no PC.
+Valentín Barco (88, Ligue 1 McDonald's), com +14.9% em 24h, a 25k coins no PC.
 
 **E a maior queda do dia?**
-Exequiel Zeballos (83), -47.9% em 24h, a 75k coins.
+Gerónimo Rulli (84), -12.5% em 24h, a 42k coins.
 
 **O mercado do Ultimate Team subiu ou caiu hoje?**
-Hoje o mercado está em clima vendedor — a maioria das cartas recuou, com 15 cartas em alta contra 23 em queda (média 0.23%).
+Hoje o mercado está de lado — altas e quedas se equilibram, com 9 cartas em alta contra 10 em queda (média -0.01%).
 
 **Os dados de preço do FutQuant são confiáveis?**
 Trabalhamos com preços reais de várias fontes, atualizados ao longo do dia e limpos de anomalias. As projeções são probabilísticas — apoio à decisão, não garantia.
