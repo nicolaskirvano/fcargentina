@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:48:12.000Z
+pubDatetime: 2026-07-30T22:48:11.000Z
 title: "Jogadores baratos EA FC: Argentinos em 30/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 12.000 coins.
-- **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 11.000 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 9.864 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 2.600 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,8 +43,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 13.500 coins | +22.4% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.000 coins | +3.6% |
+| Diego Milito | 88 | ST | Serie A TIM | 14.000 coins | +27.7% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14.250 coins | +9.1% |
+| Paulo Dybala | 86 | CAM | Serie A Enilive | 2.600 coins | +4% |
+| Lionel Messi | 86 | RW | MLS | 4.700 coins | +36.1% |
 
 
 ## 📈 Destaques
@@ -55,9 +57,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **14.000 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13.000 coins**
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **14.250 coins**
 
 
 ## Como distribuir a banca

@@ -7,19 +7,19 @@
 <text x="28" y="117" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Armando Maradona</text>
 <rect x="285" y="95" width="480" height="28" rx="7" fill="#22c55e"/>
 <text x="775" y="116" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+60.0%</text>
-<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lionel Messi</text>
-<rect x="285" y="153" width="416" height="28" rx="7" fill="#22c55e"/>
-<text x="711" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+52.0%</text>
-<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lionel Messi</text>
-<rect x="285" y="211" width="311" height="28" rx="7" fill="#22c55e"/>
-<text x="606" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+38.9%</text>
-<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Diego Armando Maradona</text>
-<rect x="285" y="269" width="240" height="28" rx="7" fill="#22c55e"/>
-<text x="535" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+30.0%</text>
-<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Cristian Romero</text>
-<rect x="285" y="327" width="230" height="28" rx="7" fill="#22c55e"/>
-<text x="525" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+28.8%</text>
-<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nahuel Molina</text>
-<rect x="285" y="385" width="200" height="28" rx="7" fill="#22c55e"/>
-<text x="495" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+25.0%</text>
+<text x="28" y="175" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Nahuel Molina</text>
+<rect x="285" y="153" width="353" height="28" rx="7" fill="#22c55e"/>
+<text x="648" y="174" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+44.1%</text>
+<text x="28" y="233" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Javier Mascherano</text>
+<rect x="285" y="211" width="343" height="28" rx="7" fill="#22c55e"/>
+<text x="638" y="232" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+42.9%</text>
+<text x="28" y="291" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Lionel Messi</text>
+<rect x="285" y="269" width="287" height="28" rx="7" fill="#22c55e"/>
+<text x="582" y="290" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+35.9%</text>
+<text x="28" y="349" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Mauro Icardi</text>
+<rect x="285" y="327" width="167" height="28" rx="7" fill="#22c55e"/>
+<text x="462" y="348" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+20.9%</text>
+<text x="28" y="407" fill="#e2e8f0" font-family="system-ui,sans-serif" font-size="16">Emiliano Martínez</text>
+<rect x="285" y="385" width="134" height="28" rx="7" fill="#22c55e"/>
+<text x="429" y="406" fill="#f8fafc" font-family="system-ui,sans-serif" font-size="15" font-weight="700">+16.7%</text>
 </svg>
