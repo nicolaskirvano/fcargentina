@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-29T22:48:20.000Z
+pubDatetime: 2026-07-30T01:48:23.000Z
 title: "Investimentos EA FC: Argentinos em 29/07 — PC"
 draft: false
 featured: true
@@ -33,9 +33,9 @@ Esta lista de **29/07/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+14.9% em 24h** e **+20.5% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+21.1% em 24h** e **+22.9% em 7 dias**.
+- **5 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -44,23 +44,26 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lautaro Martínez | 89 | Serie A TIM | 92k coins | +5.1% | +65.8% | Esticada |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 25k coins | +14.9% | +38.9% | Momentum moderado |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 28k coins | +36.8% | +65.3% | Esticada |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 60k coins | +25% | +50.9% | Esticada |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +8.8% | +25.3% | Momentum moderado |
 | Rafael Profini | 84 | A-League Men | 47k coins | +10.6% | +20.5% | Momentum moderado |
 | Nico Paz | 86 | Serie A TIM | 48k coins | +17.3% | +18.8% | Momentum moderado |
+| Pablo Aimar | 88 | LALIGA EA SPORTS | 30k coins | +26.3% | +9.6% | Esticada |
 | Julián Alvarez | 88 | LALIGA EA SPORTS | 129k coins | +35.1% | +7.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Lautaro Martínez (89)** — 92k coins, **+65.8% em 7 dias** (+5.1% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lautaro Martínez (89)** — 92k coins, **+65.8% em 7 dias** (+5.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Valentín Barco (88)** — 25k coins, **+38.9% em 7 dias** (+14.9% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Valentín Barco (88)** — 28k coins, **+65.3% em 7 dias** (+36.8% em 24h). Preço +30% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rafael Profini (84)** — 47k coins, **+20.5% em 7 dias** (+10.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerónimo Rulli (84)** — 60k coins, **+50.9% em 7 dias** (+25% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Paz (86)** — 48k coins, **+18.8% em 7 dias** (+17.3% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santiago Hidalgo (84)** — 50k coins, **+25.3% em 7 dias** (+8.8% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Julián Alvarez (88)** — 129k coins, **+7.5% em 7 dias** (+35.1% em 24h). Preço +32% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Rafael Profini (84)** — 47k coins, **+20.5% em 7 dias** (+10.6% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
