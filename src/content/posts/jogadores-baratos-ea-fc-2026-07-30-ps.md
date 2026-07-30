@@ -1,38 +1,38 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T19:48:21.000Z
-title: "Jogadores baratos EA FC: Argentinos em 30/07 — PC"
+pubDatetime: 2026-07-30T19:48:12.000Z
+title: "Jogadores baratos EA FC: Argentinos em 30/07 — Console (PS)"
 draft: false
 featured: false
 tags:
   - baratos
   - custo-beneficio
   - budget
-  - pc
-description: "Cartas 83+ abaixo de 15 mil coins em 30/07/2026 no PC, com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
+  - ps
+description: "Cartas 83+ abaixo de 15 mil coins em 30/07/2026 no Console (PS), com posição, preço e variação. Compare opções de defesa, meio e ataque antes de montar o elenco."
 faq:
   - q: "Qual o melhor jogador barato do EA FC hoje (30/07/2026)?"
-    a: "Nico Paz (90, Serie A TIM) aparece como melhor custo-benefício, a 11.250 coins no PC."
+    a: "Nico Paz (90, Serie A TIM) aparece como melhor custo-benefício, a 11.250 coins no Console (PS)."
   - q: "Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?"
     a: "Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias."
   - q: "Esses preços são reais?"
     a: "Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados contra anomalias."
 ---
 
-Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **30/07/2026** no **PC** — puro custo-benefício, sem anomalias de preço.
+Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **FutQuant** filtrou as **cartas 83+ que custam menos de 15 mil coins** em **30/07/2026** no **Console (PS)** — puro custo-benefício, sem anomalias de preço.
 
 > 💰 **Melhor pechincha:** Nico Paz (90) por apenas 11.250 coins.
 
-![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Argentinos em 30/07 — PC](/charts/jogadores-baratos-ea-fc-2026-07-30-pc.svg)
+![Gráfico de preço em coins para os destaques de Jogadores baratos EA FC: Argentinos em 30/07 — Console (PS)](/charts/jogadores-baratos-ea-fc-2026-07-30-ps.svg)
 
 *Visualização gerada com os mesmos valores da tabela deste artigo.*
 
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 9.350 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 2.900 a 13.750 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 12.000 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 11.000 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,11 +42,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Marcos Acuña | 89 | LB | LPF | 13.750 coins | -12.8% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11.000 coins | -2.2% |
-| Paulo Dybala | 86 | CAM | Serie A Enilive | 2.900 coins | +16% |
-| Lionel Messi | 86 | RW | MLS | 4.300 coins | +2.3% |
+| Diego Milito | 88 | ST | Serie A TIM | 13.500 coins | +22.4% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.000 coins | +3.6% |
 
 
 ## 📈 Destaques
@@ -55,16 +53,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Marcos Acuña (89, LB)** da LPF, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
-
 - **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **13.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+
+- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **13.000 coins**
 
 
 ## Como distribuir a banca
-
-- **Defesa:** Marcos Acuña (89, LB) por 13.750 coins é a referência de rating deste recorte.
 
 - **Meio:** Nico Paz (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
@@ -85,8 +81,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Argentinos em 30/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-30-pc/)
-- [Mercado EA FC em 30/07: Argentinos — PC](/posts/mercado-ea-fc-2026-07-30-pc/)
+- [Investimentos EA FC: Argentinos em 30/07 — Console (PS)](/posts/melhores-investimentos-ea-fc-2026-07-30-ps/)
+- [Mercado EA FC em 30/07: Argentinos — Console (PS)](/posts/mercado-ea-fc-2026-07-30-ps/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
 
@@ -97,7 +93,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual o melhor jogador barato do EA FC hoje (30/07/2026)?**  
-Nico Paz (90, Serie A TIM) aparece como melhor custo-benefício, a 11.250 coins no PC.
+Nico Paz (90, Serie A TIM) aparece como melhor custo-benefício, a 11.250 coins no Console (PS).
 
 **Quais os melhores jogadores baratos para começar no EA FC Ultimate Team?**  
 Cartas com rating 83+ que custam menos de 15 mil coins entregam o melhor custo-benefício para montar um time competitivo gastando pouco. A lista é atualizada todos os dias.
@@ -110,4 +106,4 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 
 ---
 
-*Preços de PC, referência de 30/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
+*Preços de Console (PS), referência de 30/07/2026. Variações de mercado mudam a qualquer momento — invista com responsabilidade.*
