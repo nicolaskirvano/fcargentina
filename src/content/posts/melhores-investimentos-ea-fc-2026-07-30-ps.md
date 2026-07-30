@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:24:28.000Z
+pubDatetime: 2026-07-30T10:48:11.000Z
 title: "Investimentos EA FC: Argentinos em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Mauro Icardi (87, Trendyol Süper Lig) lidera, com +41.8% em 7 dias a 69k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Mauro Icardi (87, Trendyol Süper Lig) lidera, com +41.8% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Mauro Icardi (87) acumula **+41.8% em 7 dias** a 69k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Mauro Icardi (87) acumula **+41.8% em 7 dias** a 60k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+13.8% em 24h** e **+26.8% em 7 dias**.
-- **2 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+5.5% em 24h** e **+27.3% em 7 dias**.
+- **1 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Serie A TIM** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 69k coins | +15.8% | +41.8% | Momentum moderado |
-| Nico Paz | 86 | Serie A TIM | 45k coins | +11.2% | +35.1% | Momentum moderado |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 49k coins | +4.1% | +29.1% | Momentum moderado |
-| Pablo Aimar | 87 | LALIGA EA SPORTS | 16.500 coins | +32% | +24.5% | Esticada |
-| Rafael Profini | 84 | A-League Men | 42k coins | +11.8% | +23.4% | Momentum moderado |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 64k coins | +23.1% | +15.3% | Esticada |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 60k coins | +15.8% | +41.8% | Momentum moderado |
+| Mariano Troilo | 86 | Serie A TIM | 50k coins | +5.5% | +28.8% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 45k coins | +4.8% | +27.3% | Momentum moderado |
+| Matías Soulé | 84 | Serie A TIM | 49k coins | +1.6% | +22.5% | Entrada a observar |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 55k coins | +23.1% | +15.3% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Mauro Icardi (87)** — 69k coins, **+41.8% em 7 dias** (+15.8% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mauro Icardi (87)** — 60k coins, **+41.8% em 7 dias** (+15.8% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Paz (86)** — 45k coins, **+35.1% em 7 dias** (+11.2% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariano Troilo (86)** — 50k coins, **+28.8% em 7 dias** (+5.5% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Gonzalez (87)** — 49k coins, **+29.1% em 7 dias** (+4.1% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Paz (86)** — 45k coins, **+27.3% em 7 dias** (+4.8% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pablo Aimar (87)** — 16.500 coins, **+24.5% em 7 dias** (+32% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (84)** — 49k coins, **+22.5% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Rafael Profini (84)** — 42k coins, **+23.4% em 7 dias** (+11.8% em 24h). Preço em linha com a média de 7 dias (-2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerónimo Rulli (84)** — 55k coins, **+15.3% em 7 dias** (+23.1% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -89,7 +88,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Mauro Icardi (87, Trendyol Süper Lig) lidera, com +41.8% em 7 dias a 69k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Mauro Icardi (87, Trendyol Süper Lig) lidera, com +41.8% em 7 dias a 60k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

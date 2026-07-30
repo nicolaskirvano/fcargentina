@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T10:24:37.000Z
+pubDatetime: 2026-07-30T10:48:19.000Z
 title: "Mercado EA FC em 30/07: Argentinos — PC"
 draft: false
 featured: true
@@ -17,14 +17,14 @@ faq:
   - q: "E a maior queda do dia?"
     a: "Lionel Messi (89), -48% em 24h, a 182k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 19 cartas em alta contra 25 em queda (média 2.15%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 20 cartas em alta contra 22 em queda (média 2.43%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **19 cartas subiram** e **25 caíram** (80+ acima de 5k coins), variação média de **2.15%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **20 cartas subiram** e **22 caíram** (80+ acima de 5k coins), variação média de **2.43%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Matías Soulé (86) **+56.9%** · 🔴 **Maior baixa:** Lionel Messi (89) **-48%**
 
@@ -36,8 +36,8 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 104.9 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 43.2% entre as cartas que se moveram; o universo observado reúne 66 cartas.
-- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
+- **Participação das altas:** 47.6% entre as cartas que se moveram; o universo observado reúne 64 cartas.
+- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
@@ -45,14 +45,14 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 | --- | --- | --- | --- | --- | --- |
 | Matías Soulé | 86 | Serie A TIM | 40k coins | +56.9% | +107.8% |
 | Carlos Tévez | 88 | Premier League | 37k coins | +55.2% | +11.2% |
-| Martín Ojeda | 83 | MLS | 50k coins | +44.2% | +109.5% |
+| Martín Ojeda | 83 | MLS | 50k coins | +44.2% | +111.7% |
+| Marcos Senesi | 88 | Premier League | 48k coins | +38.7% | -27.1% |
 | Diego Armando Maradona | 96 | Icons | 2.45M coins | +29.7% | -58.1% |
 | Javier Zanetti | 91 | Icons | 126k coins | +26% | -30% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 119k coins | +24.6% | -4.8% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 119k coins | +24.6% | -7.8% |
 | Nico Paz | 86 | Serie A TIM | 48k coins | +17.3% | +18.8% |
-| Lautaro Martínez | 89 | Serie A TIM | 100k coins | +14.3% | +80.2% |
-| Esteban Cambiasso | 86 | Serie A TIM | 22k coins | +13.3% | -1.1% |
-| Lionel Messi | 88 | MLS | 330k coins | +11.1% | +35.6% |
+| Lautaro Martínez | 89 | Serie A TIM | 100k coins | +14.3% | +26.6% |
+| Lionel Messi | 88 | MLS | 600k coins | +11.1% | 0% |
 
 
 ### Análise das altas
@@ -65,7 +65,7 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 
 - **Carlos Tévez (88)** subiu **+55.2%** em 24h, a **37k coins** (faixa do dia: 24k–37k). Está +47% acima da média de 7 dias (aquecida).
 
-- **Martín Ojeda (83)** subiu **+44.2%** em 24h, a **50k coins** (faixa do dia: 34k–50k). Está +80% acima da média de 7 dias (aquecida).
+- **Martín Ojeda (83)** subiu **+44.2%** em 24h, a **50k coins** (faixa do dia: 34k–50k). Está +79% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
@@ -73,24 +73,24 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Lionel Messi | 89 | MLS | 182k coins | -48% | -53.3% |
+| Pablo Aimar | 91 | LALIGA EA SPORTS | 40k coins | -45.7% | -10.1% |
 | Hernán Crespo | 88 | Icons | 20k coins | -38.8% | -47.9% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 92k coins | -33% | -33.3% |
-| Nicolás Otamendi | 86 | Liga Portugal | 64k coins | -27.6% | -26.4% |
+| Nicolás Otamendi | 86 | Liga Portugal | 64k coins | -34.2% | -33.2% |
 | Enzo Fernández | 91 | Premier League | 78k coins | -25.9% | -29.8% |
+| Cristian Romero | 86 | Premier League | 70k coins | -22.1% | -19.6% |
 | Gerónimo Rulli | 87 | Ligue 1 McDonald's | 28k coins | -21.1% | +40% |
-| Cristian Romero | 86 | Premier League | 74k coins | -20% | -17.4% |
-| Juan Foyth | 85 | LALIGA EA SPORTS | 23k coins | -16.7% | -16.7% |
 | Matías Soulé | 84 | Serie A TIM | 46k coins | -9% | +23% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 20k coins | -8% | +8.1% |
+| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 32k coins | -8.8% | -44.2% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 20k coins | -8% | +6.7% |
 
 
 ### Análise das baixas
 
-- **Lionel Messi (89)** caiu **-48%** em 24h, a **182k coins** (faixa do dia: 94k–290k). Está -36% abaixo da média de 7 dias (descontada).
+- **Lionel Messi (89)** caiu **-48%** em 24h, a **182k coins** (faixa do dia: 94k–290k). Está -35% abaixo da média de 7 dias (descontada).
+
+- **Pablo Aimar (91)** caiu **-45.7%** em 24h, a **40k coins** (faixa do dia: 40k–82k). Está -38% abaixo da média de 7 dias (descontada).
 
 - **Hernán Crespo (88)** caiu **-38.8%** em 24h, a **20k coins** (faixa do dia: 13.500–60k). Está -21% abaixo da média de 7 dias (descontada).
-
-- **Nahuel Molina (87)** caiu **-33%** em 24h, a **92k coins** (faixa do dia: 64k–96k). Está em linha com a média de 7 dias (+1%).
 
 
 ## Decisão prática para hoje
@@ -124,7 +124,7 @@ Matías Soulé (86, Serie A TIM), com +56.9% em 24h, a 40k coins no PC.
 Lionel Messi (89), -48% em 24h, a 182k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 19 cartas em alta contra 25 em queda (média 2.15%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 20 cartas em alta contra 22 em queda (média 2.43%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
