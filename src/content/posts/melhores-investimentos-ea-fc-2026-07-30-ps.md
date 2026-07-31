@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:48:09.000Z
+pubDatetime: 2026-07-31T01:48:11.000Z
 title: "Investimentos EA FC: Argentinos em 30/07 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 30/07/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (30/07/2026) no EA FC?"
-    a: "Santiago Hidalgo (84, Ligue 1 McDonald's) lidera, com +42.7% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Santiago Hidalgo (84, Ligue 1 McDonald's) lidera, com +42.7% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Santiago Hidalgo (84) acumula **+42.7% em 7 dias** a 45k coins; leitura atual: **momentum moderado**.
+> 🔝 **Destaque:** Santiago Hidalgo (84) acumula **+42.7% em 7 dias** a 54k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 30/07 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-07-30-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **30/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.5% em 24h** e **+18.1% em 7 dias**.
-- **1 de 11 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **Serie A TIM** concentra 6 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.6% em 24h** e **+14.9% em 7 dias**.
+- **0 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Ligue 1 McDonald's** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,30 +43,27 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 45k coins | +13.8% | +42.7% | Momentum moderado |
-| Nico Paz | 86 | Serie A TIM | 52k coins | +5.6% | +33.8% | Momentum moderado |
-| Aldana Cometti | 85 | D1 Arkema | 70k coins | +14.1% | +25.9% | Momentum moderado |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 45k coins | +8.3% | +21.9% | Momentum moderado |
-| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 65k coins | +9.2% | +18.2% | Momentum moderado |
-| Mariano Troilo | 86 | Serie A TIM | 50k coins | +4.3% | +18.1% | Entrada a observar |
-| Matías Soulé | 86 | Serie A TIM | 31k coins | +24.5% | +17.1% | Esticada |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 54k coins | +19.6% | +42.7% | Momentum moderado |
+| Mariano Troilo | 86 | Serie A TIM | 55k coins | +10.6% | +31% | Momentum moderado |
+| Gerónimo Rulli | 84 | Ligue 1 McDonald's | 64k coins | +8.4% | +24% | Momentum moderado |
 | Matías Soulé | 84 | Serie A TIM | 47k coins | +1.6% | +15.2% | Entrada a observar |
-| Lionel Messi | 88 | MLS | 209k coins | +12.5% | +11.1% | Momentum moderado |
-| Esteban Cambiasso | 86 | Serie A TIM | 15.750 coins | +16.7% | +8.6% | Momentum moderado |
-| Paulo Dybala | 91 | Serie A TIM | 215k coins | +17.4% | +6.5% | Momentum moderado |
+| Lionel Messi | 87 | MLS | 125k coins | +17.8% | +14.6% | Momentum moderado |
+| Rafael Profini | 84 | A-League Men | 48k coins | +11.8% | +14.5% | Momentum moderado |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 55k coins | +10.6% | +12.2% | Momentum moderado |
+| Juan Román Riquelme | 88 | Icons | 74k coins | +3.4% | +8.5% | Entrada a observar |
 
 
 ## 📈 Análise dos destaques
 
-- **Santiago Hidalgo (84)** — 45k coins, **+42.7% em 7 dias** (+13.8% em 24h). Preço -13% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santiago Hidalgo (84)** — 54k coins, **+42.7% em 7 dias** (+19.6% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Paz (86)** — 52k coins, **+33.8% em 7 dias** (+5.6% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariano Troilo (86)** — 55k coins, **+31% em 7 dias** (+10.6% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aldana Cometti (85)** — 70k coins, **+25.9% em 7 dias** (+14.1% em 24h). Preço +23% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerónimo Rulli (84)** — 64k coins, **+24% em 7 dias** (+8.4% em 24h). Preço +14% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Gonzalez (87)** — 45k coins, **+21.9% em 7 dias** (+8.3% em 24h). Preço em linha com a média de 7 dias (-1%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Matías Soulé (84)** — 47k coins, **+15.2% em 7 dias** (+1.6% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerónimo Rulli (84)** — 65k coins, **+18.2% em 7 dias** (+9.2% em 24h). Preço +16% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lionel Messi (87)** — 125k coins, **+14.6% em 7 dias** (+17.8% em 24h). Preço +54% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -94,7 +91,7 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (30/07/2026) no EA FC?**  
-Santiago Hidalgo (84, Ligue 1 McDonald's) lidera, com +42.7% em 7 dias a 45k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Santiago Hidalgo (84, Ligue 1 McDonald's) lidera, com +42.7% em 7 dias a 54k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.

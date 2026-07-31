@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:48:20.000Z
+pubDatetime: 2026-07-31T01:48:21.000Z
 title: "Jogadores baratos EA FC: Argentinos em 30/07 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 6 opções:** 8.567 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 2.500 a 11.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 5 opções:** 8.040 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 2.800 a 11.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,9 +43,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11.000 coins | -12% |
-| Paulo Dybala | 86 | CAM | Serie A Enilive | 2.500 coins | -10.7% |
-| Lionel Messi | 86 | RW | MLS | 4.400 coins | +4.7% |
+| Paulo Dybala | 86 | CAM | Serie A Enilive | 2.800 coins | +3.6% |
+| Lionel Messi | 86 | RW | MLS | 3.900 coins | 0% |
 
 
 ## 📈 Destaques
@@ -56,9 +55,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Pablo Aimar (87, CAM)** da LALIGA EA SPORTS, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Paulo Dybala (86, CAM)** da Serie A Enilive, a apenas **2.800 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Paulo Dybala (86, CAM)** da Serie A Enilive, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Lionel Messi (86, RW)** da MLS, a apenas **3.900 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
@@ -82,6 +81,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 <!-- content-links:v1 -->
 ## Continue a análise
 
+- [Investimentos EA FC: Argentinos em 30/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-30-pc/)
 - [Mercado EA FC em 30/07: Argentinos — PC](/posts/mercado-ea-fc-2026-07-30-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)

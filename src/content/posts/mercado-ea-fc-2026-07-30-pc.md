@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-30T22:48:17.000Z
+pubDatetime: 2026-07-31T01:48:19.000Z
 title: "Mercado EA FC em 30/07: Argentinos — PC"
 draft: false
 featured: true
@@ -15,18 +15,18 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (30/07/2026)?"
     a: "Diego Armando Maradona (96, Icons), com +60% em 24h, a 2.40M coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Juan Román Riquelme (88), -49.3% em 24h, a 72k coins."
+    a: "Nicolás Otamendi (86), -48.8% em 24h, a 42k coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 22 cartas em alta contra 23 em queda (média 2.02%)."
+    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 14 cartas em alta contra 26 em queda (média -1.13%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as altas dominam o dia: **22 cartas subiram** e **23 caíram** (80+ acima de 5k coins), variação média de **2.02%** em 24 horas. Mercado comprador — evite pagar topo em cartas já esticadas.
+O mercado do **EA FC** abre **30/07/2026** no PC com mercado **pressionado** — as quedas dominam o dia: **14 cartas subiram** e **26 caíram** (80+ acima de 5k coins), variação média de **-1.13%** em 24 horas. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Diego Armando Maradona (96) **+60%** · 🔴 **Maior baixa:** Juan Román Riquelme (88) **-49.3%**
+> 🟢 **Maior alta:** Diego Armando Maradona (96) **+60%** · 🔴 **Maior baixa:** Nicolás Otamendi (86) **-48.8%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 30/07: Argentinos — PC](/charts/mercado-ea-fc-2026-07-30-pc.svg)
 
@@ -35,24 +35,24 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 109.3 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 48.9% entre as cartas que se moveram; o universo observado reúne 65 cartas.
-- **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 108.8 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 35.0% entre as cartas que se moveram; o universo observado reúne 63 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
 | Diego Armando Maradona | 96 | Icons | 2.40M coins | +60% | +4.3% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 98k coins | +44.1% | -6.7% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 100k coins | +42.9% | +31.6% |
-| Lionel Messi | 89 | MLS | 170k coins | +35.9% | -54.4% |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +20.9% | -0.7% |
-| Emiliano Martínez | 88 | Premier League | 35k coins | +16.7% | -4.8% |
-| Diego Armando Maradona | 95 | Icons | 1.13M coins | +16.5% | -43.5% |
-| Mariano Troilo | 86 | Serie A TIM | 46k coins | +12.4% | +11.1% |
-| Cristian Romero | 86 | Premier League | 90k coins | +11.1% | -0.6% |
-| Nico Paz | 82 | Serie A TIM | 30k coins | +9.1% | 0% |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 97k coins | +51.6% | -7.6% |
+| Esteban Cambiasso | 86 | Serie A TIM | 28k coins | +44.6% | +21.2% |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 65k coins | +32% | +54.8% |
+| Lionel Messi | 87 | MLS | 98k coins | +30% | -13.3% |
+| Diego Armando Maradona | 95 | Icons | 1.13M coins | +25.6% | -43.5% |
+| Estefanía Banini | 89 | Liga F | 20k coins | +22.4% | -20.4% |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +21.7% | 0% |
+| Gabriel Batistuta | 89 | Icons | 78k coins | +11.8% | +15% |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 60k coins | +9.1% | +33.3% |
 
 
 ### Análise das altas
@@ -63,41 +63,41 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 
 - **Diego Armando Maradona (96)** subiu **+60%** em 24h, a **2.40M coins** (faixa do dia: 1.49M–2.40M). Está +19% acima da média de 7 dias (aquecida).
 
-- **Nahuel Molina (87)** subiu **+44.1%** em 24h, a **98k coins** (faixa do dia: 64k–98k). Está +8% acima da média de 7 dias (aquecida).
+- **Nahuel Molina (87)** subiu **+51.6%** em 24h, a **97k coins** (faixa do dia: 64k–98k). Está em linha com a média de 7 dias (+8%).
 
-- **Javier Mascherano (90)** subiu **+42.9%** em 24h, a **100k coins** (faixa do dia: 45k–100k). Está +40% acima da média de 7 dias (aquecida).
+- **Esteban Cambiasso (86)** subiu **+44.6%** em 24h, a **28k coins** (faixa do dia: 21k–30k). Está +56% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Juan Román Riquelme | 88 | Icons | 72k coins | -49.3% | -53.8% |
-| Javier Mascherano | 88 | LALIGA EA SPORTS | 29k coins | -48.2% | -43.6% |
-| Javier Zanetti | 91 | Icons | 126k coins | -37.6% | -33.7% |
-| Giovani Lo Celso | 91 | LALIGA EA SPORTS | 39k coins | -28.9% | -65% |
+| Nicolás Otamendi | 86 | Liga Portugal | 42k coins | -48.8% | -43.4% |
+| Enzo Fernández | 91 | Premier League | 48k coins | -48.4% | -58.9% |
+| Juan Román Riquelme | 88 | Icons | 67k coins | -47.3% | -56.2% |
+| Pablo Aimar | 91 | LALIGA EA SPORTS | 28k coins | -38.3% | -43.9% |
+| Javier Zanetti | 91 | Icons | 126k coins | -37.6% | -31.9% |
+| Lionel Messi | 88 | MLS | 300k coins | -25% | +5.3% |
 | Julián Alvarez | 88 | LALIGA EA SPORTS | 98k coins | -24% | -22.2% |
-| Lionel Messi | 88 | MLS | 459k coins | -23.3% | -5.3% |
-| Pablo Aimar | 88 | LALIGA EA SPORTS | 22k coins | -22.5% | -21.9% |
-| Lionel Messi | 88 | MLS | 340k coins | -20.8% | +9.3% |
-| Paulo Dybala | 91 | Serie A TIM | 221k coins | -19.8% | -30% |
 | Diego Armando Maradona | 96 | Icons | 2M coins | -18.4% | -70.1% |
+| Paulo Dybala | 91 | Serie A TIM | 221k coins | -15.6% | -27.1% |
+| Alejandro Garnacho | 89 | Premier League | 376k coins | -10.3% | -13.2% |
 
 
 ### Análise das baixas
 
-- **Juan Román Riquelme (88)** caiu **-49.3%** em 24h, a **72k coins** (faixa do dia: 66k–132k). Está -37% abaixo da média de 7 dias (descontada).
+- **Nicolás Otamendi (86)** caiu **-48.8%** em 24h, a **42k coins** (faixa do dia: 38k–78k). Está -48% abaixo da média de 7 dias (descontada).
 
-- **Javier Mascherano (88)** caiu **-48.2%** em 24h, a **29k coins** (faixa do dia: 11.000–30k). Está +59% acima da média de 7 dias (aquecida).
+- **Enzo Fernández (91)** caiu **-48.4%** em 24h, a **48k coins** (faixa do dia: 46k–94k). Está -39% abaixo da média de 7 dias (descontada).
 
-- **Javier Zanetti (91)** caiu **-37.6%** em 24h, a **126k coins** (faixa do dia: 126k–240k). Está -16% abaixo da média de 7 dias (descontada).
+- **Juan Román Riquelme (88)** caiu **-47.3%** em 24h, a **67k coins** (faixa do dia: 66k–119k). Está -40% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
 
 - **Evite perseguir topo:** Diego Armando Maradona já avançou 60% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Juan Román Riquelme recuou -49.3%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Nicolás Otamendi recuou -48.8%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -108,6 +108,7 @@ O mercado do **EA FC** abre **30/07/2026** no PC com mercado **aquecido** — as
 ## Continue a análise
 
 - [Jogadores baratos EA FC: Argentinos em 30/07 — PC](/posts/jogadores-baratos-ea-fc-2026-07-30-pc/)
+- [Investimentos EA FC: Argentinos em 30/07 — PC](/posts/melhores-investimentos-ea-fc-2026-07-30-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
 
@@ -121,10 +122,10 @@ Coletamos preços do EA FC de várias fontes, várias vezes ao dia — base de *
 Diego Armando Maradona (96, Icons), com +60% em 24h, a 2.40M coins no PC.
 
 **E a maior queda do dia?**
-Juan Román Riquelme (88), -49.3% em 24h, a 72k coins.
+Nicolás Otamendi (86), -48.8% em 24h, a 42k coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está aquecido — as altas dominam o dia, com 22 cartas em alta contra 23 em queda (média 2.02%).
+Hoje o mercado está pressionado — as quedas dominam o dia, com 14 cartas em alta contra 26 em queda (média -1.13%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.
