@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:25:14.000Z
+pubDatetime: 2026-07-31T10:48:10.000Z
 title: "Investimentos EA FC: Argentinos em 31/07 — Console (PS)"
 draft: false
 featured: true
@@ -33,7 +33,7 @@ Esta lista de **31/07/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+12.3% em 24h** e **+25.0% em 7 dias**.
+- A mediana é de **+12.6% em 24h** e **+23.5% em 7 dias**.
 - **4 de 12 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **Serie A TIM** concentra 4 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
@@ -46,15 +46,15 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Nicolás Otamendi | 86 | Liga Portugal | 60k coins | +22% | +59.5% | Esticada |
 | Matías Vargas | 84 | Brasileirão | 60k coins | +17.6% | +50% | Momentum moderado |
 | Juan Foyth | 85 | LALIGA EA SPORTS | 38k coins | +28.3% | +45.3% | Esticada |
-| Ignacio Russo | 84 | LPF | 55k coins | +5.8% | +35% | Momentum moderado |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 65k coins | +21.1% | +29.8% | Esticada |
+| Ignacio Russo | 84 | LPF | 51k coins | +5.8% | +35% | Momentum moderado |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 54k coins | +21.1% | +29.8% | Esticada |
 | Gerónimo Rulli | 84 | Ligue 1 McDonald's | 65k coins | +28.7% | +25% | Esticada |
-| Mariano Troilo | 86 | Serie A TIM | 50k coins | +5.5% | +25% | Momentum moderado |
 | Matías Soulé | 84 | Serie A TIM | 50k coins | +11.1% | +22% | Momentum moderado |
-| Nico Paz | 86 | Serie A TIM | 47k coins | +10.6% | +17.8% | Momentum moderado |
-| Hernán Crespo | 88 | Icons | 26k coins | +8.5% | +13.3% | Momentum moderado |
+| Mariano Troilo | 86 | Serie A TIM | 50k coins | +1.5% | +20.2% | Entrada a observar |
+| Hernán Crespo | 88 | Icons | 26k coins | +12.1% | +13.3% | Momentum moderado |
 | Rafael Profini | 84 | A-League Men | 48k coins | +13.1% | +11.8% | Momentum moderado |
-| Paulo Dybala | 91 | Serie A TIM | 178k coins | +11.5% | +8.1% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 50k coins | +4.4% | +11.2% | Entrada a observar |
+| Paulo Dybala | 91 | Serie A TIM | 199k coins | +11.5% | +9.8% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
@@ -65,9 +65,9 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 - **Juan Foyth (85)** — 38k coins, **+45.3% em 7 dias** (+28.3% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Ignacio Russo (84)** — 55k coins, **+35% em 7 dias** (+5.8% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ignacio Russo (84)** — 51k coins, **+35% em 7 dias** (+5.8% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santiago Hidalgo (84)** — 65k coins, **+29.8% em 7 dias** (+21.1% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Santiago Hidalgo (84)** — 54k coins, **+29.8% em 7 dias** (+21.1% em 24h). Preço em linha com a média de 7 dias (+4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista

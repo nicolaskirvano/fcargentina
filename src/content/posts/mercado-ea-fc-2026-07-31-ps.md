@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T10:25:13.000Z
+pubDatetime: 2026-07-31T10:48:08.000Z
 title: "Mercado EA FC em 31/07: Argentinos — Console (PS)"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 31/07/2026 no Console (PS): sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (31/07/2026)?"
-    a: "Carlos Tévez (89, Premier League), com +58.5% em 24h, a 325k coins no Console (PS)."
+    a: "Carlos Tévez (89, Premier League), com +57% em 24h, a 319k coins no Console (PS)."
   - q: "E a maior queda do dia?"
     a: "Giovani Lo Celso (91), -49.2% em 24h, a 25k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 28 cartas em alta contra 17 em queda (média 7.1%)."
+    a: "Hoje o mercado está em alta — predominam as valorizações, com 29 cartas em alta contra 16 em queda (média 7.17%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Resumo de **31/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **28 valorizações** contra **17 quedas** entre as cartas relevantes, com média de **7.1%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Resumo de **31/07/2026** no Console (PS): mercado **em alta** — predominam as valorizações. **29 valorizações** contra **16 quedas** entre as cartas relevantes, com média de **7.17%** nas últimas 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
-> 🟢 **Maior alta:** Carlos Tévez (89) **+58.5%** · 🔴 **Maior baixa:** Giovani Lo Celso (91) **-49.2%**
+> 🟢 **Maior alta:** Carlos Tévez (89) **+57%** · 🔴 **Maior baixa:** Giovani Lo Celso (91) **-49.2%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 31/07: Argentinos — Console (PS)](/charts/mercado-ea-fc-2026-07-31-ps.svg)
 
@@ -35,24 +35,24 @@ Resumo de **31/07/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 107.7 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 62.2% entre as cartas que se moveram; o universo observado reúne 59 cartas.
+- **Amplitude do dia:** 106.2 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 64.4% entre as cartas que se moveram; o universo observado reúne 58 cartas.
 - **Concentração:** LALIGA EA SPORTS aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Carlos Tévez | 89 | Premier League | 325k coins | +58.5% | +25% |
+| Carlos Tévez | 89 | Premier League | 319k coins | +57% | +25% |
 | Pablo Aimar | 88 | LALIGA EA SPORTS | 32k coins | +46.7% | +50% |
 | Gerónimo Rulli | 84 | Ligue 1 McDonald's | 65k coins | +28.7% | +25% |
 | Juan Foyth | 85 | LALIGA EA SPORTS | 38k coins | +28.3% | +45.3% |
 | Nicolás Otamendi | 86 | Liga Portugal | 60k coins | +22% | +59.5% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 54k coins | +21.1% | +29.8% |
 | Aldana Cometti | 85 | D1 Arkema | 40k coins | +17.6% | -31% |
 | Matías Vargas | 84 | Brasileirão | 60k coins | +17.6% | +50% |
 | Rafael Profini | 84 | A-League Men | 48k coins | +13.1% | +11.8% |
-| Diego Armando Maradona | 96 | Icons | 1.40M coins | +11.8% | -2.8% |
-| Paulo Dybala | 91 | Serie A TIM | 178k coins | +11.5% | +8.1% |
+| Hernán Crespo | 88 | Icons | 26k coins | +12.1% | +13.3% |
 
 
 ### Análise das altas
@@ -61,7 +61,7 @@ Resumo de **31/07/2026** no Console (PS): mercado **em alta** — predominam as 
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Carlos Tévez (89)** subiu **+58.5%** em 24h, a **325k coins** (faixa do dia: 205k–358k). Está +9% acima da média de 7 dias (aquecida).
+- **Carlos Tévez (89)** subiu **+57%** em 24h, a **319k coins** (faixa do dia: 205k–358k). Está em linha com a média de 7 dias (+7%).
 
 - **Pablo Aimar (88)** subiu **+46.7%** em 24h, a **32k coins** (faixa do dia: 12.500–41k). Está +47% acima da média de 7 dias (aquecida).
 
@@ -74,14 +74,13 @@ Resumo de **31/07/2026** no Console (PS): mercado **em alta** — predominam as 
 | --- | --- | --- | --- | --- | --- |
 | Giovani Lo Celso | 91 | LALIGA EA SPORTS | 25k coins | -49.2% | -41.9% |
 | Cristian Romero | 86 | Premier League | 50k coins | -30.8% | +63% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 68k coins | -28.9% | -22.7% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 68k coins | -28.9% | -22.2% |
 | Martín Ojeda | 83 | MLS | 33k coins | -24.1% | -6.5% |
-| Exequiel Zeballos | 83 | LPF | 100k coins | -16% | +17.6% |
+| Javier Mascherano | 89 | LALIGA EA SPORTS | 49k coins | -16.5% | +29.6% |
+| Exequiel Zeballos | 83 | LPF | 100k coins | -16.4% | +17.1% |
 | Julián Alvarez | 88 | LALIGA EA SPORTS | 46k coins | -15.5% | -7% |
-| Javier Mascherano | 89 | LALIGA EA SPORTS | 49k coins | -15.3% | +31.6% |
-| Enzo Fernández | 91 | Premier League | 29k coins | -13.3% | -66.6% |
-| Alejandro Garnacho | 89 | Premier League | 209k coins | -9.6% | -32% |
-| Lionel Messi | 90 | MLS | 1.97M coins | -6.2% | -20.9% |
+| Alejandro Garnacho | 89 | Premier League | 201k coins | -10% | -31% |
+| Lionel Messi | 88 | MLS | 209k coins | -3.2% | -1.4% |
 
 
 ### Análise das baixas
@@ -95,7 +94,7 @@ Resumo de **31/07/2026** no Console (PS): mercado **em alta** — predominam as 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Carlos Tévez já avançou 58.5% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Carlos Tévez já avançou 57% em 24h; espere nova cotação antes de entrar.
 
 - **Queda não é compra automática:** Giovani Lo Celso recuou -49.2%; confirme estabilização e liquidez.
 
@@ -109,13 +108,13 @@ Tudo parte de uma base de **centenas de milhões de pontos de preço** do Ultima
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (31/07/2026)?**
-Carlos Tévez (89, Premier League), com +58.5% em 24h, a 325k coins no Console (PS).
+Carlos Tévez (89, Premier League), com +57% em 24h, a 319k coins no Console (PS).
 
 **E a maior queda do dia?**
 Giovani Lo Celso (91), -49.2% em 24h, a 25k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 28 cartas em alta contra 17 em queda (média 7.1%).
+Hoje o mercado está em alta — predominam as valorizações, com 29 cartas em alta contra 16 em queda (média 7.17%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
