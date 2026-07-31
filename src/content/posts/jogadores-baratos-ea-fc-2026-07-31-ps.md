@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T19:48:12.000Z
+pubDatetime: 2026-07-31T22:48:11.000Z
 title: "Jogadores baratos EA FC: Argentinos em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 8.356 coins.
-- **Posição mais frequente:** ST, com 3 cartas.
-- **Faixa real:** 1.500 a 14.250 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 4 opções:** 11.938 coins.
+- **Posição mais frequente:** ST, com 2 cartas.
+- **Faixa real:** 11.000 a 14.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,15 +44,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
 | Diego Milito | 88 | ST | Serie A TIM | 14.250 coins | 0% |
-| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 1.600 coins | +55.6% |
-| Alexis Mac Allister | 87 | CM | Premier League | 2.000 coins | +33.3% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14.000 coins | -1.7% |
-| Emiliano Martínez | 85 | GK | Premier League | 1.500 coins | 0% |
 
 
 ## 📈 Destaques
 
-- **Nico Paz (90, CAM)** da Serie A TIM, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Nico Paz (90, CAM)** da Serie A TIM, a apenas **11.250 coins**
 
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins**
 
@@ -60,12 +56,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Diego Milito (88, ST)** da Serie A TIM, a apenas **14.250 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Julián Alvarez (87, ST)** da LALIGA EA SPORTS, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
-
 
 ## Como distribuir a banca
-
-- **Defesa:** Emiliano Martínez (85, GK) por 1.500 coins é a referência de rating deste recorte.
 
 - **Meio:** Nico Paz (90, CAM) por 11.250 coins é a referência de rating deste recorte.
 
