@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-07-31T13:48:12.000Z
+pubDatetime: 2026-07-31T16:48:11.000Z
 title: "Jogadores baratos EA FC: Argentinos em 31/07 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 5 opções:** 7.860 coins.
+- **Preço médio das 5 opções:** 10.060 coins.
 - **Posição mais frequente:** CAM, com 2 cartas.
-- **Faixa real:** 2.400 a 11.250 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 2.300 a 14.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,8 +43,8 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Paulo Dybala | 86 | CAM | Serie A Enilive | 2.400 coins | -4.2% |
-| Lionel Messi | 86 | RW | MLS | 3.400 coins | -12.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 14.500 coins | -3.4% |
+| Paulo Dybala | 86 | CAM | Serie A Enilive | 2.300 coins | +14.3% |
 
 
 ## 📈 Destaques
@@ -55,9 +55,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Paulo Dybala (86, CAM)** da Serie A Enilive, a apenas **2.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **14.500 coins**
 
-- **Lionel Messi (86, RW)** da MLS, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
+- **Paulo Dybala (86, CAM)** da Serie A Enilive, a apenas **2.300 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
