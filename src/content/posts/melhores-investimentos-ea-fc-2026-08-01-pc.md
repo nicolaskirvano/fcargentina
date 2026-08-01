@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:48:21.000Z
+pubDatetime: 2026-08-01T13:48:19.000Z
 title: "Investimentos EA FC: Argentinos em 01/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Hernán Crespo (88, Icons) lidera, com +85.9% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Carlos Tévez (88, Premier League) lidera, com +90% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Hernán Crespo (88) acumula **+85.9% em 7 dias** a 26k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Carlos Tévez (88) acumula **+90% em 7 dias** a 37k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 01/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-01-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+5.2% em 24h** e **+33.9% em 7 dias**.
-- **1 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+12.5% em 24h** e **+21.8% em 7 dias**.
+- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **Premier League** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,21 +43,24 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hernán Crespo | 88 | Icons | 26k coins | +3.5% | +85.9% | Esticada |
-| Marcos Acuña | 89 | LPF | 18.750 coins | +15.1% | +35.6% | Momentum moderado |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 98k coins | +2.1% | +32.2% | Momentum moderado |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 52k coins | +7% | +29.7% | Momentum moderado |
+| Carlos Tévez | 88 | Premier League | 37k coins | +16.9% | +90% | Esticada |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +12.5% | +52.5% | Momentum moderado |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 60k coins | +9.1% | +21.8% | Momentum moderado |
+| Emiliano Martínez | 88 | Premier League | 45k coins | +20.8% | +12.5% | Esticada |
+| Matías Soulé | 86 | Serie A TIM | 36k coins | +5.7% | +6.4% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Hernán Crespo (88)** — 26k coins, **+85.9% em 7 dias** (+3.5% em 24h). Preço +11% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Carlos Tévez (88)** — 37k coins, **+90% em 7 dias** (+16.9% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Marcos Acuña (89)** — 18.750 coins, **+35.6% em 7 dias** (+15.1% em 24h). Preço +34% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Valentín Barco (88)** — 22k coins, **+52.5% em 7 dias** (+12.5% em 24h). Preço +9% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (87)** — 98k coins, **+32.2% em 7 dias** (+2.1% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan Foyth (85)** — 60k coins, **+21.8% em 7 dias** (+9.1% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Gonzalez (87)** — 52k coins, **+29.7% em 7 dias** (+7% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Emiliano Martínez (88)** — 45k coins, **+12.5% em 7 dias** (+20.8% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Matías Soulé (86)** — 36k coins, **+6.4% em 7 dias** (+5.7% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -75,7 +78,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Hernán Crespo (88, Icons) lidera, com +85.9% em 7 dias a 26k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Carlos Tévez (88, Premier League) lidera, com +90% em 7 dias a 37k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
