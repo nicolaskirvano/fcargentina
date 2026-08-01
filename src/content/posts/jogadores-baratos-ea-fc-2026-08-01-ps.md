@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:48:11.000Z
+pubDatetime: 2026-08-01T22:48:13.000Z
 title: "Jogadores baratos EA FC: Argentinos em 01/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 8.312 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 10.507 coins.
+- **Posição mais frequente:** CM, com 3 cartas.
+- **Faixa real:** 1.800 a 13.750 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,10 +44,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Julián Alvarez | 89 | ST | LALIGA EA SPORTS | 13.000 coins | 0% |
-| Lautaro Martínez | 88 | ST | Serie A Enilive | 1.500 coins | +25% |
+| Estefanía Banini | 89 | CM | Liga F | 13.750 coins | +22.2% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 1.900 coins | +13.3% |
-| Lionel Messi | 86 | RW | MLS | 5.100 coins | -9.4% |
+| Alexis Mac Allister | 87 | CM | Premier League | 1.800 coins | -5% |
 
 
 ## 📈 Destaques
@@ -60,7 +59,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Julián Alvarez (89, ST)** da LALIGA EA SPORTS, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Lautaro Martínez (88, ST)** da Serie A Enilive, a apenas **1.500 coins** — já **valorizando**, sinal de procura crescente. A alta de 24h pede uma nova checagem antes da compra.
+- **Estefanía Banini (89, CM)** da Liga F, a apenas **13.750 coins** — vem **caindo na semana**, pode ser ponto de entrada barato. A alta de 24h pede uma nova checagem antes da compra.
 
 
 ## Como distribuir a banca

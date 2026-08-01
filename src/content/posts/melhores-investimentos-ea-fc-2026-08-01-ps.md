@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T19:48:09.000Z
+pubDatetime: 2026-08-01T22:48:12.000Z
 title: "Investimentos EA FC: Argentinos em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 01/08/2026 no Console (PS). Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (01/08/2026) no EA FC?"
-    a: "Marcos Acuña (89, LPF) lidera, com +77.8% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Lionel Messi (88, MLS) lidera, com +52.3% em 7 dias a 230k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marcos Acuña (89) acumula **+77.8% em 7 dias** a 20k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Lionel Messi (88) acumula **+52.3% em 7 dias** a 230k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 01/08 — Console (PS)](/charts/melhores-investimentos-ea-fc-2026-08-01-ps.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+15.9% em 24h** e **+23.1% em 7 dias**.
-- **2 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LPF** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+10.3% em 24h** e **+20.2% em 7 dias**.
+- **1 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **MLS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,25 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcos Acuña | 89 | LPF | 20k coins | +15.9% | +77.8% | Esticada |
-| Mariano Troilo | 86 | Serie A TIM | 54k coins | +5.1% | +30% | Momentum moderado |
-| Cristian Romero | 86 | Premier League | 52k coins | +19.4% | +23.1% | Momentum moderado |
-| Aldana Cometti | 85 | D1 Arkema | 56k coins | +25% | +12.7% | Esticada |
-| Juan Román Riquelme | 88 | Icons | 76k coins | +14.3% | +7.8% | Momentum moderado |
+| Lionel Messi | 88 | MLS | 230k coins | +12.2% | +52.3% | Momentum moderado |
+| Lionel Messi | 87 | MLS | 80k coins | +24.2% | +44.9% | Esticada |
+| Paulo Dybala | 91 | Serie A TIM | 209k coins | +15.8% | +29.4% | Momentum moderado |
+| Nico Paz | 86 | Serie A TIM | 50k coins | +4.2% | +11.1% | Entrada a observar |
+| Ignacio Russo | 84 | LPF | 45k coins | +8.2% | +10.6% | Momentum moderado |
+| Aldana Cometti | 85 | D1 Arkema | 53k coins | +8.5% | +6.9% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcos Acuña (89)** — 20k coins, **+77.8% em 7 dias** (+15.9% em 24h). Preço +43% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lionel Messi (88)** — 230k coins, **+52.3% em 7 dias** (+12.2% em 24h). Preço +17% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Mariano Troilo (86)** — 54k coins, **+30% em 7 dias** (+5.1% em 24h). Preço +13% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Lionel Messi (87)** — 80k coins, **+44.9% em 7 dias** (+24.2% em 24h). Preço em linha com a média de 7 dias (-6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Cristian Romero (86)** — 52k coins, **+23.1% em 7 dias** (+19.4% em 24h). Preço em linha com a média de 7 dias (-3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Paulo Dybala (91)** — 209k coins, **+29.4% em 7 dias** (+15.8% em 24h). Preço em linha com a média de 7 dias (+2%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Aldana Cometti (85)** — 56k coins, **+12.7% em 7 dias** (+25% em 24h). Preço em linha com a média de 7 dias (-0%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Nico Paz (86)** — 50k coins, **+11.1% em 7 dias** (+4.2% em 24h). Preço em linha com a média de 7 dias (+6%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Juan Román Riquelme (88)** — 76k coins, **+7.8% em 7 dias** (+14.3% em 24h). Preço em linha com a média de 7 dias (-4%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Ignacio Russo (84)** — 45k coins, **+10.6% em 7 dias** (+8.2% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +79,7 @@ Este conteúdo roda sobre **centenas de milhões de cotações** do mercado do E
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (01/08/2026) no EA FC?**  
-Marcos Acuña (89, LPF) lidera, com +77.8% em 7 dias a 20k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Lionel Messi (88, MLS) lidera, com +52.3% em 7 dias a 230k coins no Console (PS). A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
