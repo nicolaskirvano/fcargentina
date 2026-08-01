@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T10:24:02.000Z
+pubDatetime: 2026-08-01T10:48:11.000Z
 title: "Investimentos EA FC: Argentinos em 01/08 — Console (PS)"
 draft: false
 featured: true
@@ -33,8 +33,8 @@ Esta lista de **01/08/2026** no **Console (PS)** cruza duas janelas observadas: 
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+18.7% em 24h** e **+24.9% em 7 dias**.
-- **5 de 8 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- A mediana é de **+17.9% em 24h** e **+26.1% em 7 dias**.
+- **6 de 10 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
 - **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
@@ -44,26 +44,28 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
 | Lionel Messi | 89 | MLS | 140k coins | +11.9% | +65.7% | Esticada |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 40k coins | +30.6% | +58% | Esticada |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 33k coins | +30.6% | +58% | Esticada |
+| Marcos Acuña | 89 | LPF | 15.750 coins | +23.5% | +40% | Esticada |
 | Nico Gonzalez | 87 | LALIGA EA SPORTS | 50k coins | +8% | +28.6% | Momentum moderado |
-| Pablo Aimar | 87 | LALIGA EA SPORTS | 16.250 coins | +25% | +25% | Esticada |
+| Pablo Aimar | 87 | LALIGA EA SPORTS | 16.250 coins | +25% | +27.5% | Esticada |
 | Juan Foyth | 85 | LALIGA EA SPORTS | 42k coins | +11% | +24.8% | Momentum moderado |
-| Juan Román Riquelme | 88 | Icons | 90k coins | +12.4% | +21.5% | Momentum moderado |
+| Juan Román Riquelme | 88 | Icons | 100k coins | +12.4% | +21.5% | Momentum moderado |
 | Alejandro Garnacho | 89 | Premier League | 248k coins | +32.4% | +19.1% | Esticada |
-| Aldana Cometti | 85 | D1 Arkema | 54k coins | +35% | +5.9% | Esticada |
+| Ignacio Russo | 84 | LPF | 52k coins | +2% | +10.6% | Entrada a observar |
+| Aldana Cometti | 85 | D1 Arkema | 54k coins | +35% | +6.9% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
 - **Lionel Messi (89)** — 140k coins, **+65.7% em 7 dias** (+11.9% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerónimo Rulli (87)** — 40k coins, **+58% em 7 dias** (+30.6% em 24h). Preço +10% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerónimo Rulli (87)** — 33k coins, **+58% em 7 dias** (+30.6% em 24h). Preço -9% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+
+- **Marcos Acuña (89)** — 15.750 coins, **+40% em 7 dias** (+23.5% em 24h). Preço +15% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Nico Gonzalez (87)** — 50k coins, **+28.6% em 7 dias** (+8% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Pablo Aimar (87)** — 16.250 coins, **+25% em 7 dias** (+25% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Juan Foyth (85)** — 42k coins, **+24.8% em 7 dias** (+11% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Pablo Aimar (87)** — 16.250 coins, **+27.5% em 7 dias** (+25% em 24h). Preço +18% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
