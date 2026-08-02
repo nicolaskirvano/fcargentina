@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T10:20:49.000Z
+pubDatetime: 2026-08-02T10:48:23.000Z
 title: "Jogadores baratos EA FC: Argentinos em 02/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 7 opções:** 10.750 coins.
+- **Preço médio das 9 opções:** 10.011 coins.
 - **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 4.500 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 3.100 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -45,8 +45,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 11.750 coins | +6.8% |
+| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 3.100 coins | +6.9% |
 | Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.000 coins | -7.1% |
-| Lionel Messi | 86 | RW | MLS | 4.500 coins | +25% |
+| Lionel Messi | 86 | RW | MLS | 4.500 coins | +15.4% |
 
 
 ## 📈 Destaques
@@ -105,7 +107,6 @@ Sim — vêm do mercado do EA FC, atualizados várias vezes ao dia e filtrados c
 <!-- content-links:v1 -->
 ## Continue a análise
 
-- [Investimentos EA FC: Argentinos em 02/08 — PC](/posts/melhores-investimentos-ea-fc-2026-08-02-pc/)
 - [Mercado EA FC em 02/08: Argentinos — PC](/posts/mercado-ea-fc-2026-08-02-pc/)
 - [Ver todas as análises recentes](/posts/)
 - [Conheça a metodologia e os limites dos dados](/about/)
