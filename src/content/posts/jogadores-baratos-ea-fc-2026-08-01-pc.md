@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-01T22:48:23.000Z
+pubDatetime: 2026-08-02T01:48:20.000Z
 title: "Jogadores baratos EA FC: Argentinos em 01/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.205 coins.
-- **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 2.100 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 10 opções:** 9.305 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,10 +44,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Javier Zanetti | 91 | RB | Icons | 12.750 coins | 0% |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Lautaro Martínez | 88 | ST | Serie A Enilive | 2.100 coins | -12.5% |
-| Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | +2.1% |
+| Lautaro Martínez | 88 | ST | Serie A Enilive | 1.600 coins | -3.8% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2.700 coins | -3.7% |
+| Diego Milito | 88 | ST | Serie A TIM | 12.000 coins | -12% |
+| Alexis Mac Allister | 87 | CM | Premier League | 3.200 coins | 0% |
 | Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14.000 coins | -11.1% |
 | Lionel Messi | 86 | RW | MLS | 4.500 coins | +4.7% |
 
@@ -62,7 +62,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins**
 
-- **Lautaro Martínez (88, ST)** da Serie A Enilive, a apenas **2.100 coins** — já **valorizando**, sinal de procura crescente.
+- **Lautaro Martínez (88, ST)** da Serie A Enilive, a apenas **1.600 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
@@ -71,7 +71,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Pablo Aimar (91, CAM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Lautaro Martínez (88, ST) por 2.100 coins é a referência de rating deste recorte.
+- **Ataque:** Lautaro Martínez (88, ST) por 1.600 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
