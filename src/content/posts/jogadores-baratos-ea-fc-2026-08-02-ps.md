@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T19:48:12.000Z
+pubDatetime: 2026-08-02T22:48:12.000Z
 title: "Jogadores baratos EA FC: Argentinos em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 8 opções:** 10.400 coins.
+- **Preço médio das 9 opções:** 8.322 coins.
 - **Posição mais frequente:** ST, com 4 cartas.
-- **Faixa real:** 3.200 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,10 +44,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Julián Alvarez | 89 | ST | LALIGA EA SPORTS | 13.000 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | 0% |
+| Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | -10.2% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 3.200 coins | +17.6% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 11.000 coins | +27.3% |
+| Alexis Mac Allister | 87 | CM | Premier League | 2.200 coins | -4.8% |
+| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2.200 coins | -9.1% |
+| Paulo Dybala | 86 | CAM | Serie A Enilive | 1.500 coins | -8.3% |
 
 
 ## 📈 Destaques
