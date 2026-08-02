@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:48:18.000Z
+pubDatetime: 2026-08-02T16:48:17.000Z
 title: "Mercado EA FC em 02/08: Argentinos — PC"
 draft: false
 featured: true
@@ -15,16 +15,16 @@ faq:
   - q: "Qual foi a maior alta do EA FC hoje (02/08/2026)?"
     a: "Lautaro Martínez (90, Serie A TIM), com +54.6% em 24h, a 63k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Diego Armando Maradona (95), -48.5% em 24h, a 1.29M coins."
+    a: "Diego Armando Maradona (95), -48.5% em 24h, a 1.10M coins."
   - q: "O mercado do EA FC está em alta ou baixa hoje?"
-    a: "Hoje o mercado está pressionado — as quedas dominam o dia, com 14 cartas em alta contra 23 em queda (média 1.0%)."
+    a: "Hoje o mercado está aquecido — as altas dominam o dia, com 16 cartas em alta contra 21 em queda (média 7.6%)."
   - q: "Posso confiar nos preços e previsões do FutQuant?"
     a: "Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem."
 ---
 
 ## 📊 Como está o mercado agora
 
-Em **02/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressionado** — as quedas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **14 subiram** e **23 caíram**, com variação média de **1.0%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
+Em **02/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **aquecido** — as altas dominam o dia: das cartas relevantes (80+ acima de 5k coins), **16 subiram** e **21 caíram**, com variação média de **7.6%** em 24h. Mercado comprador — evite pagar topo em cartas já esticadas.
 
 > 🟢 **Maior alta:** Lautaro Martínez (90) **+54.6%** · 🔴 **Maior baixa:** Diego Armando Maradona (95) **-48.5%**
 
@@ -36,22 +36,23 @@ Em **02/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 ## Leitura específica deste recorte
 
 - **Amplitude do dia:** 103.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 37.8% entre as cartas que se moveram; o universo observado reúne 64 cartas.
-- **Concentração:** Serie A TIM aparece em 4 dos 20 maiores movimentos listados.
+- **Participação das altas:** 43.2% entre as cartas que se moveram; o universo observado reúne 64 cartas.
+- **Concentração:** Serie A TIM aparece em 5 dos 20 maiores movimentos listados.
 
 ## 🟢 Maiores altas (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Lautaro Martínez | 90 | Serie A TIM | 63k coins | +54.6% | +0.8% |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +30.3% | +26.9% |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 120k coins | +21.8% | +21.2% |
+| Lautaro Martínez | 90 | Serie A TIM | 63k coins | +54.6% | +7.7% |
+| Esteban Cambiasso | 86 | Serie A TIM | 24k coins | +54.1% | +11.9% |
+| Nahuel Molina | 87 | LALIGA EA SPORTS | 120k coins | +41.2% | +40.4% |
+| Enzo Fernández | 91 | Premier League | 120k coins | +37.9% | +224.3% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +30.9% | +45.9% |
+| Mariano Troilo | 86 | Serie A TIM | 48k coins | +21.8% | +27.5% |
 | Lionel Messi | 90 | MLS | 3.95M coins | +19.7% | -1.2% |
-| Diego Armando Maradona | 96 | Icons | 3M coins | +12.4% | -55.2% |
-| Diego Armando Maradona | 96 | Icons | 2.20M coins | +8.5% | +8.5% |
-| Mariano Troilo | 86 | Serie A TIM | 48k coins | +8.3% | +13.4% |
-| Alejandro Garnacho | 89 | Premier League | 377k coins | +5% | +3% |
-| Matías Vargas | 84 | Brasileirão | 48k coins | +3.3% | +19.5% |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 66k coins | +13.3% | -2.9% |
+| Diego Armando Maradona | 96 | Icons | 3M coins | +12.8% | -42.6% |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 130k coins | +10.2% | +58.5% |
 
 
 ### Análise das altas
@@ -62,34 +63,34 @@ Em **02/08/2026**, o mercado do **EA FC Ultimate Team** no **PC** está **pressi
 
 - **Lautaro Martínez (90)** subiu **+54.6%** em 24h, a **63k coins** (faixa do dia: 41k–70k). Está +26% acima da média de 7 dias (aquecida).
 
-- **Santiago Hidalgo (84)** subiu **+30.3%** em 24h, a **50k coins** (faixa do dia: 35k–50k). Está em linha com a média de 7 dias (+8%).
+- **Esteban Cambiasso (86)** subiu **+54.1%** em 24h, a **24k coins** (faixa do dia: 13.000–24k). Está +16% acima da média de 7 dias (aquecida).
 
-- **Nahuel Molina (87)** subiu **+21.8%** em 24h, a **120k coins** (faixa do dia: 85k–120k). Está +29% acima da média de 7 dias (aquecida).
+- **Nahuel Molina (87)** subiu **+41.2%** em 24h, a **120k coins** (faixa do dia: 85k–120k). Está +28% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Quem mais caiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Diego Armando Maradona | 95 | Icons | 1.29M coins | -48.5% | +11.9% |
-| Javier Mascherano | 90 | LALIGA EA SPORTS | 40k coins | -47% | -31% |
-| Estefanía Banini | 89 | Liga F | 22k coins | -34.3% | -28.8% |
-| Carlos Tévez | 88 | Premier League | 25k coins | -32.7% | +16.7% |
-| Lionel Messi | 88 | MLS | 323k coins | -28.2% | -24.4% |
-| Mauro Icardi | 87 | Trendyol Süper Lig | 45k coins | -25.4% | -36.1% |
-| Nico Paz | 86 | Serie A TIM | 40k coins | -16.3% | -16.3% |
-| Gabriel Batistuta | 89 | Icons | 72k coins | -14.5% | +5.8% |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 109k coins | -8.4% | +32.9% |
-| Matías Soulé | 86 | Serie A TIM | 34k coins | -7.4% | +3.8% |
+| Diego Armando Maradona | 95 | Icons | 1.10M coins | -48.5% | +11.9% |
+| Carlos Tévez | 88 | Premier League | 23k coins | -40% | +6.7% |
+| Javier Mascherano | 90 | LALIGA EA SPORTS | 40k coins | -38.5% | -31% |
+| Estefanía Banini | 89 | Liga F | 24k coins | -22.5% | -31.7% |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 44k coins | -18.3% | +4.7% |
+| Santiago Castro | 87 | Serie A TIM | 22k coins | -18.3% | +30.6% |
+| Rafael Profini | 84 | A-League Men | 40k coins | -14.9% | -5.9% |
+| Nico Paz | 86 | Serie A TIM | 42k coins | -10.5% | -5.6% |
+| Cristian Romero | 86 | Premier League | 56k coins | -7.9% | -32% |
+| Emiliano Buendía | 83 | Premier League | 69k coins | -7.3% | +39.7% |
 
 
 ### Análise das baixas
 
-- **Diego Armando Maradona (95)** caiu **-48.5%** em 24h, a **1.29M coins** (faixa do dia: 1.29M–15M). Está -54% abaixo da média de 7 dias (descontada).
+- **Diego Armando Maradona (95)** caiu **-48.5%** em 24h, a **1.10M coins** (faixa do dia: 1.10M–15M). Está -61% abaixo da média de 7 dias (descontada).
 
-- **Javier Mascherano (90)** caiu **-47%** em 24h, a **40k coins** (faixa do dia: 39k–100k). Está -44% abaixo da média de 7 dias (descontada).
+- **Carlos Tévez (88)** caiu **-40%** em 24h, a **23k coins** (faixa do dia: 23k–46k). Está -23% abaixo da média de 7 dias (descontada).
 
-- **Estefanía Banini (89)** caiu **-34.3%** em 24h, a **22k coins** (faixa do dia: 22k–38k). Está -9% abaixo da média de 7 dias (descontada).
+- **Javier Mascherano (90)** caiu **-38.5%** em 24h, a **40k coins** (faixa do dia: 39k–98k). Está -44% abaixo da média de 7 dias (descontada).
 
 
 ## Decisão prática para hoje
@@ -111,10 +112,10 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 Lautaro Martínez (90, Serie A TIM), com +54.6% em 24h, a 63k coins no PC.
 
 **E a maior queda do dia?**
-Diego Armando Maradona (95), -48.5% em 24h, a 1.29M coins.
+Diego Armando Maradona (95), -48.5% em 24h, a 1.10M coins.
 
 **O mercado do EA FC está em alta ou baixa hoje?**
-Hoje o mercado está pressionado — as quedas dominam o dia, com 14 cartas em alta contra 23 em queda (média 1.0%).
+Hoje o mercado está aquecido — as altas dominam o dia, com 16 cartas em alta contra 21 em queda (média 7.6%).
 
 **Posso confiar nos preços e previsões do FutQuant?**
 Os preços vêm do mercado real, atualizados várias vezes ao dia e filtrados contra cotações irreais. Já as previsões são estatísticas: orientam, mas não garantem.

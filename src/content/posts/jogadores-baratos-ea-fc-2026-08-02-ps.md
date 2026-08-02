@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:48:12.000Z
+pubDatetime: 2026-08-02T16:48:11.000Z
 title: "Jogadores baratos EA FC: Argentinos em 02/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 9 opções:** 9.911 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 2.400 a 13.500 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 9 opções:** 11.089 coins.
+- **Posição mais frequente:** CAM, com 3 cartas.
+- **Faixa real:** 3.800 a 13.500 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -44,11 +44,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
 | Julián Alvarez | 89 | ST | LALIGA EA SPORTS | 13.000 coins | 0% |
-| Estefanía Banini | 89 | CM | Liga F | 13.500 coins | -1.8% |
 | Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Alexis Mac Allister | 87 | CM | Premier League | 2.400 coins | +16.7% |
-| Lionel Messi | 86 | RW | MLS | 4.300 coins | +12.8% |
+| Valentín Barco | 88 | CM | Ligue 1 McDonald's | 13.500 coins | -9.1% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.500 coins | 0% |
+| Lionel Messi | 86 | RW | MLS | 3.800 coins | -10.6% |
 
 
 ## 📈 Destaques
@@ -61,7 +61,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Julián Alvarez (89, ST)** da LALIGA EA SPORTS, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Estefanía Banini (89, CM)** da Liga F, a apenas **13.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Diego Milito (88, ST)** da Serie A TIM, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 
 ## Como distribuir a banca

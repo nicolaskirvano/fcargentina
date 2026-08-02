@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-02T13:48:20.000Z
+pubDatetime: 2026-08-02T16:48:19.000Z
 title: "Investimentos EA FC: Argentinos em 02/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 02/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (02/08/2026) no EA FC?"
-    a: "Marcos Acuña (89, LPF) lidera, com +63% em 7 dias a 17.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Julián Alvarez (88, LALIGA EA SPORTS) lidera, com +58.5% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Marcos Acuña (89) acumula **+63% em 7 dias** a 17.000 coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Julián Alvarez (88) acumula **+58.5% em 7 dias** a 130k coins; leitura atual: **momentum moderado**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 02/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-02-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **02/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+8.3% em 24h** e **+21.2% em 7 dias**.
-- **3 de 5 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LPF** concentra 1 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+16.0% em 24h** e **+37.1% em 7 dias**.
+- **2 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,24 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Marcos Acuña | 89 | LPF | 17.000 coins | +7.1% | +63% | Esticada |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 50k coins | +30.3% | +26.9% | Esticada |
-| Nahuel Molina | 87 | LALIGA EA SPORTS | 120k coins | +21.8% | +21.2% | Esticada |
-| Matías Vargas | 84 | Brasileirão | 48k coins | +3.3% | +19.5% | Entrada a observar |
-| Mariano Troilo | 86 | Serie A TIM | 48k coins | +8.3% | +13.4% | Momentum moderado |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 130k coins | +10.2% | +58.5% | Momentum moderado |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 22k coins | +30.9% | +45.9% | Esticada |
+| Juan Foyth | 85 | LALIGA EA SPORTS | 60k coins | +10.1% | +28.3% | Momentum moderado |
+| Mariano Troilo | 86 | Serie A TIM | 48k coins | +21.8% | +27.5% | Esticada |
 
 
 ## 📈 Análise dos destaques
 
-- **Marcos Acuña (89)** — 17.000 coins, **+63% em 7 dias** (+7.1% em 24h). Preço +12% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julián Alvarez (88)** — 130k coins, **+58.5% em 7 dias** (+10.2% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Santiago Hidalgo (84)** — 50k coins, **+26.9% em 7 dias** (+30.3% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Valentín Barco (88)** — 22k coins, **+45.9% em 7 dias** (+30.9% em 24h). Preço em linha com a média de 7 dias (+7%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nahuel Molina (87)** — 120k coins, **+21.2% em 7 dias** (+21.8% em 24h). Preço +29% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Juan Foyth (85)** — 60k coins, **+28.3% em 7 dias** (+10.1% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Matías Vargas (84)** — 48k coins, **+19.5% em 7 dias** (+3.3% em 24h). Preço em linha com a média de 7 dias (+3%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Mariano Troilo (86)** — 48k coins, **+13.4% em 7 dias** (+8.3% em 24h). Preço +8% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Mariano Troilo (86)** — 48k coins, **+27.5% em 7 dias** (+21.8% em 24h). Preço em linha com a média de 7 dias (+8%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -78,7 +75,7 @@ Nossos números saem de **centenas de milhões de pontos de preço** do EA FC, d
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (02/08/2026) no EA FC?**  
-Marcos Acuña (89, LPF) lidera, com +63% em 7 dias a 17.000 coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Julián Alvarez (88, LALIGA EA SPORTS) lidera, com +58.5% em 7 dias a 130k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
