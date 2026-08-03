@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T16:48:18.000Z
+pubDatetime: 2026-08-03T19:48:17.000Z
 title: "Mercado EA FC em 03/08: Argentinos — PC"
 draft: false
 featured: true
@@ -13,20 +13,20 @@ tags:
 description: "Dados de 03/08/2026 no PC: sentimento, maiores altas e baixas do EA FC, faixas de preço validadas e somente previsões recentes do modelo."
 faq:
   - q: "Qual foi a maior alta do EA FC hoje (03/08/2026)?"
-    a: "Ignacio Russo (84, LPF), com +42.9% em 24h, a 50k coins no PC."
+    a: "Javier Zanetti (89, Icons), com +43.2% em 24h, a 117k coins no PC."
   - q: "E a maior queda do dia?"
-    a: "Santiago Hidalgo (84), -20.2% em 24h, a 44k coins."
+    a: "Lionel Messi (87), -40.9% em 24h, a 42k coins."
   - q: "Como está o mercado do EA FC hoje?"
-    a: "Hoje o mercado está em alta — predominam as valorizações, com 19 cartas em alta contra 18 em queda (média 3.36%)."
+    a: "Hoje o mercado está lateral — sem direção clara, com 18 cartas em alta contra 23 em queda (média -1.48%)."
   - q: "De onde vêm os preços do FutQuant?"
     a: "Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia."
 ---
 
 ## 📊 Resumo do mercado hoje
 
-Panorama de **03/08/2026** (PC): mercado **em alta** — predominam as valorizações. Entre as cartas relevantes (80+ e acima de 5k coins), foram **19 em alta** e **18 em queda**, média de **3.36%** no dia. Mercado comprador — evite pagar topo em cartas já esticadas.
+Panorama de **03/08/2026** (PC): mercado **lateral** — sem direção clara. Entre as cartas relevantes (80+ e acima de 5k coins), foram **18 em alta** e **23 em queda**, média de **-1.48%** no dia. Bom momento para realizar lucro em quem valorizou e mirar correções para comprar.
 
-> 🟢 **Maior alta:** Ignacio Russo (84) **+42.9%** · 🔴 **Maior baixa:** Santiago Hidalgo (84) **-20.2%**
+> 🟢 **Maior alta:** Javier Zanetti (89) **+43.2%** · 🔴 **Maior baixa:** Lionel Messi (87) **-40.9%**
 
 ![Gráfico de variação em 24h para os destaques de Mercado EA FC em 03/08: Argentinos — PC](/charts/mercado-ea-fc-2026-08-03-pc.svg)
 
@@ -35,24 +35,24 @@ Panorama de **03/08/2026** (PC): mercado **em alta** — predominam as valoriza�
 
 ## Leitura específica deste recorte
 
-- **Amplitude do dia:** 63.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
-- **Participação das altas:** 51.4% entre as cartas que se moveram; o universo observado reúne 64 cartas.
-- **Concentração:** Icons aparece em 4 dos 20 maiores movimentos listados.
+- **Amplitude do dia:** 84.1 pontos percentuais entre a maior alta e a maior baixa monitoradas.
+- **Participação das altas:** 43.9% entre as cartas que se moveram; o universo observado reúne 68 cartas.
+- **Concentração:** Icons aparece em 6 dos 20 maiores movimentos listados.
 
 ## 🟢 Quem mais subiu (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Ignacio Russo | 84 | LPF | 50k coins | +42.9% | +11.1% |
-| Juan Román Riquelme | 88 | Icons | 104k coins | +40.3% | +56.5% |
-| Gabriel Batistuta | 92 | Icons | 500k coins | +34.4% | +3.1% |
-| Paulo Dybala | 91 | Serie A TIM | 350k coins | +33.6% | +107.1% |
-| Lionel Messi | 89 | MLS | 175k coins | +30.9% | -27.5% |
-| Carlos Tévez | 88 | Premier League | 26k coins | +19.6% | +13.4% |
-| Marcos Acuña | 89 | LPF | 22k coins | +11.1% | +60% |
-| Matías Soulé | 84 | Serie A TIM | 50k coins | +11.1% | 0% |
-| Emiliano Buendía | 83 | Premier League | 75k coins | +10.3% | +30.4% |
-| Exequiel Zeballos | 83 | LPF | 110k coins | +10% | -23.6% |
+| Javier Zanetti | 89 | Icons | 117k coins | +43.2% | +60.3% |
+| Cristian Romero | 86 | Premier League | 70k coins | +40% | -25.5% |
+| Nico Gonzalez | 87 | LALIGA EA SPORTS | 62k coins | +37.6% | +4.5% |
+| Gabriel Batistuta | 92 | Icons | 500k coins | +34.4% | +4% |
+| Paulo Dybala | 91 | Serie A TIM | 350k coins | +33.6% | +112.1% |
+| Juan Román Riquelme | 88 | Icons | 94k coins | +25.5% | +39.1% |
+| Ignacio Russo | 84 | LPF | 49k coins | +24.2% | +11.1% |
+| Diego Armando Maradona | 95 | Icons | 3M coins | +20% | +210.6% |
+| Estefanía Banini | 89 | Liga F | 24k coins | +19.5% | +8.9% |
+| Mauro Icardi | 87 | Trendyol Süper Lig | 70k coins | +16.7% | +17.6% |
 
 
 ### Análise das altas
@@ -61,39 +61,43 @@ Panorama de **03/08/2026** (PC): mercado **em alta** — predominam as valoriza�
 <!-- projection-note:v1 -->
 > **Limite das projeções:** quando não existe projeção recente válida, a leitura usa somente preço, faixa e tendência observados; o mesmo critério vale para as baixas.
 
-- **Ignacio Russo (84)** subiu **+42.9%** em 24h, a **50k coins** (faixa do dia: 40k–50k). Está em linha com a média de 7 dias (+4%).
+- **Javier Zanetti (89)** subiu **+43.2%** em 24h, a **117k coins** (faixa do dia: 73k–121k). Está +33% acima da média de 7 dias (aquecida).
 
-- **Juan Román Riquelme (88)** subiu **+40.3%** em 24h, a **104k coins** (faixa do dia: 76k–200k). Está -9% abaixo da média de 7 dias (descontada).
+- **Cristian Romero (86)** subiu **+40%** em 24h, a **70k coins** (faixa do dia: 43k–100k). Está -10% abaixo da média de 7 dias (descontada).
 
-- **Gabriel Batistuta (92)** subiu **+34.4%** em 24h, a **500k coins** (faixa do dia: 369k–500k). Está em linha com a média de 7 dias (+5%).
+- **Nico Gonzalez (87)** subiu **+37.6%** em 24h, a **62k coins** (faixa do dia: 40k–64k). Está +15% acima da média de 7 dias (aquecida).
 
 
 ## 🔴 Destaques de queda (24h)
 
 | Jogador | OVR | Liga | Preço | 24h | 7d |
 | --- | --- | --- | --- | --- | --- |
-| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 44k coins | -20.2% | -13.2% |
-| Diego Armando Maradona | 96 | Icons | 2.62M coins | -15% | -42.2% |
-| Valentín Barco | 88 | Ligue 1 McDonald's | 20k coins | -10.1% | -3.6% |
-| Diego Armando Maradona | 96 | Icons | 2M coins | -9.1% | 0% |
-| Esteban Cambiasso | 86 | Serie A TIM | 22k coins | -7.4% | +27.9% |
-| Matías Soulé | 86 | Serie A TIM | 30k coins | -6.2% | -14.7% |
+| Lionel Messi | 87 | MLS | 42k coins | -40.9% | -70.8% |
+| Hernán Crespo | 88 | Icons | 20k coins | -31.3% | +19.7% |
+| Esteban Cambiasso | 86 | Serie A TIM | 22k coins | -27.5% | +35.9% |
+| Rafael Profini | 84 | A-League Men | 47k coins | -16% | -7.1% |
+| Lionel Messi | 88 | MLS | 450k coins | -13.8% | -16.7% |
+| Diego Armando Maradona | 96 | Icons | 2M coins | -13.7% | -5% |
+| Santiago Hidalgo | 84 | Ligue 1 McDonald's | 43k coins | -12.6% | +6.8% |
+| Valentín Barco | 88 | Ligue 1 McDonald's | 20k coins | -10.1% | +2.6% |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 54k coins | -10% | +92.9% |
+| Exequiel Zeballos | 83 | LPF | 100k coins | -4.3% | -30.9% |
 
 
 ### Análise das baixas
 
-- **Santiago Hidalgo (84)** caiu **-20.2%** em 24h, a **44k coins** (faixa do dia: 39k–50k). Está em linha com a média de 7 dias (-5%).
+- **Lionel Messi (87)** caiu **-40.9%** em 24h, a **42k coins** (faixa do dia: 41k–90k). Está -61% abaixo da média de 7 dias (descontada).
 
-- **Diego Armando Maradona (96)** caiu **-15%** em 24h, a **2.62M coins** (faixa do dia: 2.55M–3M). Está em linha com a média de 7 dias (+7%).
+- **Hernán Crespo (88)** caiu **-31.3%** em 24h, a **20k coins** (faixa do dia: 15.000–30k). Está -19% abaixo da média de 7 dias (descontada).
 
-- **Valentín Barco (88)** caiu **-10.1%** em 24h, a **20k coins** (faixa do dia: 16.500–34k). Está em linha com a média de 7 dias (-5%).
+- **Esteban Cambiasso (86)** caiu **-27.5%** em 24h, a **22k coins** (faixa do dia: 13.500–30k). Está em linha com a média de 7 dias (+5%).
 
 
 ## Decisão prática para hoje
 
-- **Evite perseguir topo:** Ignacio Russo já avançou 42.9% em 24h; espere nova cotação antes de entrar.
+- **Evite perseguir topo:** Javier Zanetti já avançou 43.2% em 24h; espere nova cotação antes de entrar.
 
-- **Queda não é compra automática:** Santiago Hidalgo recuou -20.2%; confirme estabilização e liquidez.
+- **Queda não é compra automática:** Lionel Messi recuou -40.9%; confirme estabilização e liquidez.
 
 - Compare sempre a cotação atual com a faixa de 24h e defina preço de saída antes da compra.
 
@@ -105,13 +109,13 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual foi a maior alta do EA FC hoje (03/08/2026)?**
-Ignacio Russo (84, LPF), com +42.9% em 24h, a 50k coins no PC.
+Javier Zanetti (89, Icons), com +43.2% em 24h, a 117k coins no PC.
 
 **E a maior queda do dia?**
-Santiago Hidalgo (84), -20.2% em 24h, a 44k coins.
+Lionel Messi (87), -40.9% em 24h, a 42k coins.
 
 **Como está o mercado do EA FC hoje?**
-Hoje o mercado está em alta — predominam as valorizações, com 19 cartas em alta contra 18 em queda (média 3.36%).
+Hoje o mercado está lateral — sem direção clara, com 18 cartas em alta contra 23 em queda (média -1.48%).
 
 **De onde vêm os preços do FutQuant?**
 Sim — preços reais do mercado, atualizados várias vezes ao dia e filtrados contra anomalias. As previsões são probabilísticas e servem de apoio, não garantia.
