@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:48:13.000Z
+pubDatetime: 2026-08-03T13:48:11.000Z
 title: "Jogadores baratos EA FC: Argentinos em 03/08 — Console (PS)"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 10 opções:** 9.860 coins.
-- **Posição mais frequente:** CM, com 3 cartas.
-- **Faixa real:** 1.600 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 10.071 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 2.000 a 12.250 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,13 +43,10 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Pablo Aimar | 91 | CAM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Julián Alvarez | 89 | ST | LALIGA EA SPORTS | 13.000 coins | 0% |
+| Julián Alvarez | 89 | ST | LALIGA EA SPORTS | 11.250 coins | -13.5% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Diego Milito | 88 | ST | Serie A TIM | 12.250 coins | +11.4% |
-| Valentín Barco | 88 | CM | Ligue 1 McDonald's | 14.000 coins | -1.6% |
-| Alexis Mac Allister | 87 | CM | Premier League | 2.000 coins | +15.8% |
-| Esteban Cambiasso | 86 | CDM | Serie A TIM | 10.750 coins | -5.9% |
-| Emiliano Martínez | 85 | GK | Premier League | 1.600 coins | +30.8% |
+| Diego Milito | 88 | ST | Serie A TIM | 12.250 coins | 0% |
+| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 2.000 coins | +35% |
 
 
 ## 📈 Destaques
@@ -60,18 +57,16 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins**
 
-- **Julián Alvarez (89, ST)** da LALIGA EA SPORTS, a apenas **13.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
+- **Julián Alvarez (89, ST)** da LALIGA EA SPORTS, a apenas **11.250 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
 - **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **11.000 coins**
 
 
 ## Como distribuir a banca
 
-- **Defesa:** Emiliano Martínez (85, GK) por 1.600 coins é a referência de rating deste recorte.
-
 - **Meio:** Pablo Aimar (91, CAM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Julián Alvarez (89, ST) por 13.000 coins é a referência de rating deste recorte.
+- **Ataque:** Julián Alvarez (89, ST) por 11.250 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
