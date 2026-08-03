@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T10:21:39.000Z
+pubDatetime: 2026-08-03T10:48:21.000Z
 title: "Investimentos EA FC: Argentinos em 03/08 — PC"
 draft: false
 featured: true
@@ -13,7 +13,7 @@ tags:
 description: "Cartas 84+ em alta nas últimas 24h e 7 dias em 03/08/2026 no PC. Veja preço, risco de entrada e leitura de momentum; o modelo só aparece quando recente."
 faq:
   - q: "Qual a melhor carta para investir hoje (03/08/2026) no EA FC?"
-    a: "Hernán Crespo (88, Icons) lidera, com +63.3% em 7 dias a 20k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
+    a: "Gerónimo Rulli (87, Ligue 1 McDonald's) lidera, com +56.2% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra."
   - q: "Investir em FUT dá lucro garantido?"
     a: "Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia."
   - q: "Com que frequência a lista de investimentos atualiza?"
@@ -24,7 +24,7 @@ faq:
 
 Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **24 horas** e também em **7 dias**. Isso identifica momentum, não lucro garantido. Previsões do modelo só entram na análise individual quando têm até 72 horas, confiança suficiente e valores válidos.
 
-> 🔝 **Destaque:** Hernán Crespo (88) acumula **+63.3% em 7 dias** a 20k coins; leitura atual: **esticada**.
+> 🔝 **Destaque:** Gerónimo Rulli (87) acumula **+56.2% em 7 dias** a 43k coins; leitura atual: **esticada**.
 
 ![Gráfico de variação em 7 dias para os destaques de Investimentos EA FC: Argentinos em 03/08 — PC](/charts/melhores-investimentos-ea-fc-2026-08-03-pc.svg)
 
@@ -33,9 +33,9 @@ Esta lista de **03/08/2026** no **PC** cruza duas janelas observadas: alta em **
 
 ## O que os números desta lista mostram
 
-- A mediana é de **+27.6% em 24h** e **+44.8% em 7 dias**.
-- **4 de 6 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
-- **LALIGA EA SPORTS** concentra 3 nomes, um sinal útil para avaliar liquidez e links de elenco.
+- A mediana é de **+29.6% em 24h** e **+41.9% em 7 dias**.
+- **3 de 4 cartas** estão esticadas pelo critério deste radar; nelas, o risco de comprar no topo é maior.
+- **LALIGA EA SPORTS** concentra 2 nomes, um sinal útil para avaliar liquidez e links de elenco.
 
 ## 💎 Cartas em tendência de alta (84+)
 
@@ -43,25 +43,21 @@ Ordenadas pela valorização de 7 dias; a coluna *Leitura* sinaliza o risco de p
 
 | Jogador | OVR | Liga | Preço | 24h | 7d | Leitura |
 | --- | --- | --- | --- | --- | --- | --- |
-| Hernán Crespo | 88 | Icons | 20k coins | +28.9% | +63.3% | Esticada |
-| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 44k coins | +38.8% | +59.8% | Esticada |
-| Gabriel Batistuta | 89 | Icons | 100k coins | +33.8% | +51.1% | Esticada |
+| Gerónimo Rulli | 87 | Ligue 1 McDonald's | 43k coins | +35.7% | +56.2% | Esticada |
+| Gabriel Batistuta | 89 | Icons | 98k coins | +32.9% | +45.3% | Esticada |
 | Pablo Aimar | 88 | LALIGA EA SPORTS | 18.000 coins | +26.3% | +38.5% | Esticada |
-| Nico Gonzalez | 87 | LALIGA EA SPORTS | 56k coins | +3.5% | +36.8% | Momentum moderado |
-| Julián Alvarez | 88 | LALIGA EA SPORTS | 130k coins | +8.4% | +35.8% | Momentum moderado |
+| Julián Alvarez | 88 | LALIGA EA SPORTS | 130k coins | +18.3% | +35.1% | Momentum moderado |
 
 
 ## 📈 Análise dos destaques
 
-- **Hernán Crespo (88)** — 20k coins, **+63.3% em 7 dias** (+28.9% em 24h). Preço -19% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gerónimo Rulli (87)** — 43k coins, **+56.2% em 7 dias** (+35.7% em 24h). Preço +21% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Gerónimo Rulli (87)** — 44k coins, **+59.8% em 7 dias** (+38.8% em 24h). Preço +24% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
-
-- **Gabriel Batistuta (89)** — 100k coins, **+51.1% em 7 dias** (+33.8% em 24h). Preço +28% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Gabriel Batistuta (89)** — 98k coins, **+45.3% em 7 dias** (+32.9% em 24h). Preço +25% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 - **Pablo Aimar (88)** — 18.000 coins, **+38.5% em 7 dias** (+26.3% em 24h). Preço -27% abaixo da média de 7 dias (descontada). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
-- **Nico Gonzalez (87)** — 56k coins, **+36.8% em 7 dias** (+3.5% em 24h). Preço em linha com a média de 7 dias (+5%). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
+- **Julián Alvarez (88)** — 130k coins, **+35.1% em 7 dias** (+18.3% em 24h). Preço +22% acima da média de 7 dias (aquecida). Sem previsão recente válida; acompanhe preço e liquidez para escolher a entrada.
 
 
 ## Como usar esta lista
@@ -79,7 +75,7 @@ Cada preço aqui é tratado: partimos de **centenas de milhões de cotações** 
 ## ❓ Perguntas frequentes
 
 **Qual a melhor carta para investir hoje (03/08/2026) no EA FC?**  
-Hernán Crespo (88, Icons) lidera, com +63.3% em 7 dias a 20k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
+Gerónimo Rulli (87, Ligue 1 McDonald's) lidera, com +56.2% em 7 dias a 43k coins no PC. A lista mede momentum e deve ser confirmada com uma cotação atual antes da compra.
 
 **Investir em FUT dá lucro garantido?**  
 Não. São probabilidades baseadas em dados históricos; o mercado pode mudar com promoções e lançamentos. Use como apoio à decisão, não como garantia.
