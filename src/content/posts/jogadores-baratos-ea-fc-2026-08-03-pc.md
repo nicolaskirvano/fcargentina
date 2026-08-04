@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-03T22:48:20.000Z
+pubDatetime: 2026-08-04T01:48:19.000Z
 title: "Jogadores baratos EA FC: Argentinos em 03/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 8.409 coins.
-- **Posição mais frequente:** CAM, com 4 cartas.
-- **Faixa real:** 1.500 a 14.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 11 opções:** 8.709 coins.
+- **Posição mais frequente:** ST, com 4 cartas.
+- **Faixa real:** 3.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -43,14 +43,14 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | Javier Zanetti | 91 | RB | Icons | 11.500 coins | -9.8% |
 | Pablo Aimar | 91 | CAM | LALIGA EA SPORTS | 11.500 coins | 0% |
 | Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
+| Lautaro Martínez | 89 | ST | Serie A Enilive | 3.400 coins | 0% |
 | Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Lionel Messi | 88 | RW | MLS | 3.400 coins | -12.5% |
+| Lionel Messi | 88 | RW | MLS | 3.900 coins | -10.5% |
 | Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Paulo Dybala | 87 | CAM | Serie A Enilive | 1.500 coins | +13.3% |
 | Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14.000 coins | 0% |
-| Alexis Mac Allister | 86 | CM | Premier League | 2.600 coins | +16.7% |
-| Julián Álvarez | 84 | ST | LALIGA EA SPORTS | 3.500 coins | -11.4% |
+| Alexis Mac Allister | 86 | CM | Premier League | 3.000 coins | +8.3% |
+| Julián Álvarez | 84 | ST | LALIGA EA SPORTS | 4.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -61,9 +61,9 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Nico Paz (90, CAM)** da Serie A TIM, a apenas **11.250 coins**
 
-- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins**
+- **Lautaro Martínez (89, ST)** da Serie A Enilive, a apenas **3.400 coins** — já **valorizando**, sinal de procura crescente.
 
-- **Lionel Messi (88, RW)** da MLS, a apenas **3.400 coins**
+- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins**
 
 
 ## Como distribuir a banca
@@ -72,7 +72,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Pablo Aimar (91, CAM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Lionel Messi (88, RW) por 3.400 coins é a referência de rating deste recorte.
+- **Ataque:** Lautaro Martínez (89, ST) por 3.400 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
