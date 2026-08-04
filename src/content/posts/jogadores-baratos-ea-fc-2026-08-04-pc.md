@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-04T10:37:38.000Z
+pubDatetime: 2026-08-04T13:48:20.000Z
 title: "Jogadores baratos EA FC: Argentinos em 04/08 — PC"
 draft: false
 featured: false
@@ -30,9 +30,9 @@ Dá para montar um time forte no **EA FC Ultimate Team** sem torrar coins. O **F
 
 ## Retrato do recorte de hoje
 
-- **Preço médio das 11 opções:** 8.991 coins.
-- **Posição mais frequente:** CAM, com 3 cartas.
-- **Faixa real:** 1.500 a 13.000 coins; nenhuma carta custa 15 mil.
+- **Preço médio das 7 opções:** 9.300 coins.
+- **Posição mais frequente:** CAM, com 2 cartas.
+- **Faixa real:** 3.000 a 14.000 coins; nenhuma carta custa 15 mil.
 
 ## 💎 Joias baratas (83+, abaixo de 15k)
 
@@ -42,15 +42,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 | --- | --- | --- | --- | --- | --- |
 | Javier Zanetti | 91 | RB | Icons | 11.500 coins | 0% |
 | Pablo Aimar | 91 | CAM | LALIGA EA SPORTS | 11.500 coins | 0% |
-| Nico Paz | 90 | CAM | Serie A TIM | 11.250 coins | 0% |
-| Alexis Mac Allister | 89 | CM | Premier League | 11.250 coins | 0% |
-| Lautaro Martínez | 88 | ST | Serie A Enilive | 2.500 coins | +11.5% |
-| Diego Milito | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Lionel Messi | 88 | RW | MLS | 11.000 coins | -2.2% |
+| Lionel Messi | 88 | RW | MLS | 11.000 coins | 0% |
 | Paulo Dybala | 88 | ST | Serie A TIM | 11.000 coins | 0% |
-| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 13.000 coins | 0% |
-| Lionel Messi | 86 | RW | MLS | 3.400 coins | -13.6% |
-| Emiliano Martínez | 85 | GK | Premier League | 1.500 coins | -6.2% |
+| Alexis Mac Allister | 87 | CM | Premier League | 3.000 coins | 0% |
+| Julián Alvarez | 87 | ST | LALIGA EA SPORTS | 3.100 coins | +60% |
+| Pablo Aimar | 87 | CAM | LALIGA EA SPORTS | 14.000 coins | 0% |
 
 
 ## 📈 Destaques
@@ -59,11 +55,11 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Pablo Aimar (91, CAM)** da LALIGA EA SPORTS, a apenas **11.500 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Nico Paz (90, CAM)** da Serie A TIM, a apenas **11.250 coins**
+- **Lionel Messi (88, RW)** da MLS, a apenas **11.000 coins** — vem **caindo na semana**, pode ser ponto de entrada barato.
 
-- **Alexis Mac Allister (89, CM)** da Premier League, a apenas **11.250 coins**
+- **Paulo Dybala (88, ST)** da Serie A TIM, a apenas **11.000 coins**
 
-- **Lautaro Martínez (88, ST)** da Serie A Enilive, a apenas **2.500 coins** — já **valorizando**, sinal de procura crescente.
+- **Alexis Mac Allister (87, CM)** da Premier League, a apenas **3.000 coins** — já **valorizando**, sinal de procura crescente.
 
 
 ## Como distribuir a banca
@@ -72,7 +68,7 @@ Ordenadas por rating e preço; *24h* ajuda a evitar uma entrada logo após uma a
 
 - **Meio:** Pablo Aimar (91, CAM) por 11.500 coins é a referência de rating deste recorte.
 
-- **Ataque:** Lautaro Martínez (88, ST) por 2.500 coins é a referência de rating deste recorte.
+- **Ataque:** Lionel Messi (88, RW) por 11.000 coins é a referência de rating deste recorte.
 
 - Reserve parte das coins para química e substituições; uma lista de preços não substitui o encaixe no seu time.
 
