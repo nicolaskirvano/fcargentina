@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-06T16:48:18.000Z
+pubDatetime: 2026-08-06T19:48:21.000Z
 title: "Mercado EA FC em 06/08: Argentinos — PC"
 draft: false
 featured: true
