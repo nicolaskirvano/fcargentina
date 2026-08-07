@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-07T10:23:44.000Z
+pubDatetime: 2026-08-07T10:48:19.000Z
 title: "Jogadores baratos EA FC: Argentinos em 07/08 — PC"
 draft: false
 featured: false
