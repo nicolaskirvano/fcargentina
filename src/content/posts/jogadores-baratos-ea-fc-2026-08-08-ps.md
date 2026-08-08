@@ -1,6 +1,6 @@
 ---
 author: "FutQuant"
-pubDatetime: 2026-08-08T13:48:12.000Z
+pubDatetime: 2026-08-08T16:48:12.000Z
 title: "Jogadores baratos EA FC: Argentinos em 08/08 — Console (PS)"
 draft: false
 featured: false
